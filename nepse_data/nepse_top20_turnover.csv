@@ -1,0 +1,21 @@
+trading_day,rank,symbol,security_name,security_id,closing_price,turnover_npr
+2026-08-21,20,BHCL,Bikash Hydropower Company Limited,9267,541.0,43054335.9
+2026-08-21,19,LEC,Liberty Energy Company Limited,2903,217.3,43356890.4
+2026-08-21,18,HPPL,Himalayan Power Partner Ltd.,2767,380.0,43765211.5
+2026-08-21,17,NGPL,Ngadi Group Power Ltd.,2743,407.0,46755617.8
+2026-08-21,16,SBL,Siddhartha Bank Limited,145,414.0,47773206.2
+2026-08-21,15,KKHC,Khanikhola Hydropower Co. Ltd.,2751,269.9,49383659.0
+2026-08-21,14,UHEWA,Upper Hewakhola Hydropower Company Limited,8099,607.3,53045702.1
+2026-08-21,13,NHPC,National Hydro Power Company Limited,152,265.8,53808051.8
+2026-08-21,12,BPCL,Butwal Power Company Limited,153,660.0,56666385.9
+2026-08-21,11,SMHL,Super Madi Hydropower Limited,9146,517.0,87836648.1
+2026-08-21,10,NRN,NRN Infrastructure and Development Limited,2898,1375.0,90172031.9
+2026-08-21,9,MEPDL,Mount Everest Power Development Limited,9352,774.0,102270420.0
+2026-08-21,8,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,348.9,106777890.9
+2026-08-21,7,SAHAS,Sahas Urja Limited,8021,695.0,113915780.7
+2026-08-21,6,MEN,Mountain Energy Nepal Limited,2913,626.3,114645013.1
+2026-08-21,5,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,484.7,130533921.7
+2026-08-21,4,SHPC,Sanima Mai Hydropower Ltd.,591,527.2,184144159.5
+2026-08-21,3,RIDI,Ridi Power Company Limited,610,359.9,186768012.2
+2026-08-21,2,SOHL,Solu Hydropower Limited,9311,686.0,245369420.7
+2026-08-21,1,RSML,Reliance Spinning Mills Limited,9306,2775.0,263730636.8
