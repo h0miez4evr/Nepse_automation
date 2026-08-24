@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-08-24,20,GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,583,679.5,679.5,1.27,8.5,1.36,-0.09
+2026-08-24,19,BNT,Bottlers Nepal (Terai) Limited,213,11900.0,11900.0,1.28,150.0,1.36,-0.08
+2026-08-24,18,UNL,Unilever Nepal Limited,219,47200.0,47200.0,1.29,600.0,1.36,-0.07
+2026-08-24,17,NCCD86,9.5% NCC Debenture 2086,2936,1118.0,1118.0,1.44,15.9,1.36,0.08
+2026-08-24,16,NIBLSTF,NIBL Stable Fund,9244,8.47,8.47,1.68,0.14,1.36,0.32
+2026-08-24,15,SWASTIK,Swastik Laghubitta Bittiya Sanstha Limited,9295,1987.0,1987.0,1.82,35.6,1.36,0.46
+2026-08-24,14,SHINED,Shine Resunga Debenture,9286,1116.0,1116.0,1.92,21.0,1.36,0.56
+2026-08-24,13,SHL,Soaltee Hotel Limited,147,509.9,509.9,1.94,9.7,1.36,0.58
+2026-08-24,12,ALBSL,Asha Laghubitta Bittiya Sanstha Ltd,2807,1100.0,1100.0,1.95,21.0,1.36,0.59
+2026-08-24,11,NICFC,NIC Asia Flexi CAP Fund,8073,9.2,9.2,2.34,0.21,1.36,0.98
+2026-08-24,10,NBF2,NABIL BALANCED FUND-2,2835,10.09,10.09,2.44,0.24,1.36,1.08
+2026-08-24,9,CSY,Citizens Santulit Yojana,9304,9.01,9.01,2.85,0.25,1.36,1.49
+2026-08-24,8,KBLD86,10.25% KBL Debenture 2086,2885,1112.0,1112.0,2.96,32.0,1.36,1.6
+2026-08-24,7,EBLD91,Everest Bank Limited Debenture 2091,9255,1102.0,1102.0,3.28,35.0,1.36,1.92
+2026-08-24,6,KKHC,Khanikhola Hydropower Co. Ltd.,2751,278.9,278.9,3.33,9.0,1.36,1.97
+2026-08-24,5,HATHY,Hathway Investment Nepal Limited,9213,630.3,630.3,3.33,20.3,1.36,1.97
+2026-08-24,4,SPHL,Sayapatri Hydropower Limited,8121,561.0,561.0,6.27,33.1,1.36,4.91
+2026-08-24,3,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,8065,1600.0,1600.0,9.14,134.0,1.36,7.78
+2026-08-24,2,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1150.0,1150.0,11.98,123.0,1.36,10.62
+2026-08-24,1,SAPIL,Sarvottam Paints Industries Limited,9353,917.2,917.2,14.99,119.6,1.36,13.63
 2026-08-21,20,MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,8031,267.4,267.4,1.29,3.4,1.15,0.14
 2026-08-21,19,PHCL,Peoples Hydropower Company Limited,8133,306.9,306.9,1.29,3.9,1.15,0.14
 2026-08-21,18,GBBD85,"Garima Debenture, 2085",8033,1077.8,1077.8,1.3,13.8,1.15,0.15

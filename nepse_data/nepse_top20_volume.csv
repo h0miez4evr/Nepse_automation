@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-08-24,20,SHPC,Sanima Mai Hydropower Ltd.,591,514.2,101396
+2026-08-24,19,NGPL,Ngadi Group Power Ltd.,2743,403.2,105732
+2026-08-24,18,NHPC,National Hydro Power Company Limited,152,261.6,108683
+2026-08-24,17,NIMB,Nepal Investment Mega Bank Limited,132,186.0,117401
+2026-08-24,16,KBL,Kumari Bank Limited,142,213.9,123980
+2026-08-24,15,EDBL,Excel Development Bank Ltd.,274,583.0,129582
+2026-08-24,14,GHL,Ghalemdi Hydro Limited,2806,228.0,135966
+2026-08-24,13,API,Api Power Company Ltd.,697,331.0,137437
+2026-08-24,12,BHL,Balephi Hydropower Limited,8055,205.0,142617
+2026-08-24,11,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,478.0,143846
+2026-08-24,10,SAHAS,Sahas Urja Limited,8021,684.0,154981
+2026-08-24,9,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,346.0,156596
+2026-08-24,8,LEC,Liberty Energy Company Limited,2903,213.9,167696
+2026-08-24,7,KKHC,Khanikhola Hydropower Co. Ltd.,2751,278.9,168038
+2026-08-24,6,SOHL,Solu Hydropower Limited,9311,678.9,175007
+2026-08-24,5,PRSF,Prabhu Smart Fund,9174,12.73,205100
+2026-08-24,4,PSF,Prabhu Select Fund,4947,12.03,243798
+2026-08-24,3,RSY2,Reliable Samriddhi Yojana -2,9351,8.96,254600
+2026-08-24,2,RBBF40,RBB Focus 40,9302,9.0,259800
+2026-08-24,1,RIDI,Ridi Power Company Limited,610,357.0,262744
 2026-08-21,20,GHL,Ghalemdi Hydro Limited,2806,231.0,123745
 2026-08-21,19,API,Api Power Company Ltd.,697,335.0,127525
 2026-08-21,18,MEPDL,Mount Everest Power Development Limited,9352,774.0,130560

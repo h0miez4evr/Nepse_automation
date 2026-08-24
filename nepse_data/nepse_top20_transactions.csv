@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-08-24,20,RSML,Reliance Spinning Mills Limited,9306,2728.0,417
+2026-08-24,19,API,Api Power Company Ltd.,697,331.0,421
+2026-08-24,18,BHL,Balephi Hydropower Limited,8055,205.0,435
+2026-08-24,17,EBL,Everest Bank Limited,137,726.1,469
+2026-08-24,16,SYPNL,SY Panel Nepal Limited,9303,1244.0,473
+2026-08-24,15,KKHC,Khanikhola Hydropower Co. Ltd.,2751,278.9,490
+2026-08-24,14,CORBL,Corporate Development Bank Limited,450,942.0,506
+2026-08-24,13,RIDI,Ridi Power Company Limited,610,357.0,522
+2026-08-24,12,HBL,Himalayan Bank Limited,134,189.8,554
+2026-08-24,11,HRL,Himalayan Reinsurance Limited,9234,561.0,581
+2026-08-24,10,YMHL,Yambaling Hydropower Limited,9342,600.0,617
+2026-08-24,9,PCIL,Palpa Cement Industries Limited,9330,607.9,653
+2026-08-24,8,ECL,Everest Colour Limited,9347,1330.0,668
+2026-08-24,7,SOPL,Sopan Pharmaceuticals Limited,9336,754.1,726
+2026-08-24,6,SAHAS,Sahas Urja Limited,8021,684.0,799
+2026-08-24,5,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,530.0,853
+2026-08-24,4,KAHL,Kalanga Hydro Limited,9346,506.0,1306
+2026-08-24,3,SOHL,Solu Hydropower Limited,9311,678.9,1363
+2026-08-24,2,SGHL,Sanigad Hydro Limited,9345,511.0,2019
+2026-08-24,1,MEPDL,Mount Everest Power Development Limited,9352,713.9,7425
 2026-08-21,20,HFIN,Hotel Forest Inn Limited,9308,662.0,468
 2026-08-21,19,HBL,Himalayan Bank Limited,134,191.4,529
 2026-08-21,18,YMHL,Yambaling Hydropower Limited,9342,614.5,546
