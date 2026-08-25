@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-08-25,20,BHCL,Bikash Hydropower Company Limited,9267,553.0,553.0,1.99,10.8,1.29,0.7
+2026-08-25,19,GRDBL,Green Development Bank Ltd.,2744,999.9,999.9,2.07,20.3,1.29,0.78
+2026-08-25,18,RSY2,Reliable Samriddhi Yojana -2,9351,9.15,9.15,2.12,0.19,1.29,0.83
+2026-08-25,17,NSY,Nepal Life Samriddhi Lagani Yojana,9312,9.2,9.2,2.22,0.2,1.29,0.93
+2026-08-25,16,SMHL,Super Madi Hydropower Limited,9146,524.8,524.8,2.3,11.8,1.29,1.01
+2026-08-25,15,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,910.0,910.0,2.47,21.9,1.29,1.18
+2026-08-25,14,RBCL,Rastriya Beema Company Limited,177,14149.0,14149.0,2.51,346.0,1.29,1.22
+2026-08-25,13,NMBUR93/94,NMB Energy Bond 4% - 2093/94 ,8105,990.0,990.0,2.91,28.0,1.29,1.62
+2026-08-25,12,KSY,Kumari Sabal Yojana,9241,9.47,9.47,2.93,0.27,1.29,1.64
+2026-08-25,11,CIZBD90,10% Citizens Bank Debenture 2090,9231,1261.0,1261.0,2.94,36.0,1.29,1.65
+2026-08-25,10,KEF,Kumari Equity Fund,2933,10.0,10.0,3.09,0.3,1.29,1.8
+2026-08-25,9,SNORL,Snow Rivers Limited,9344,910.0,910.0,3.17,28.0,1.29,1.88
+2026-08-25,8,RBBF40,RBB Focus 40,9302,9.3,9.3,3.33,0.3,1.29,2.04
+2026-08-25,7,SPHL,Sayapatri Hydropower Limited,8121,580.0,580.0,3.39,19.0,1.29,2.1
+2026-08-25,6,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,439.0,439.0,4.8,20.1,1.29,3.51
+2026-08-25,5,KHPL,Kalinchock Hydropower Limited,9334,778.0,778.0,5.56,41.0,1.29,4.27
+2026-08-25,4,ECL,Everest Colour Limited,9347,1406.0,1406.0,5.71,76.0,1.29,4.42
+2026-08-25,3,NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,2784,742.0,742.0,6.0,42.0,1.29,4.71
+2026-08-25,2,CREST,Crest Micro Life Insurance Limited,9252,1253.0,1253.0,14.95,163.0,1.29,13.66
+2026-08-25,1,SAPIL,Sarvottam Paints Industries Limited,9353,1054.7,1054.7,14.99,137.5,1.29,13.7
 2026-08-24,20,GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,583,679.5,679.5,1.27,8.5,1.36,-0.09
 2026-08-24,19,BNT,Bottlers Nepal (Terai) Limited,213,11900.0,11900.0,1.28,150.0,1.36,-0.08
 2026-08-24,18,UNL,Unilever Nepal Limited,219,47200.0,47200.0,1.29,600.0,1.36,-0.07

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-08-25,20,API,Api Power Company Ltd.,697,329.8,95180
+2026-08-25,19,HPPL,Himalayan Power Partner Ltd.,2767,378.0,100522
+2026-08-25,18,CGH,Chandragiri Hills Limited,2917,775.0,100526
+2026-08-25,17,PRVU,Prabhu  Bank Limited,255,180.7,104845
+2026-08-25,16,LEC,Liberty Energy Company Limited,2903,212.9,115597
+2026-08-25,15,GBIME,Global IME Bank Limited,341,244.8,118818
+2026-08-25,14,RBBF40,RBB Focus 40,9302,9.3,123752
+2026-08-25,13,NGPL,Ngadi Group Power Ltd.,2743,404.0,125020
+2026-08-25,12,NHPC,National Hydro Power Company Limited,152,258.8,127057
+2026-08-25,11,H8020,Himalayan 80-20,9221,12.19,133620
+2026-08-25,10,PRSF,Prabhu Smart Fund,9174,12.75,142750
+2026-08-25,9,KBL,Kumari Bank Limited,142,214.0,143906
+2026-08-25,8,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,480.4,161614
+2026-08-25,7,BHL,Balephi Hydropower Limited,8055,204.0,169712
+2026-08-25,6,SANIMA,Sanima Bank Limited,171,370.7,200121
+2026-08-25,5,SOHL,Solu Hydropower Limited,9311,679.0,202485
+2026-08-25,4,SMHL,Super Madi Hydropower Limited,9146,524.8,246169
+2026-08-25,3,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,347.1,280618
+2026-08-25,2,RIDI,Ridi Power Company Limited,610,351.9,344936
+2026-08-25,1,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,439.0,2212363
 2026-08-24,20,SHPC,Sanima Mai Hydropower Ltd.,591,514.2,101396
 2026-08-24,19,NGPL,Ngadi Group Power Ltd.,2743,403.2,105732
 2026-08-24,18,NHPC,National Hydro Power Company Limited,152,261.6,108683
