@@ -46,7 +46,7 @@ class MomentumPersistence(StrategyEngine):
         if not all_pct_changes:
             return 0
 
-        # Score components
+        
         frequency = (gainer_days / len(recent)) * 30  # 0-30
         avg_change = statistics.mean(all_pct_changes)
         consistency_bonus = min(avg_change * 3, 30)  # 0-30
@@ -82,7 +82,7 @@ class RelativeStrengthStrategy(StrategyEngine):
         avg_rs = statistics.mean(rs_scores)
         rs_magnitude = min((avg_rs / 100) * 35, 35)  # 0-35
 
-        # Improving RS
+        
         if len(rs_scores) >= 3:
             recent_avg = statistics.mean(rs_scores[-3:])
             older_avg = statistics.mean(rs_scores[:3]) if len(rs_scores) > 3 else rs_scores[0]
@@ -133,7 +133,7 @@ class SmartMoneyAccumulation(StrategyEngine):
         else:
             accumulation_score = 5
 
-        # Volume consistency
+        
         consistency = 15 if turnover_days >= 4 else (10 if turnover_days >= 2 else 0)
 
         return min(frequency + turnover_score + accumulation_score + consistency, 100)
@@ -194,7 +194,7 @@ class BreakoutConfirmation(StrategyEngine):
         if not records:
             return 0
 
-        # Near highs
+        
         latest = records[-1]
         all_highs = [r.high for r in records if r.high > 0]
         if all_highs:
@@ -205,7 +205,7 @@ class BreakoutConfirmation(StrategyEngine):
 
         high_score = min(((near_high - 80) / 20) * 30, 30) if near_high > 80 else 0
 
-        # Volume surge
+        
         if len(volumes) >= 2:
             avg_vol = statistics.mean(volumes[:-1])
             latest_vol = volumes[-1]
@@ -214,11 +214,11 @@ class BreakoutConfirmation(StrategyEngine):
         else:
             vol_score = 10
 
-        # Positive momentum
+        
         pct = latest.percent_change
         momentum_score = min(max(pct, 0) * 3, 25)
 
-        # Price above open (bullish)
+        
         bullish_candle = 15 if latest.ltp > latest.open else 0
 
         return min(max(high_score, 0) + vol_score + momentum_score + bullish_candle, 100)
@@ -248,17 +248,17 @@ class VolumeFromList(StrategyEngine):
         if not vol_values:
             return 0
 
-        # Frequency in volume list
+        
         frequency = (vol_days / len(recent)) * 30  # 0-30
 
-        # Volume magnitude
+        
         avg_vol = statistics.mean(vol_values)
         vol_magnitude = min((avg_vol / 200000) * 25, 30)  # 0-30
 
-        # Consistency
+       
         consistency = min(vol_days * 8, 25)  # 0-25
 
-        # Recent appearance bonus
+     
         last_day_vol = getattr(recent[-1], 'volume_leaders', [])
         recent_bonus = 15 if any(r.symbol == symbol for r in last_day_vol) else 0
 
@@ -283,22 +283,22 @@ class TransactionMomentum(StrategyEngine):
             for rec in txn_list:
                 if rec.symbol == symbol:
                     txn_days += 1
-                    txn_values.append(rec.volume)  # volume field stores total_trades
+                    txn_values.append(rec.volume)  
 
         if not txn_values:
             return 0
 
-        # Frequency in transactions list
+        
         frequency = (txn_days / len(recent)) * 30  # 0-30
 
-        # Transaction count magnitude
+     
         avg_txn = statistics.mean(txn_values)
         txn_magnitude = min((avg_txn / 1000) * 25, 30)  # 0-30
 
-        # Consistency
+        
         consistency = min(txn_days * 8, 25)  # 0-25
 
-        # Recent appearance bonus
+        
         last_day_txn = getattr(recent[-1], 'transaction_leaders', [])
         recent_bonus = 15 if any(r.symbol == symbol for r in last_day_txn) else 0
 
@@ -337,7 +337,7 @@ class VolumeSurge(StrategyEngine):
 
         vol_ratio = latest_vol / avg_vol
 
-        # Volume surge score
+        
         if vol_ratio >= 3:
             surge_score = 40
         elif vol_ratio >= 2:
@@ -347,10 +347,10 @@ class VolumeSurge(StrategyEngine):
         else:
             surge_score = max(vol_ratio * 10, 0)
 
-        # Price action with volume
+        
         price_action = min(max(latest_pct, 0) * 4, 30)
 
-        # Frequency of high volume days
+        
         high_vol_days = sum(1 for v in all_volumes if v > avg_vol * 1.3)
         consistency = min(high_vol_days * 5, 30)
 
@@ -381,10 +381,10 @@ class ConfluenceAllLists(StrategyEngine):
         if multi_list_days == 0:
             return 0
 
-        # Frequency across days
+        
         frequency = min(multi_list_days * 12, 35)  # 0-35
 
-        # Max confluence intensity
+        
         if max_confluence_per_day >= 5:
             intensity = 35
         elif max_confluence_per_day >= 4:
@@ -396,7 +396,7 @@ class ConfluenceAllLists(StrategyEngine):
         else:
             intensity = 0
 
-        # Consistency
+        
         consistency = min(multi_list_days * 8, 30)  # 0-30
 
         return min(frequency + intensity + consistency, 100)
@@ -424,14 +424,14 @@ class RiskRewardQuality(StrategyEngine):
 
         latest = records[-1]
 
-        # Close near high (bullish candle)
+        
         if latest.high > 0:
             close_to_high = ((latest.ltp - latest.low) / (latest.high - latest.low)) * 100 if latest.high != latest.low else 50
         else:
             close_to_high = 50
         candle_score = min(close_to_high / 4, 25)
 
-        # Not overextended (2-6% daily move is ideal)
+        
         pct = abs(latest.percent_change)
         if 2 <= pct <= 6:
             extension_score = 25
@@ -440,7 +440,7 @@ class RiskRewardQuality(StrategyEngine):
         else:
             extension_score = max(25 - (pct - 6) * 3, 5)
 
-        # Consistent range (not wild swings)
+        
         if len(records) >= 3:
             ranges = [(r.high - r.low) / max(r.ltp, 1) * 100 for r in records[-3:] if r.ltp > 0]
             avg_range = statistics.mean(ranges) if ranges else 10
@@ -448,7 +448,7 @@ class RiskRewardQuality(StrategyEngine):
         else:
             range_score = 10
 
-        # Positive trend
+        
         if len(records) >= 2:
             trend = 25 if latest.ltp > records[-2].ltp else 0
         else:
@@ -457,7 +457,7 @@ class RiskRewardQuality(StrategyEngine):
         return min(candle_score + extension_score + range_score + trend, 100)
 
 
-# All available strategies
+
 ALL_STRATEGIES = [
     MomentumPersistence(lookback=10),
     RelativeStrengthStrategy(lookback=10),
