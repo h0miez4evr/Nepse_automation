@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-08-26,20,NSY,Nepal Life Samriddhi Lagani Yojana,9312,9.29,9.29,0.98,0.09,1.97,-0.99
+2026-08-26,19,SRBLD83,10.25% Sunrise Bank Debenture 2083,2878,1025.0,1025.0,0.99,10.0,1.97,-0.98
+2026-08-26,18,TRH,Taragaon Regency Hotel Limited,148,803.0,803.0,1.13,9.0,1.97,-0.84
+2026-08-26,17,RBBD2088,7% RBBL Debenture 2088,9264,1042.0,1042.0,1.17,12.0,1.97,-0.8
+2026-08-26,16,GCIL,Ghorahi Cement Industry Limited,9193,342.0,342.0,1.18,4.0,1.97,-0.79
+2026-08-26,15,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1430.0,1430.0,2.14,29.9,1.97,0.17
+2026-08-26,14,SEF,Siddhartha Equity Fund,2770,9.49,9.49,2.26,0.21,1.97,0.29
+2026-08-26,13,SHINED,Shine Resunga Debenture,9286,1125.0,1125.0,2.27,25.0,1.97,0.3
+2026-08-26,12,MFLD85,9.5% Manjushree Finance Limited Debenture 2085,2932,1105.0,1105.0,2.7,29.1,1.97,0.73
+2026-08-26,11,LUK,Laxmi Unnati Kosh,2902,9.83,9.83,2.93,0.28,1.97,0.96
+2026-08-26,10,MANDU,Mandu Hydropower Limited,9212,732.4,732.4,2.98,21.2,1.97,1.01
+2026-08-26,9,NICBF,NIC Asia Balanced Fund,2863,9.3,9.3,2.99,0.27,1.97,1.02
+2026-08-26,8,SPL,Shuvam Power Limited,9147,648.9,648.9,3.0,18.9,1.97,1.03
+2026-08-26,7,KHPL,Kalinchock Hydropower Limited,9334,803.0,803.0,3.21,25.0,1.97,1.24
+2026-08-26,6,ECL,Everest Colour Limited,9347,1465.0,1465.0,4.2,59.0,1.97,2.23
+2026-08-26,5,MMF1,Mega Mutual Fund -1,8023,9.07,9.07,4.25,0.37,1.97,2.28
+2026-08-26,4,NABILD2089,7% Nabil Debenture 2089,9299,1087.9,1087.9,5.62,57.9,1.97,3.65
+2026-08-26,3,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1129.8,1129.8,6.08,64.8,1.97,4.11
+2026-08-26,2,UHEWA,Upper Hewakhola Hydropower Company Limited,8099,667.0,667.0,10.43,63.0,1.97,8.46
+2026-08-26,1,SAPIL,Sarvottam Paints Industries Limited,9353,1212.9,1212.9,15.0,158.2,1.97,13.03
 2026-08-25,20,BHCL,Bikash Hydropower Company Limited,9267,553.0,553.0,1.99,10.8,1.29,0.7
 2026-08-25,19,GRDBL,Green Development Bank Ltd.,2744,999.9,999.9,2.07,20.3,1.29,0.78
 2026-08-25,18,RSY2,Reliable Samriddhi Yojana -2,9351,9.15,9.15,2.12,0.19,1.29,0.83
