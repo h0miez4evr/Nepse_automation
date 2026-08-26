@@ -146,3 +146,145 @@ This agent replicates the browser's JavaScript transformation logic in Python us
 ## License
 
 This project is for educational and research purposes. Use responsibly and respect NEPSE's terms of service.
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+# NEPSE AI Stock Selection Agent
+
+An AI-powered stock selection agent for the Nepal Stock Exchange (NEPSE) that identifies high-probability growth stocks using multiple proven trading strategies.
+
+## How It Works
+
+The agent analyzes daily NEPSE data (top 20 gainers, top 20 turnover, top 20 relative strength stocks) across multiple trading days and scores each stock using **7 strategy engines** based on strategies used by top profitable traders:
+
+| Strategy | Based On | What It Detects |
+|----------|----------|-----------------|
+| **Momentum Persistence** | Mark Minervini, Stan Weinstein | Stocks with consistent upward momentum over multiple days |
+| **Relative Strength** | William O'Neil (IBD) | Stocks outperforming the broader NEPSE index |
+| **Smart Money Accumulation** | Richard Wyckoff | Institutional buying patterns (high volume + stable price) |
+| **Confluence Scoring** | Experienced NEPSE traders | Stocks appearing in multiple top lists simultaneously |
+| **Breakout Confirmation** | Nicolas Darvas, Minervini | Stocks breaking above resistance with volume |
+| **Volume Surge** | General TA | Unusual volume spikes indicating institutional interest |
+| **Risk-Reward Quality** | General TA | Stocks with favorable risk/reward setups |
+
+Each stock receives a **composite score (0-100)** and a **conviction level**:
+- **HIGH** - Strong agreement across 4+ strategies (score ≥ 70)
+- **STRONG** - Good agreement across 3+ strategies (score ≥ 55)
+-**MODERATE** - Decent signal from 2+ strategies (score ≥ 40)
+- **WATCH** - Some positive signals (score ≥ 25)
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+### With your own data
+```bash
+# Point to your nepse_data directory
+python -m nepse_selection_agent.agent ./nepse_data
+
+# Show top 10 only, compact format
+python -m nepse_selection_agent.agent ./nepse_data --top 10 --compact
+
+# JSON output for further processing
+python -m nepse_selection_agent.agent ./nepse_data --json
+```
+
+### With sample data (demo mode)
+```bash
+# Automatically uses realistic sample data
+python -m nepse_selection_agent.agent
+```
+
+## Daily Automated Updates (GitHub Actions)
+
+This project includes a **GitHub Actions workflow** that automatically:
+1. Runs every trading day (Monday–Friday at 5:30 PM NPT, after market close)
+2. Fetches the latest CSV data from `h0miez4evr/Nepse_automation.`
+3. Runs the AI scoring engine
+4. Updates `possibleStocks.csv` with fresh picks
+5. Commits the changes back to the repository
+
+### How it works
+
+The workflow lives in `.github/workflows/daily_update.yml` and uses `run_daily.py` as its entry point.
+
+### Manual trigger
+
+You can also trigger the workflow manually from the **Actions** tab in your GitHub repo, or run it locally:
+
+```bash
+# Full run (fetches data, scores, and updates possibleStocks.csv)
+python run_daily.py
+
+# Preview without writing the CSV
+python run_daily.py --dry-run
+
+# Export top 30 stocks instead of default 50
+python run_daily.py --top 30
+
+# Quiet mode (suppress terminal output)
+python run_daily.py --quiet
+```
+
+### Local daily cron (alternative to GitHub Actions)
+
+If you prefer running locally instead of GitHub Actions, add a cron job:
+
+```bash
+# Run every weekday at 5:30 PM NPT
+30 17 * * 1-5 cd /path/to/Nepse_automation && /usr/bin/python3 run_daily.py --quiet >> /var/log/nepse_daily.log 2>&1
+```
+
+## Data Format
+
+The agent expects CSV files in the `nepse_data/` directory organized as:
+
+```
+nepse_data/
+├── 2025-01-13/
+│   ├── top_gainers.csv
+│   ├── top_turnover.csv
+│   └── top_relative_strength.csv
+├── 2025-01-14/
+│   ├── top_gainers.csv
+│   ├── top_turnover.csv
+│   └── top_relative_strength.csv
+└── ...
+```
+
+### CSV Column Requirements
+- **Required**: `symbol` (or `stock`, `name`, `code`)
+- **Optional**: `ltp`, `change`, `percent_change` (or `change%`, `%chg`), `volume`, `turnover`, `high`, `low`, `open`, `prev_close`, `rs_score` (or `rs`, `relative strength`)
+
+The agent auto-detects column names and file types from filenames/content.
+
+## Python API
+
+```python
+from nepse_selection_agent.data_loader import load_all_data
+from nepse_selection_agent.scorer import AIScorer
+
+# Load data
+daily_data = load_all_data("./nepse_data")
+
+# Score stocks
+scorer = AIScorer()
+scores = scorer.score_all(daily_data)
+
+# Get top picks
+for score in scores[:10]:
+    print(f"{score.symbol}: {score.composite_score:.1f} [{score.conviction}]")
+```
+
+## Disclaimer
+This is an AI-powered analysis tool for educational and research purposes.
+Always do your own research (DYOR) before making investment decisions.
+Past performance does not guarantee future results.
