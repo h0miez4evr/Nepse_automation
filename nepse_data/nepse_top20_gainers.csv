@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-08-31,20,GBILD84/85,"Global IME Bank Debenture, 2084/85",9168,1150.0,1150.0,20.0,1.77
+2026-08-31,19,RSY,Reliable Samriddhi Yojana,9259,9.61,9.61,0.17,1.8
+2026-08-31,18,SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,2842,231.1,231.1,4.1,1.81
+2026-08-31,17,C30MF,Citizens Super 30 Mutual Fund,9191,9.95,9.95,0.19,1.95
+2026-08-31,16,SFEF,Sunrise Focused Equity Fund,9154,9.85,9.85,0.2,2.07
+2026-08-31,15,SHIVM,SHIVAM CEMENTS LTD,2809,664.0,664.0,14.0,2.15
+2026-08-31,14,SONA,Sonapur Minerals And Oil Limited,9216,416.9,416.9,8.9,2.18
+2026-08-31,13,ENL,Emerging Nepal Limited,8034,784.0,784.0,20.0,2.62
+2026-08-31,12,SARBTM,Sarbottam Cement Limited,9242,813.9,813.9,20.9,2.64
+2026-08-31,11,HLICF,HLI Large Cap Fund,9290,8.5,8.5,0.22,2.66
+2026-08-31,10,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1140.9,1140.9,30.9,2.78
+2026-08-31,9,MMF1,Mega Mutual Fund -1,8023,8.96,8.96,0.26,2.99
+2026-08-31,8,JBBD87,Jyoti Bikash Bank Bond 2087,8020,1133.0,1133.0,32.9,2.99
+2026-08-31,7,SPHL,Sayapatri Hydropower Limited,8121,540.0,540.0,17.0,3.25
+2026-08-31,6,SYPNL,SY Panel Nepal Limited,9303,1293.0,1293.0,48.7,3.91
+2026-08-31,5,NABILD2089,7% Nabil Debenture 2089,9299,1100.0,1100.0,42.0,3.97
+2026-08-31,4,PCIL,Palpa Cement Industries Limited,9330,646.0,646.0,25.0,4.03
+2026-08-31,3,NICAD2091,7% NIC ASIA Debenture 2091,9266,1094.0,1094.0,62.0,6.01
+2026-08-31,2,GCIL,Ghorahi Cement Industry Limited,9193,398.0,398.0,28.0,7.57
+2026-08-31,1,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2725.0,2725.0,317.0,13.16
 2026-08-27,20,NMBMF,NMB  Microfinance Bittiya Sanstha Ltd.,704,590.0,590.0,12.0,2.08
 2026-08-27,19,MEHL,Manakamana Engineering Hydropower Limited,9203,234.6,234.6,4.9,2.13
 2026-08-27,18,ACLBSL,Aarambha Chautari Laghubitta Bittiya Sanstha Limited,2790,900.0,900.0,20.0,2.27

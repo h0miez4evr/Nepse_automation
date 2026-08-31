@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-08-31,20,HRL,Himalayan Reinsurance Limited,9234,515.0,95707
+2026-08-31,19,NGPL,Ngadi Group Power Ltd.,2743,390.0,97306
+2026-08-31,18,PCIL,Palpa Cement Industries Limited,9330,646.0,105652
+2026-08-31,17,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,276.3,106702
+2026-08-31,16,HDHPC,Himal Dolakha Hydropower Company Limited,2880,195.5,111889
+2026-08-31,15,SAPIL,Sarvottam Paints Industries Limited,9353,1276.0,115467
+2026-08-31,14,SAHAS,Sahas Urja Limited,8021,670.9,126626
+2026-08-31,13,NHPC,National Hydro Power Company Limited,152,248.0,129856
+2026-08-31,12,API,Api Power Company Ltd.,697,322.2,132043
+2026-08-31,11,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,336.9,136000
+2026-08-31,10,SANIMA,Sanima Bank Limited,171,359.0,166345
+2026-08-31,9,GCIL,Ghorahi Cement Industry Limited,9193,398.0,173367
+2026-08-31,8,SAGF,Sanima Growth Fund,9139,9.75,176364
+2026-08-31,7,KBL,Kumari Bank Limited,142,211.0,178540
+2026-08-31,6,SONA,Sonapur Minerals And Oil Limited,9216,416.9,188835
+2026-08-31,5,RIDI,Ridi Power Company Limited,610,339.5,214321
+2026-08-31,4,SFEF,Sunrise Focused Equity Fund,9154,9.85,300400
+2026-08-31,3,CHCL,Chilime Hydropower Company Limited,154,362.5,326757
+2026-08-31,2,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,165.9,379967
+2026-08-31,1,SHIVM,SHIVAM CEMENTS LTD,2809,664.0,397552
 2026-08-27,20,KKHC,Khanikhola Hydropower Co. Ltd.,2751,269.0,125700
 2026-08-27,19,UPPER,Upper Tamakoshi Hydropower Ltd,2792,184.0,129011
 2026-08-27,18,BHL,Balephi Hydropower Limited,8055,199.7,129021
