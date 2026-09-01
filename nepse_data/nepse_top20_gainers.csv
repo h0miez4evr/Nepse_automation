@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-01,20,OHL,Oriental Hotels Limited,149,610.0,610.0,14.9,2.5
+2026-09-01,19,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,2774,975.0,975.0,24.0,2.52
+2026-09-01,18,SEF,Siddhartha Equity Fund,2770,9.45,9.45,0.24,2.61
+2026-09-01,17,CHCL,Chilime Hydropower Company Limited,154,372.0,372.0,9.5,2.62
+2026-09-01,16,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1355.7,1355.7,36.7,2.78
+2026-09-01,15,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,1028.0,1028.0,28.0,2.8
+2026-09-01,14,KSY,Kumari Sabal Yojana,9241,9.1,9.1,0.25,2.82
+2026-09-01,13,HATHY,Hathway Investment Nepal Limited,9213,617.4,617.4,17.4,2.9
+2026-09-01,12,SPL,Shuvam Power Limited,9147,638.0,638.0,18.1,2.92
+2026-09-01,11,VLUCL,Vision Lumbini Urja Company Limited ,9225,379.0,379.0,11.0,2.99
+2026-09-01,10,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,284.9,284.9,8.6,3.11
+2026-09-01,9,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,495.0,495.0,15.0,3.13
+2026-09-01,8,LUK,Laxmi Unnati Kosh,2902,9.42,9.42,0.3,3.29
+2026-09-01,7,SBCF,Sunrise Bluechip Fund,2937,9.02,9.02,0.29,3.32
+2026-09-01,6,MANDU,Mandu Hydropower Limited,9212,657.9,657.9,22.9,3.61
+2026-09-01,5,MCHL,Menchhiyam Hydropower Limited,9175,247.6,247.6,8.8,3.69
+2026-09-01,4,SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,2842,239.9,239.9,8.8,3.81
+2026-09-01,3,ENL,Emerging Nepal Limited,8034,822.0,822.0,38.0,4.85
+2026-09-01,2,MBLEF,MBL Equity Fund,9257,9.0,9.0,0.5,5.88
+2026-09-01,1,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,346.0,346.0,23.1,7.15
 2026-08-31,20,GBILD84/85,"Global IME Bank Debenture, 2084/85",9168,1150.0,1150.0,20.0,1.77
 2026-08-31,19,RSY,Reliable Samriddhi Yojana,9259,9.61,9.61,0.17,1.8
 2026-08-31,18,SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,2842,231.1,231.1,4.1,1.81
