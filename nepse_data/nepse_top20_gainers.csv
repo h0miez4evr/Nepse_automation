@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-02,20,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1123.8,1123.8,32.7,3.0
+2026-09-02,19,LBBLD89,11% L.B.B.L. Debenture 2089,9197,1267.9,1267.9,36.9,3.0
+2026-09-02,18,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,8065,1574.9,1574.9,46.9,3.07
+2026-09-02,17,SPC,Samling Power Company Limited,8025,397.0,397.0,12.0,3.12
+2026-09-02,16,SKHEL,Suryakunda Hydro Electric Limited,9325,815.0,815.0,25.0,3.16
+2026-09-02,15,MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,8031,266.3,266.3,8.4,3.26
+2026-09-02,14,SIGS2,Siddhartha Investment Growth Scheme - 2,2859,9.74,9.74,0.32,3.4
+2026-09-02,13,NRN,NRN Infrastructure and Development Limited,2898,1410.0,1410.0,47.0,3.45
+2026-09-02,12,HBLD86,"Himalayan Bank Limited Bond, 2086",9137,1155.0,1155.0,42.6,3.83
+2026-09-02,11,BGWT,Bhagawati Hydropower Development Company Limited,9214,485.0,485.0,18.0,3.85
+2026-09-02,10,SPL,Shuvam Power Limited,9147,664.0,664.0,26.0,4.08
+2026-09-02,9,GBIME,Global IME Bank Limited,341,249.9,249.9,9.9,4.13
+2026-09-02,8,NIBLGF,NIBL Growth Fund,9138,8.6,8.6,0.35,4.24
+2026-09-02,7,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,297.4,297.4,12.5,4.39
+2026-09-02,6,MKHC,Maya Khola Hydropower Company Limited,9149,250.0,250.0,14.0,5.93
+2026-09-02,5,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,178.8,178.8,10.1,5.99
+2026-09-02,4,CFCL,Central Finance Co. Ltd.,245,635.0,635.0,53.0,9.11
+2026-09-02,3,ANLB,Aatmanirbhar Laghubitta Bittiya Sanstha Limited,9161,5350.0,5350.0,491.0,10.1
+2026-09-02,2,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,381.4,381.4,35.4,10.23
+2026-09-02,1,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2790.0,2790.0,296.0,11.87
 2026-09-01,20,OHL,Oriental Hotels Limited,149,610.0,610.0,14.9,2.5
 2026-09-01,19,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,2774,975.0,975.0,24.0,2.52
 2026-09-01,18,SEF,Siddhartha Equity Fund,2770,9.45,9.45,0.24,2.61

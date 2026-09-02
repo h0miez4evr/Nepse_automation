@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-02,20,API,Api Power Company Ltd.,697,329.2,78284
+2026-09-02,19,RADHI,Radhi Bidyut Company Ltd,2776,675.0,80053
+2026-09-02,18,NHPC,National Hydro Power Company Limited,152,255.9,88957
+2026-09-02,17,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,404.1,90227
+2026-09-02,16,NRN,NRN Infrastructure and Development Limited,2898,1410.0,91068
+2026-09-02,15,KSBBL,Kamana Sewa Bikas Bank Limited,459,480.0,93966
+2026-09-02,14,MBL,Machhapuchhre Bank Limited,140,244.8,116645
+2026-09-02,13,KBL,Kumari Bank Limited,142,212.8,120607
+2026-09-02,12,SAHAS,Sahas Urja Limited,8021,688.3,144771
+2026-09-02,11,CHCL,Chilime Hydropower Company Limited,154,377.0,157769
+2026-09-02,10,CFCL,Central Finance Co. Ltd.,245,635.0,157841
+2026-09-02,9,SMHL,Super Madi Hydropower Limited,9146,538.0,161690
+2026-09-02,8,SHIVM,SHIVAM CEMENTS LTD,2809,658.0,165180
+2026-09-02,7,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,344.3,174884
+2026-09-02,6,SOHL,Solu Hydropower Limited,9311,663.0,184091
+2026-09-02,5,SFEF,Sunrise Focused Equity Fund,9154,9.85,273082
+2026-09-02,4,RIDI,Ridi Power Company Limited,610,352.0,275315
+2026-09-02,3,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,504.0,282709
+2026-09-02,2,GBIME,Global IME Bank Limited,341,249.9,367046
+2026-09-02,1,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,178.8,398731
 2026-09-01,20,CSY,Citizens Santulit Yojana,9304,8.4,82200
 2026-09-01,19,HDHPC,Himal Dolakha Hydropower Company Limited,2880,196.5,84217
 2026-09-01,18,SHPC,Sanima Mai Hydropower Ltd.,591,497.9,85509
