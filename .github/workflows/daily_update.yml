@@ -12,6 +12,7 @@ on:
         description: 'Number of top stocks to export'
         required: false
         default: '50'
+        type: string
 
 permissions:
   contents: write
@@ -22,10 +23,10 @@ jobs:
 
     steps:
       - name:  Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name:  Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
           cache: 'pip'
@@ -35,7 +36,7 @@ jobs:
 
       - name:  Run NEPSE AI Agent
         run: |
-          python run_daily.py --top ${{ github.event.inputs.top_n || '50' }}
+          python run_daily.py --top ${{ inputs.top_n || '50' }}
 
       - name:  Commit updated possibleStocks.csv
         run: |
