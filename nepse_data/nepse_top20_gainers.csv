@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-03,20,EBLD91,Everest Bank Limited Debenture 2091,9255,1133.0,1133.0,33.0,3.0
+2026-09-03,19,KBLD86,10.25% KBL Debenture 2086,2885,1143.3,1143.3,33.3,3.0
+2026-09-03,18,SBID89,9% Nepal SBI Bank Rinpatra 2089,9211,1163.9,1163.9,33.9,3.0
+2026-09-03,17,CIZBD90,10% Citizens Bank Debenture 2090,9231,1261.7,1261.7,36.7,3.0
+2026-09-03,16,MLBLD89,11% Mahalaxmi Debenture 2089,9195,1287.5,1287.5,37.5,3.0
+2026-09-03,15,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,300.0,300.0,9.0,3.09
+2026-09-03,14,H8020,Himalayan 80-20,9221,12.0,12.0,0.38,3.27
+2026-09-03,13,JBBD87,Jyoti Bikash Bank Bond 2087,8020,1170.0,1170.0,37.0,3.27
+2026-09-03,12,CIT,Citizen Investment Trust,210,1719.9,1719.9,63.2,3.81
+2026-09-03,11,MKCL,Muktinath Krishi Company Limited,9230,899.9,899.9,39.9,4.64
+2026-09-03,10,NMBHF2,NMB Hybrid Fund L- II,9254,8.98,8.98,0.4,4.66
+2026-09-03,9,NBF3,Nabil Balanced Fund-3,8024,9.54,9.54,0.43,4.72
+2026-09-03,8,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2926.0,2926.0,136.0,4.87
+2026-09-03,7,RSML,Reliance Spinning Mills Limited,9306,2830.0,2830.0,135.0,5.01
+2026-09-03,6,RMF1,RBB Mutual Fund 1,4968,9.5,9.5,0.48,5.32
+2026-09-03,5,MEPDL,Mount Everest Power Development Limited,9352,660.0,660.0,40.0,6.45
+2026-09-03,4,MKHC,Maya Khola Hydropower Company Limited,9149,269.6,269.6,19.6,7.84
+2026-09-03,3,ALBSL,Asha Laghubitta Bittiya Sanstha Ltd,2807,1190.0,1190.0,91.1,8.29
+2026-09-03,2,CKHL,Chirkhwa Hydropower Limited ,9232,615.0,615.0,48.5,8.56
+2026-09-03,1,WNLB,Wean Nepal Laghubitta Bittiya Sanstha Limited,2781,1055.0,1055.0,85.0,8.76
 2026-09-02,20,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1123.8,1123.8,32.7,3.0
 2026-09-02,19,LBBLD89,11% L.B.B.L. Debenture 2089,9197,1267.9,1267.9,36.9,3.0
 2026-09-02,18,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,8065,1574.9,1574.9,46.9,3.07

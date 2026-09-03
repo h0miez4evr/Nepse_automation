@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-03,20,CFCL,Central Finance Co. Ltd.,245,598.4,116315
+2026-09-03,19,NGPL,Ngadi Group Power Ltd.,2743,388.0,123903
+2026-09-03,18,UMHL,United Modi Hydropower Ltd.,2760,562.4,133544
+2026-09-03,17,CHCL,Chilime Hydropower Company Limited,154,370.2,137474
+2026-09-03,16,KDBY,Kumari Dhanabriddhi Yojana,8074,9.82,143900
+2026-09-03,15,RSML,Reliance Spinning Mills Limited,9306,2830.0,146528
+2026-09-03,14,GBIME,Global IME Bank Limited,341,250.0,147780
+2026-09-03,13,KBL,Kumari Bank Limited,142,213.0,153621
+2026-09-03,12,MEN,Mountain Energy Nepal Limited,2913,627.1,159060
+2026-09-03,11,SMHL,Super Madi Hydropower Limited,9146,527.0,167364
+2026-09-03,10,SHIVM,SHIVAM CEMENTS LTD,2809,661.0,174067
+2026-09-03,9,SOHL,Solu Hydropower Limited,9311,650.5,194626
+2026-09-03,8,GBBL,Garima Bikas Bank Limited,417,436.3,199020
+2026-09-03,7,NSIF2,NMB Sulav Investment Fund - 2,8125,9.9,208045
+2026-09-03,6,PRSF,Prabhu Smart Fund,9174,12.89,225597
+2026-09-03,5,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,503.0,265982
+2026-09-03,4,RIDI,Ridi Power Company Limited,610,344.0,272952
+2026-09-03,3,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,340.3,281818
+2026-09-03,2,SEF,Siddhartha Equity Fund,2770,9.4,519000
+2026-09-03,1,H8020,Himalayan 80-20,9221,12.0,3678997
 2026-09-02,20,API,Api Power Company Ltd.,697,329.2,78284
 2026-09-02,19,RADHI,Radhi Bidyut Company Ltd,2776,675.0,80053
 2026-09-02,18,NHPC,National Hydro Power Company Limited,152,255.9,88957
