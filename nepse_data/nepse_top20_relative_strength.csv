@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-07,20,SBLD2091,7.25% SBL Debenture 2091,9271,1090.0,1090.0,3.11,32.9,1.52,1.59
+2026-09-07,19,GHL,Ghalemdi Hydro Limited,2806,228.0,228.0,3.17,7.0,1.52,1.65
+2026-09-07,18,SGHL,Sanigad Hydro Limited,9345,499.3,499.3,3.78,18.2,1.52,2.26
+2026-09-07,17,SMB,Support Microfinance Bittiya Sanstha Ltd.,2771,1785.0,1785.0,3.89,66.9,1.52,2.37
+2026-09-07,16,RSML,Reliance Spinning Mills Limited,9306,2940.0,2940.0,3.89,110.0,1.52,2.37
+2026-09-07,15,H8020,Himalayan 80-20,9221,12.48,12.48,4.0,0.48,1.52,2.48
+2026-09-07,14,NICL,Nepal Insurance Co. Ltd.,176,436.9,436.9,4.02,16.9,1.52,2.5
+2026-09-07,13,NLG,NLG Insurance Company Ltd.,559,514.5,514.5,4.15,20.5,1.52,2.63
+2026-09-07,12,MABEL,Mabilung Energy Limited,9287,587.7,587.7,4.2,23.7,1.52,2.68
+2026-09-07,11,SABBL,Salapa Bikas Bank Limited,9305,916.7,916.7,4.29,37.7,1.52,2.77
+2026-09-07,10,RMF2,RBB Mutual Fund 2,9178,9.7,9.7,4.53,0.42,1.52,3.01
+2026-09-07,9,SYPNL,SY Panel Nepal Limited,9303,1344.0,1344.0,4.92,63.0,1.52,3.4
+2026-09-07,8,SICL,Shikhar Insurance Co. Ltd.,192,550.0,550.0,5.24,27.4,1.52,3.72
+2026-09-07,7,RAWA,Rawa Energy Development Limited,9181,413.9,413.9,5.32,20.9,1.52,3.8
+2026-09-07,6,GIBF1,Global IME Balanced Fund-1,8106,11.08,11.08,5.42,0.57,1.52,3.9
+2026-09-07,5,SAGAR,Sagar Distillery Limited,9294,1593.0,1593.0,6.2,93.0,1.52,4.68
+2026-09-07,4,KMCDB,Kalika Laghubitta Bittiya Sanstha Ltd,593,820.0,820.0,6.22,48.0,1.52,4.7
+2026-09-07,3,SAIL,Shreenagar Agritech Industries Limited,9301,1056.2,1056.2,6.26,62.2,1.52,4.74
+2026-09-07,2,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,2815,1145.0,1145.0,7.35,78.4,1.52,5.83
+2026-09-07,1,PURE,Pure Energy Limited,9258,761.3,761.3,15.0,99.3,1.52,13.48
 2026-09-03,20,EBLD91,Everest Bank Limited Debenture 2091,9255,1133.0,1133.0,3.0,33.0,1.27,1.73
 2026-09-03,19,KBLD86,10.25% KBL Debenture 2086,2885,1143.3,1143.3,3.0,33.3,1.27,1.73
 2026-09-03,18,SBID89,9% Nepal SBI Bank Rinpatra 2089,9211,1163.9,1163.9,3.0,33.9,1.27,1.73
