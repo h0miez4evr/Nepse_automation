@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-09-09,20,NABIL,Nabil Bank Limited,131,552.0,530
+2026-09-09,19,HRL,Himalayan Reinsurance Limited,9234,502.1,599
+2026-09-09,18,KDL,Kalinchowk Darshan Limited,9151,623.2,649
+2026-09-09,17,SMHL,Super Madi Hydropower Limited,9146,467.0,680
+2026-09-09,16,ENL,Emerging Nepal Limited,8034,587.9,719
+2026-09-09,15,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,502.0,726
+2026-09-09,14,GBBL,Garima Bikas Bank Limited,417,444.0,729
+2026-09-09,13,SHIVM,SHIVAM CEMENTS LTD,2809,662.6,738
+2026-09-09,12,SOPL,Sopan Pharmaceuticals Limited,9336,731.0,743
+2026-09-09,11,PCIL,Palpa Cement Industries Limited,9330,609.9,760
+2026-09-09,10,MEPDL,Mount Everest Power Development Limited,9352,628.0,793
+2026-09-09,9,JFL,Janaki Finance Company Limited,250,266.6,807
+2026-09-09,8,KAHL,Kalanga Hydro Limited,9346,483.0,822
+2026-09-09,7,CFCL,Central Finance Co. Ltd.,245,561.0,915
+2026-09-09,6,SYPNL,SY Panel Nepal Limited,9303,1327.0,936
+2026-09-09,5,RSML,Reliance Spinning Mills Limited,9306,2993.0,1024
+2026-09-09,4,SAPIL,Sarvottam Paints Industries Limited,9353,1240.0,1158
+2026-09-09,3,SOHL,Solu Hydropower Limited,9311,650.0,1269
+2026-09-09,2,MNBBL,Muktinath Bikas Bank Ltd.,474,318.4,1371
+2026-09-09,1,SGHL,Sanigad Hydro Limited,9345,490.3,1605
 2026-09-07,20,SONA,Sonapur Minerals And Oil Limited,9216,398.0,528
 2026-09-07,19,JFL,Janaki Finance Company Limited,250,313.6,562
 2026-09-07,18,SHIVM,SHIVAM CEMENTS LTD,2809,664.2,577

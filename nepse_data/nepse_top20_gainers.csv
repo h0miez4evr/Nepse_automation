@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-09,20,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,2815,1170.0,1170.0,25.0,2.18
+2026-09-09,19,USHL,Upper Syange Hydropower Limited,9192,512.0,512.0,11.0,2.2
+2026-09-09,18,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1380.0,1380.0,35.0,2.6
+2026-09-09,17,TSHL,Three Star Hydropower Limited,9194,342.0,342.0,9.0,2.7
+2026-09-09,16,SBCF,Sunrise Bluechip Fund,2937,9.29,9.29,0.25,2.77
+2026-09-09,15,GBILD86/87,Global IME Bank Limited Debenture 2086/87,8004,1085.0,1085.0,30.0,2.84
+2026-09-09,14,LUK,Laxmi Unnati Kosh,2902,9.78,9.78,0.28,2.95
+2026-09-09,13,NICFC,NIC Asia Flexi CAP Fund,8073,9.03,9.03,0.26,2.96
+2026-09-09,12,KBLD86,10.25% KBL Debenture 2086,2885,1177.0,1177.0,34.0,2.97
+2026-09-09,11,BOKD86,8.5% BOK Debenture 2086,4961,1084.6,1084.6,31.5,2.99
+2026-09-09,10,LSH12,LS Horizon 12,9350,9.22,9.22,0.27,3.02
+2026-09-09,9,NCCD86,9.5% NCC Debenture 2086,2936,1155.0,1155.0,37.0,3.31
+2026-09-09,8,MANDU,Mandu Hydropower Limited,9212,700.0,700.0,23.0,3.4
+2026-09-09,7,RBBD83,8.5% RBBL Debenture 2083,8003,1045.0,1045.0,34.7,3.43
+2026-09-09,6,SIPD,Shikhar power Development Limited,9329,611.8,611.8,20.7,3.5
+2026-09-09,5,IHL,Ingwa Hydropower Limited,9176,302.9,302.9,10.7,3.66
+2026-09-09,4,BHPL,Barahi Hydropower Public Limited,9135,457.0,457.0,25.0,5.79
+2026-09-09,3,CBLD88,Civil Bank Debenture 2088,8043,1235.0,1235.0,69.3,5.94
+2026-09-09,2,SPL,Shuvam Power Limited,9147,655.0,655.0,39.4,6.4
+2026-09-09,1,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,299.0,299.0,39.0,15.0
 2026-09-07,20,SBLD2091,7.25% SBL Debenture 2091,9271,1090.0,1090.0,32.9,3.11
 2026-09-07,19,GHL,Ghalemdi Hydro Limited,2806,228.0,228.0,7.0,3.17
 2026-09-07,18,SGHL,Sanigad Hydro Limited,9345,499.3,499.3,18.2,3.78

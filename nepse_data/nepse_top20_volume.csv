@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-09,20,API,Api Power Company Ltd.,697,327.5,114456
+2026-09-09,19,SBL,Siddhartha Bank Limited,145,425.0,115390
+2026-09-09,18,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,163.0,116106
+2026-09-09,17,NRN,NRN Infrastructure and Development Limited,2898,1405.0,118245
+2026-09-09,16,JFL,Janaki Finance Company Limited,250,266.6,125289
+2026-09-09,15,GBIME,Global IME Bank Limited,341,250.4,126513
+2026-09-09,14,KDL,Kalinchowk Darshan Limited,9151,623.2,134662
+2026-09-09,13,RSML,Reliance Spinning Mills Limited,9306,2993.0,143170
+2026-09-09,12,ENL,Emerging Nepal Limited,8034,587.9,171560
+2026-09-09,11,GBBL,Garima Bikas Bank Limited,417,444.0,191215
+2026-09-09,10,SHIVM,SHIVAM CEMENTS LTD,2809,662.6,200599
+2026-09-09,9,MNBBL,Muktinath Bikas Bank Ltd.,474,318.4,209434
+2026-09-09,8,SOHL,Solu Hydropower Limited,9311,650.0,222845
+2026-09-09,7,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,338.0,246140
+2026-09-09,6,PSF,Prabhu Select Fund,4947,12.13,263368
+2026-09-09,5,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,493.1,266955
+2026-09-09,4,RIDI,Ridi Power Company Limited,610,347.9,287314
+2026-09-09,3,CFCL,Central Finance Co. Ltd.,245,561.0,291259
+2026-09-09,2,PRSF,Prabhu Smart Fund,9174,12.9,671300
+2026-09-09,1,GIBF1,Global IME Balanced Fund-1,8106,11.0,1261369
 2026-09-07,20,GBIME,Global IME Bank Limited,341,251.9,110870
 2026-09-07,19,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,497.1,112276
 2026-09-07,18,LSL,Laxmi Sunrise Bank Limited,141,225.0,113537
