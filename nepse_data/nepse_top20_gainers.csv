@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-10,20,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,959.0,959.0,24.0,2.57
+2026-09-10,19,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1026.0,1026.0,26.0,2.6
+2026-09-10,18,UNL,Unilever Nepal Limited,219,47200.0,47200.0,1200.0,2.61
+2026-09-10,17,HLICF,HLI Large Cap Fund,9290,8.44,8.44,0.23,2.8
+2026-09-10,16,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,857.0,857.0,24.0,2.88
+2026-09-10,15,CCBD88,Century Debenture 2088,8068,1210.0,1210.0,35.0,2.98
+2026-09-10,14,NICGF2,NIC ASIA Growth Fund-2,9236,8.96,8.96,0.26,2.99
+2026-09-10,13,NIFRAGED,Nifra Green Energy Debenture 6% - 2088/89,9261,1040.3,1040.3,30.3,3.0
+2026-09-10,12,NABILD2089,7% Nabil Debenture 2089,9299,1100.0,1100.0,32.0,3.0
+2026-09-10,11,C30MF,Citizens Super 30 Mutual Fund,9191,10.05,10.05,0.3,3.08
+2026-09-10,10,SBLD2091,7.25% SBL Debenture 2091,9271,1118.9,1118.9,36.9,3.41
+2026-09-10,9,GHL,Ghalemdi Hydro Limited,2806,235.9,235.9,7.9,3.46
+2026-09-10,8,HDHPC,Himal Dolakha Hydropower Company Limited,2880,205.0,205.0,8.0,4.06
+2026-09-10,7,JFL,Janaki Finance Company Limited,250,278.0,278.0,11.4,4.28
+2026-09-10,6,CFCL,Central Finance Co. Ltd.,245,586.0,586.0,25.0,4.46
+2026-09-10,5,SSHL,Shiva Shree Hydropower Ltd,2907,200.4,200.4,9.4,4.92
+2026-09-10,4,ENL,Emerging Nepal Limited,8034,620.0,620.0,32.1,5.46
+2026-09-10,3,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,320.0,320.0,21.0,7.02
+2026-09-10,2,DOLTI,Dolti Power Company Limited,9170,299.0,299.0,22.7,8.22
+2026-09-10,1,LEC,Liberty Energy Company Limited,2903,246.1,246.1,32.1,15.0
 2026-09-09,20,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,2815,1170.0,1170.0,25.0,2.18
 2026-09-09,19,USHL,Upper Syange Hydropower Limited,9192,512.0,512.0,11.0,2.2
 2026-09-09,18,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1380.0,1380.0,35.0,2.6

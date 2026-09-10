@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-10,20,KDL,Kalinchowk Darshan Limited,9151,620.3,102845
+2026-09-10,19,LSL,Laxmi Sunrise Bank Limited,141,224.0,112172
+2026-09-10,18,NHPC,National Hydro Power Company Limited,152,255.7,117146
+2026-09-10,17,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,400.0,128407
+2026-09-10,16,SOHL,Solu Hydropower Limited,9311,640.0,128482
+2026-09-10,15,KBL,Kumari Bank Limited,142,212.2,129317
+2026-09-10,14,NRN,NRN Infrastructure and Development Limited,2898,1419.0,135300
+2026-09-10,13,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,489.0,150330
+2026-09-10,12,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,332.1,156469
+2026-09-10,11,HDHPC,Himal Dolakha Hydropower Company Limited,2880,205.0,163051
+2026-09-10,10,API,Api Power Company Ltd.,697,326.0,169478
+2026-09-10,9,GBBL,Garima Bikas Bank Limited,417,440.6,182771
+2026-09-10,8,SSHL,Shiva Shree Hydropower Ltd,2907,200.4,184682
+2026-09-10,7,GHL,Ghalemdi Hydro Limited,2806,235.9,192055
+2026-09-10,6,GBIME,Global IME Bank Limited,341,248.6,221176
+2026-09-10,5,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,167.0,236673
+2026-09-10,4,RIDI,Ridi Power Company Limited,610,346.8,327974
+2026-09-10,3,GIBF1,Global IME Balanced Fund-1,8106,11.25,355555
+2026-09-10,2,SBI,Nepal SBI Bank Limited,135,403.9,419124
+2026-09-10,1,LEC,Liberty Energy Company Limited,2903,246.1,1927027
 2026-09-09,20,API,Api Power Company Ltd.,697,327.5,114456
 2026-09-09,19,SBL,Siddhartha Bank Limited,145,425.0,115390
 2026-09-09,18,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,163.0,116106
