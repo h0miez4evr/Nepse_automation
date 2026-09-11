@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-11,20,SANVI,Sanvi Energy Limited,9263,580.0,580.0,25.0,4.5
+2026-09-11,19,MHNL,Mountain Hydro Nepal Limited,2811,251.0,251.0,11.0,4.58
+2026-09-11,18,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,249.0,249.0,11.0,4.62
+2026-09-11,17,MERO,Mero Microfinance Bittiya Sanstha Ltd.,1741,618.0,618.0,27.8,4.71
+2026-09-11,16,MEHL,Manakamana Engineering Hydropower Limited,9203,244.0,244.0,11.1,4.77
+2026-09-11,15,GMLI,Guardian Micro Life Insurance Limited ,9246,991.9,991.9,47.9,5.07
+2026-09-11,14,ECL,Everest Colour Limited,9347,1342.9,1342.9,64.9,5.08
+2026-09-11,13,HURJA,Himalaya Urja Bikas Company Limited,2824,247.0,247.0,12.0,5.11
+2026-09-11,12,HATHY,Hathway Investment Nepal Limited,9213,609.0,609.0,32.1,5.56
+2026-09-11,11,BGWT,Bhagawati Hydropower Development Company Limited,9214,476.0,476.0,25.1,5.57
+2026-09-11,10,MCHL,Menchhiyam Hydropower Limited,9175,262.0,262.0,14.0,5.65
+2026-09-11,9,SSHL,Shiva Shree Hydropower Ltd,2907,212.3,212.3,11.9,5.94
+2026-09-11,8,RHGCL,Rapti Hydro And General Construction Limited,8108,261.1,261.1,15.2,6.18
+2026-09-11,7,EBLD86,Everest Bank Limited,8044,1154.0,1154.0,71.9,6.64
+2026-09-11,6,SBLD2091,7.25% SBL Debenture 2091,9271,1194.8,1194.8,75.9,6.78
+2026-09-11,5,NCCD86,9.5% NCC Debenture 2086,2936,1241.0,1241.0,86.0,7.45
+2026-09-11,4,SAPIL,Sarvottam Paints Industries Limited,9353,1370.0,1370.0,102.0,8.04
+2026-09-11,3,SINDU,Sindhu Bikash Bank Ltd,561,394.0,394.0,34.3,9.54
+2026-09-11,2,AVYAN,Aviyan Laghubitta Bittiya Sanstha Limited,8117,1091.0,1091.0,100.0,10.09
+2026-09-11,1,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2763.3,2763.3,263.3,10.53
 2026-09-10,20,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,959.0,959.0,24.0,2.57
 2026-09-10,19,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1026.0,1026.0,26.0,2.6
 2026-09-10,18,UNL,Unilever Nepal Limited,219,47200.0,47200.0,1200.0,2.61

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-11,20,SANVI,Sanvi Energy Limited,9263,580.0,580.0,4.5,25.0,1.94,2.56
+2026-09-11,19,MHNL,Mountain Hydro Nepal Limited,2811,251.0,251.0,4.58,11.0,1.94,2.64
+2026-09-11,18,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,249.0,249.0,4.62,11.0,1.94,2.68
+2026-09-11,17,MERO,Mero Microfinance Bittiya Sanstha Ltd.,1741,618.0,618.0,4.71,27.8,1.94,2.77
+2026-09-11,16,MEHL,Manakamana Engineering Hydropower Limited,9203,244.0,244.0,4.77,11.1,1.94,2.83
+2026-09-11,15,GMLI,Guardian Micro Life Insurance Limited ,9246,991.9,991.9,5.07,47.9,1.94,3.13
+2026-09-11,14,ECL,Everest Colour Limited,9347,1342.9,1342.9,5.08,64.9,1.94,3.14
+2026-09-11,13,HURJA,Himalaya Urja Bikas Company Limited,2824,247.0,247.0,5.11,12.0,1.94,3.17
+2026-09-11,12,HATHY,Hathway Investment Nepal Limited,9213,609.0,609.0,5.56,32.1,1.94,3.62
+2026-09-11,11,BGWT,Bhagawati Hydropower Development Company Limited,9214,476.0,476.0,5.57,25.1,1.94,3.63
+2026-09-11,10,MCHL,Menchhiyam Hydropower Limited,9175,262.0,262.0,5.65,14.0,1.94,3.71
+2026-09-11,9,SSHL,Shiva Shree Hydropower Ltd,2907,212.3,212.3,5.94,11.9,1.94,4.0
+2026-09-11,8,RHGCL,Rapti Hydro And General Construction Limited,8108,261.1,261.1,6.18,15.2,1.94,4.24
+2026-09-11,7,EBLD86,Everest Bank Limited,8044,1154.0,1154.0,6.64,71.9,1.94,4.7
+2026-09-11,6,SBLD2091,7.25% SBL Debenture 2091,9271,1194.8,1194.8,6.78,75.9,1.94,4.84
+2026-09-11,5,NCCD86,9.5% NCC Debenture 2086,2936,1241.0,1241.0,7.45,86.0,1.94,5.51
+2026-09-11,4,SAPIL,Sarvottam Paints Industries Limited,9353,1370.0,1370.0,8.04,102.0,1.94,6.1
+2026-09-11,3,SINDU,Sindhu Bikash Bank Ltd,561,394.0,394.0,9.54,34.3,1.94,7.6
+2026-09-11,2,AVYAN,Aviyan Laghubitta Bittiya Sanstha Limited,8117,1091.0,1091.0,10.09,100.0,1.94,8.15
+2026-09-11,1,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2763.3,2763.3,10.53,263.3,1.94,8.59
 2026-09-10,20,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,959.0,959.0,2.57,24.0,1.63,0.94
 2026-09-10,19,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1026.0,1026.0,2.6,26.0,1.63,0.97
 2026-09-10,18,UNL,Unilever Nepal Limited,219,47200.0,47200.0,2.61,1200.0,1.63,0.98

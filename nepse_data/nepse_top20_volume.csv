@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-11,20,NRN,NRN Infrastructure and Development Limited,2898,1439.0,129615
+2026-09-11,19,SINDU,Sindhu Bikash Bank Ltd,561,394.0,142459
+2026-09-11,18,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,497.0,148360
+2026-09-11,17,GBIME,Global IME Bank Limited,341,250.6,148823
+2026-09-11,16,HURJA,Himalaya Urja Bikas Company Limited,2824,247.0,149139
+2026-09-11,15,KBL,Kumari Bank Limited,142,215.0,177697
+2026-09-11,14,HIDCLP,Hydorelectricity Investment and Development Company Limited Promoter,8111,186.5,181912
+2026-09-11,13,SOHL,Solu Hydropower Limited,9311,654.0,193154
+2026-09-11,12,GHL,Ghalemdi Hydro Limited,2806,239.9,206662
+2026-09-11,11,API,Api Power Company Ltd.,697,334.7,229569
+2026-09-11,10,SANIMA,Sanima Bank Limited,171,370.0,238384
+2026-09-11,9,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,339.8,239711
+2026-09-11,8,RIDI,Ridi Power Company Limited,610,351.0,253155
+2026-09-11,7,BHL,Balephi Hydropower Limited,8055,211.5,256797
+2026-09-11,6,NIBLGF,NIBL Growth Fund,9138,8.5,259482
+2026-09-11,5,NHPC,National Hydro Power Company Limited,152,264.6,291214
+2026-09-11,4,HDHPC,Himal Dolakha Hydropower Company Limited,2880,213.8,292330
+2026-09-11,3,NIBLSTF,NIBL Stable Fund,9244,8.4,449711
+2026-09-11,2,SSHL,Shiva Shree Hydropower Ltd,2907,212.3,593275
+2026-09-11,1,LEC,Liberty Energy Company Limited,2903,252.2,1434225
 2026-09-10,20,KDL,Kalinchowk Darshan Limited,9151,620.3,102845
 2026-09-10,19,LSL,Laxmi Sunrise Bank Limited,141,224.0,112172
 2026-09-10,18,NHPC,National Hydro Power Company Limited,152,255.7,117146
