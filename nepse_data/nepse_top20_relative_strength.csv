@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-14,20,OMPL,Om Megashree Pharmaceuticals Limited,9256,882.0,882.0,3.4,29.0,1.62,1.78
+2026-09-14,19,NMIC,Nepal Micro Insurance Company Limited,9250,825.0,825.0,3.42,27.3,1.62,1.8
+2026-09-14,18,NLG,NLG Insurance Company Ltd.,559,534.9,534.9,3.56,18.4,1.62,1.94
+2026-09-14,17,NFS,Nepal Finance Ltd.,194,500.9,500.9,3.71,17.9,1.62,2.09
+2026-09-14,16,MFIL,Manjushree Finance Ltd.,516,755.0,755.0,3.71,27.0,1.62,2.09
+2026-09-14,15,RHGCL,Rapti Hydro And General Construction Limited,8108,271.5,271.5,3.98,10.4,1.62,2.36
+2026-09-14,14,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,516.9,516.9,4.0,19.9,1.62,2.38
+2026-09-14,13,RLEL,Ridge Line Energy Limited,9324,789.9,789.9,4.07,30.9,1.62,2.45
+2026-09-14,12,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,836.0,836.0,4.11,33.0,1.62,2.49
+2026-09-14,11,SMH,Super Mai Hydropower Limited,9148,523.1,523.1,4.2,21.1,1.62,2.58
+2026-09-14,10,MEL,Modi Energy Limited,9179,216.0,216.0,4.35,9.0,1.62,2.73
+2026-09-14,9,BGWT,Bhagawati Hydropower Development Company Limited,9214,497.0,497.0,4.41,21.0,1.62,2.79
+2026-09-14,8,NYADI,Nyadi Hydropower Limited,8026,367.8,367.8,4.52,15.9,1.62,2.9
+2026-09-14,7,SPIL,Siddhartha Premier Insurance Limited,182,604.0,604.0,4.68,27.0,1.62,3.06
+2026-09-14,6,NICSF,NIC Asia Select Fund 30,4967,8.6,8.6,4.88,0.4,1.62,3.26
+2026-09-14,5,MPFL,Multipurpose Finance Company  Limited,471,565.0,565.0,5.21,28.0,1.62,3.59
+2026-09-14,4,SAPIL,Sarvottam Paints Industries Limited,9353,1444.0,1444.0,5.4,74.0,1.62,3.78
+2026-09-14,3,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1340.0,1340.0,5.93,75.0,1.62,4.31
+2026-09-14,2,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,300.0,300.0,6.38,18.0,1.62,4.76
+2026-09-14,1,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,925.9,925.9,6.43,55.9,1.62,4.81
 2026-09-11,20,SANVI,Sanvi Energy Limited,9263,580.0,580.0,4.5,25.0,1.94,2.56
 2026-09-11,19,MHNL,Mountain Hydro Nepal Limited,2811,251.0,251.0,4.58,11.0,1.94,2.64
 2026-09-11,18,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,249.0,249.0,4.62,11.0,1.94,2.68

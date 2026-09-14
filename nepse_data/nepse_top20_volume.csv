@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-14,20,PSF,Prabhu Select Fund,4947,10.84,119544
+2026-09-14,19,SSHL,Shiva Shree Hydropower Ltd,2907,207.0,135130
+2026-09-14,18,GBIME,Global IME Bank Limited,341,253.0,135724
+2026-09-14,17,NHPC,National Hydro Power Company Limited,152,263.0,152642
+2026-09-14,16,SBL,Siddhartha Bank Limited,145,422.0,155348
+2026-09-14,15,SOHL,Solu Hydropower Limited,9311,655.0,157371
+2026-09-14,14,SHIVM,SHIVAM CEMENTS LTD,2809,670.0,158053
+2026-09-14,13,SANIMA,Sanima Bank Limited,171,373.0,164822
+2026-09-14,12,KBL,Kumari Bank Limited,142,216.9,169944
+2026-09-14,11,NRN,NRN Infrastructure and Development Limited,2898,1448.0,171552
+2026-09-14,10,GBBL,Garima Bikas Bank Limited,417,446.0,195789
+2026-09-14,9,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,343.9,199427
+2026-09-14,8,NMBHF2,NMB Hybrid Fund L- II,9254,8.92,200400
+2026-09-14,7,HURJA,Himalaya Urja Bikas Company Limited,2824,252.0,213347
+2026-09-14,6,GHL,Ghalemdi Hydro Limited,2806,244.9,328440
+2026-09-14,5,RIDI,Ridi Power Company Limited,610,350.0,363246
+2026-09-14,4,LSL,Laxmi Sunrise Bank Limited,141,229.4,396536
+2026-09-14,3,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,516.9,398521
+2026-09-14,2,API,Api Power Company Ltd.,697,340.0,523868
+2026-09-14,1,LEC,Liberty Energy Company Limited,2903,250.0,935670
 2026-09-11,20,NRN,NRN Infrastructure and Development Limited,2898,1439.0,129615
 2026-09-11,19,SINDU,Sindhu Bikash Bank Ltd,561,394.0,142459
 2026-09-11,18,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,497.0,148360

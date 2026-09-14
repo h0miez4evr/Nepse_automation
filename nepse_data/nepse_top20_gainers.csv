@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-14,20,OMPL,Om Megashree Pharmaceuticals Limited,9256,882.0,882.0,29.0,3.4
+2026-09-14,19,NMIC,Nepal Micro Insurance Company Limited,9250,825.0,825.0,27.3,3.42
+2026-09-14,18,NLG,NLG Insurance Company Ltd.,559,534.9,534.9,18.4,3.56
+2026-09-14,17,NFS,Nepal Finance Ltd.,194,500.9,500.9,17.9,3.71
+2026-09-14,16,MFIL,Manjushree Finance Ltd.,516,755.0,755.0,27.0,3.71
+2026-09-14,15,RHGCL,Rapti Hydro And General Construction Limited,8108,271.5,271.5,10.4,3.98
+2026-09-14,14,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,516.9,516.9,19.9,4.0
+2026-09-14,13,RLEL,Ridge Line Energy Limited,9324,789.9,789.9,30.9,4.07
+2026-09-14,12,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,836.0,836.0,33.0,4.11
+2026-09-14,11,SMH,Super Mai Hydropower Limited,9148,523.1,523.1,21.1,4.2
+2026-09-14,10,MEL,Modi Energy Limited,9179,216.0,216.0,9.0,4.35
+2026-09-14,9,BGWT,Bhagawati Hydropower Development Company Limited,9214,497.0,497.0,21.0,4.41
+2026-09-14,8,NYADI,Nyadi Hydropower Limited,8026,367.8,367.8,15.9,4.52
+2026-09-14,7,SPIL,Siddhartha Premier Insurance Limited,182,604.0,604.0,27.0,4.68
+2026-09-14,6,NICSF,NIC Asia Select Fund 30,4967,8.6,8.6,0.4,4.88
+2026-09-14,5,MPFL,Multipurpose Finance Company  Limited,471,565.0,565.0,28.0,5.21
+2026-09-14,4,SAPIL,Sarvottam Paints Industries Limited,9353,1444.0,1444.0,74.0,5.4
+2026-09-14,3,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1340.0,1340.0,75.0,5.93
+2026-09-14,2,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,300.0,300.0,18.0,6.38
+2026-09-14,1,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,925.9,925.9,55.9,6.43
 2026-09-11,20,SANVI,Sanvi Energy Limited,9263,580.0,580.0,25.0,4.5
 2026-09-11,19,MHNL,Mountain Hydro Nepal Limited,2811,251.0,251.0,11.0,4.58
 2026-09-11,18,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,249.0,249.0,11.0,4.62
