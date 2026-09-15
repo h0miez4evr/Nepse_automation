@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-15,20,SMJC,Sagarmatha Jalabidhyut Company Limited,9159,432.0,432.0,19.7,4.78
+2026-09-15,19,NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,2784,718.0,718.0,33.0,4.82
+2026-09-15,18,RLEL,Ridge Line Energy Limited,9324,828.0,828.0,38.1,4.82
+2026-09-15,17,NMIC,Nepal Micro Insurance Company Limited,9250,865.2,865.2,40.2,4.87
+2026-09-15,16,SKHEL,Suryakunda Hydro Electric Limited,9325,871.0,871.0,40.5,4.88
+2026-09-15,15,MEHL,Manakamana Engineering Hydropower Limited,9203,255.0,255.0,12.0,4.94
+2026-09-15,14,SPDL,Synergy Power Development Ltd.,2759,370.0,370.0,17.5,4.96
+2026-09-15,13,NICA,NIC Asia Bank Ltd.,139,329.9,329.9,15.9,5.06
+2026-09-15,12,AHL,Asian Hydropower Limited,9150,376.1,376.1,18.1,5.06
+2026-09-15,11,IHL,Ingwa Hydropower Limited,9176,326.5,326.5,16.5,5.32
+2026-09-15,10,BFC,Best Finance Company Ltd.,227,470.1,470.1,24.1,5.4
+2026-09-15,9,NICBF,NIC Asia Balanced Fund,2863,8.95,8.95,0.48,5.67
+2026-09-15,8,SPIL,Siddhartha Premier Insurance Limited,182,639.0,639.0,35.0,5.79
+2026-09-15,7,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,317.6,317.6,17.6,5.87
+2026-09-15,6,JOSHI,Joshi Hydropower Development Company Ltd,2789,271.8,271.8,15.7,6.13
+2026-09-15,5,MSHL,Mid Solu Hydropower Limited,9215,560.0,560.0,35.0,6.67
+2026-09-15,4,JFL,Janaki Finance Company Limited,250,295.0,295.0,22.0,8.06
+2026-09-15,3,MPFL,Multipurpose Finance Company  Limited,471,620.0,620.0,55.0,9.73
+2026-09-15,2,SINDU,Sindhu Bikash Bank Ltd,561,450.0,450.0,44.7,11.03
+2026-09-15,1,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1119.0,1119.0,145.6,14.96
 2026-09-14,20,OMPL,Om Megashree Pharmaceuticals Limited,9256,882.0,882.0,29.0,3.4
 2026-09-14,19,NMIC,Nepal Micro Insurance Company Limited,9250,825.0,825.0,27.3,3.42
 2026-09-14,18,NLG,NLG Insurance Company Ltd.,559,534.9,534.9,18.4,3.56

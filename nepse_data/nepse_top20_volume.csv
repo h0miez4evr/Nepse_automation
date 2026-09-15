@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-15,20,KKHC,Khanikhola Hydropower Co. Ltd.,2751,280.0,269603
+2026-09-15,19,NBL,Nepal Bank Limited,517,288.0,275179
+2026-09-15,18,NIMB,Nepal Investment Mega Bank Limited,132,192.0,278811
+2026-09-15,17,SSHL,Shiva Shree Hydropower Ltd,2907,208.8,281037
+2026-09-15,16,PRVU,Prabhu  Bank Limited,255,189.6,281196
+2026-09-15,15,NHPC,National Hydro Power Company Limited,152,267.5,284481
+2026-09-15,14,GBBL,Garima Bikas Bank Limited,417,455.0,298241
+2026-09-15,13,HIDCLP,Hydorelectricity Investment and Development Company Limited Promoter,8111,193.9,308640
+2026-09-15,12,HURJA,Himalaya Urja Bikas Company Limited,2824,263.0,308689
+2026-09-15,11,GBIME,Global IME Bank Limited,341,257.1,315862
+2026-09-15,10,RIDI,Ridi Power Company Limited,610,355.0,319097
+2026-09-15,9,NGPL,Ngadi Group Power Ltd.,2743,417.0,331950
+2026-09-15,8,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,527.0,332158
+2026-09-15,7,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,353.0,345701
+2026-09-15,6,SANIMA,Sanima Bank Limited,171,375.0,356506
+2026-09-15,5,KBL,Kumari Bank Limited,142,221.6,428456
+2026-09-15,4,SHIVM,SHIVAM CEMENTS LTD,2809,681.0,462655
+2026-09-15,3,API,Api Power Company Ltd.,697,343.9,825838
+2026-09-15,2,LSL,Laxmi Sunrise Bank Limited,141,236.3,838214
+2026-09-15,1,LEC,Liberty Energy Company Limited,2903,256.8,1062567
 2026-09-14,20,PSF,Prabhu Select Fund,4947,10.84,119544
 2026-09-14,19,SSHL,Shiva Shree Hydropower Ltd,2907,207.0,135130
 2026-09-14,18,GBIME,Global IME Bank Limited,341,253.0,135724
