@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-16,20,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,986.0,986.0,16.1,1.66
+2026-09-16,19,PBD88,10% Prime Debenture 2088,8097,1200.0,1200.0,20.0,1.69
+2026-09-16,18,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,2826,1689.0,1689.0,29.0,1.75
+2026-09-16,17,EBLD91,Everest Bank Limited Debenture 2091,9255,1110.0,1110.0,20.0,1.83
+2026-09-16,16,NBF3,Nabil Balanced Fund-3,8024,9.41,9.41,0.18,1.95
+2026-09-16,15,LLBS,Laxmi Laghubitta Bittiya Sanstha Ltd.,618,877.0,877.0,17.0,1.98
+2026-09-16,14,CHDC,CEDB Holdings Limited,3946,2368.0,2368.0,50.0,2.16
+2026-09-16,13,PFL,Pokhara Finance Ltd.,236,373.0,373.0,9.0,2.47
+2026-09-16,12,SNORL,Snow Rivers Limited,9344,919.9,919.9,25.0,2.79
+2026-09-16,11,KKHC,Khanikhola Hydropower Co. Ltd.,2751,288.0,288.0,8.0,2.86
+2026-09-16,10,NICFC,NIC Asia Flexi CAP Fund,8073,8.96,8.96,0.25,2.87
+2026-09-16,9,MND84/85,Muktinath Debenture 2084/85,4969,1068.0,1068.0,30.3,2.92
+2026-09-16,8,UNL,Unilever Nepal Limited,219,48410.0,48410.0,1410.0,3.0
+2026-09-16,7,SLCF,Sanima Large Cap Fund,2923,9.48,9.48,0.28,3.04
+2026-09-16,6,BNL,Bottlers Nepal (Balaju) Limited,195,14000.0,14000.0,485.0,3.59
+2026-09-16,5,KMCDB,Kalika Laghubitta Bittiya Sanstha Ltd,593,854.0,854.0,35.5,4.34
+2026-09-16,4,MEPDL,Mount Everest Power Development Limited,9352,703.0,703.0,29.5,4.38
+2026-09-16,3,HDHPC,Himal Dolakha Hydropower Company Limited,2880,228.0,228.0,11.5,5.31
+2026-09-16,2,ICFCD83,12% ICFC Finance Limited Debenture 2083,2882,921.2,921.2,52.8,6.08
+2026-09-16,1,NABBC,Narayani Development Bank Limited,172,745.0,745.0,44.6,6.37
 2026-09-15,20,SMJC,Sagarmatha Jalabidhyut Company Limited,9159,432.0,432.0,19.7,4.78
 2026-09-15,19,NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,2784,718.0,718.0,33.0,4.82
 2026-09-15,18,RLEL,Ridge Line Energy Limited,9324,828.0,828.0,38.1,4.82

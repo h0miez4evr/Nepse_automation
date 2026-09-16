@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-09-16,20,RIDI,Ridi Power Company Limited,610,349.2,556
+2026-09-16,19,GBIME,Global IME Bank Limited,341,258.0,556
+2026-09-16,18,SANIMA,Sanima Bank Limited,171,373.1,571
+2026-09-16,17,KAHL,Kalanga Hydro Limited,9346,493.5,571
+2026-09-16,16,GBBL,Garima Bikas Bank Limited,417,453.3,590
+2026-09-16,15,SAPIL,Sarvottam Paints Industries Limited,9353,1400.0,643
+2026-09-16,14,PCIL,Palpa Cement Industries Limited,9330,618.0,661
+2026-09-16,13,KKHC,Khanikhola Hydropower Co. Ltd.,2751,288.0,663
+2026-09-16,12,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,526.1,674
+2026-09-16,11,SHIVM,SHIVAM CEMENTS LTD,2809,676.3,705
+2026-09-16,10,API,Api Power Company Ltd.,697,339.1,749
+2026-09-16,9,BHL,Balephi Hydropower Limited,8055,216.1,858
+2026-09-16,8,KBL,Kumari Bank Limited,142,218.0,920
+2026-09-16,7,RSML,Reliance Spinning Mills Limited,9306,2810.0,947
+2026-09-16,6,LEC,Liberty Energy Company Limited,2903,250.0,982
+2026-09-16,5,SGHL,Sanigad Hydro Limited,9345,497.0,1015
+2026-09-16,4,SOHL,Solu Hydropower Limited,9311,653.0,1029
+2026-09-16,3,MEPDL,Mount Everest Power Development Limited,9352,703.0,1390
+2026-09-16,2,SSHL,Shiva Shree Hydropower Ltd,2907,212.0,1398
+2026-09-16,1,HDHPC,Himal Dolakha Hydropower Company Limited,2880,228.0,3316
 2026-09-15,20,SSHL,Shiva Shree Hydropower Ltd,2907,208.8,744
 2026-09-15,19,BHL,Balephi Hydropower Limited,8055,216.0,745
 2026-09-15,18,NGPL,Ngadi Group Power Ltd.,2743,417.0,753
