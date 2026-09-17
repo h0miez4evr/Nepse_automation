@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-17,20,GBBL,Garima Bikas Bank Limited,417,453.0,145127
+2026-09-17,19,SSHL,Shiva Shree Hydropower Ltd,2907,213.0,182147
+2026-09-17,18,UPPER,Upper Tamakoshi Hydropower Ltd,2792,199.2,195419
+2026-09-17,17,NBL,Nepal Bank Limited,517,288.5,198024
+2026-09-17,16,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,533.0,199266
+2026-09-17,15,PCBL,Prime Commercial Bank Ltd.,357,251.8,227337
+2026-09-17,14,KBL,Kumari Bank Limited,142,218.0,243348
+2026-09-17,13,GBIME,Global IME Bank Limited,341,258.2,254365
+2026-09-17,12,HDHPC,Himal Dolakha Hydropower Company Limited,2880,224.2,267565
+2026-09-17,11,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,352.9,331657
+2026-09-17,10,GBIMEP,Global IME Bank Ltd. Promoter Share,511,100.0,337767
+2026-09-17,9,HURJA,Himalaya Urja Bikas Company Limited,2824,266.9,346261
+2026-09-17,8,API,Api Power Company Ltd.,697,335.6,350329
+2026-09-17,7,SOHL,Solu Hydropower Limited,9311,671.0,356147
+2026-09-17,6,LSL,Laxmi Sunrise Bank Limited,141,238.5,373392
+2026-09-17,5,PHCL,Peoples Hydropower Company Limited,8133,323.0,384411
+2026-09-17,4,GHL,Ghalemdi Hydro Limited,2806,246.6,386800
+2026-09-17,3,SHIVM,SHIVAM CEMENTS LTD,2809,685.5,396612
+2026-09-17,2,LEC,Liberty Energy Company Limited,2903,252.1,542654
+2026-09-17,1,SBL,Siddhartha Bank Limited,145,447.0,756922
 2026-09-16,20,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,346.5,199222
 2026-09-16,19,NIBLSTF,NIBL Stable Fund,9244,8.3,208732
 2026-09-16,18,GBIME,Global IME Bank Limited,341,258.0,225137
