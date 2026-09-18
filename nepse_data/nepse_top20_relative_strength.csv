@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-18,20,CHCL,Chilime Hydropower Company Limited,154,369.7,369.7,2.98,10.7,1.45,1.53
+2026-09-18,19,GMLI,Guardian Micro Life Insurance Limited ,9246,1030.0,1030.0,3.0,30.0,1.45,1.55
+2026-09-18,18,LEC,Liberty Energy Company Limited,2903,259.9,259.9,3.09,7.8,1.45,1.64
+2026-09-18,17,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,328.0,328.0,3.14,10.0,1.45,1.69
+2026-09-18,16,GSY,Garima Samriddhi Yojana,9248,9.2,9.2,3.25,0.29,1.45,1.8
+2026-09-18,15,LSL,Laxmi Sunrise Bank Limited,141,246.4,246.4,3.31,7.9,1.45,1.86
+2026-09-18,14,SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,2842,250.0,250.0,3.31,8.0,1.45,1.86
+2026-09-18,13,GLH,GreenLife Hydropower Limited,2924,273.5,273.5,3.6,9.5,1.45,2.15
+2026-09-18,12,BPCL,Butwal Power Company Limited,153,698.0,698.0,3.76,25.3,1.45,2.31
+2026-09-18,11,ALICL,Asian Life Insurance Co. Limited,385,432.9,432.9,3.81,15.9,1.45,2.36
+2026-09-18,10,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,524.0,524.0,3.84,19.4,1.45,2.39
+2026-09-18,9,KBL,Kumari Bank Limited,142,227.0,227.0,4.13,9.0,1.45,2.68
+2026-09-18,8,IHL,Ingwa Hydropower Limited,9176,338.1,338.1,4.26,13.8,1.45,2.81
+2026-09-18,7,RMF2,RBB Mutual Fund 2,9178,10.17,10.17,4.31,0.42,1.45,2.86
+2026-09-18,6,AHL,Asian Hydropower Limited,9150,395.0,395.0,4.47,16.9,1.45,3.02
+2026-09-18,5,BNT,Bottlers Nepal (Terai) Limited,213,12450.0,12450.0,5.06,600.0,1.45,3.61
+2026-09-18,4,YMHL,Yambaling Hydropower Limited,9342,589.4,589.4,6.2,34.4,1.45,4.75
+2026-09-18,3,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,320.0,320.0,8.84,26.0,1.45,7.39
+2026-09-18,2,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,1065.0,1065.0,9.81,95.1,1.45,8.36
+2026-09-18,1,SNORL,Snow Rivers Limited,9344,1057.0,1057.0,13.66,127.0,1.45,12.21
 2026-09-17,20,NMBUR93/94,NMB Energy Bond 4% - 2093/94 ,8105,934.0,934.0,2.91,26.4,1.27,1.64
 2026-09-17,19,NIBLGF,NIBL Growth Fund,9138,8.73,8.73,2.95,0.25,1.27,1.68
 2026-09-17,18,SBCF,Sunrise Bluechip Fund,2937,9.3,9.3,2.99,0.27,1.27,1.72

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-18,20,CHCL,Chilime Hydropower Company Limited,154,369.7,369.7,10.7,2.98
+2026-09-18,19,GMLI,Guardian Micro Life Insurance Limited ,9246,1030.0,1030.0,30.0,3.0
+2026-09-18,18,LEC,Liberty Energy Company Limited,2903,259.9,259.9,7.8,3.09
+2026-09-18,17,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,328.0,328.0,10.0,3.14
+2026-09-18,16,GSY,Garima Samriddhi Yojana,9248,9.2,9.2,0.29,3.25
+2026-09-18,15,LSL,Laxmi Sunrise Bank Limited,141,246.4,246.4,7.9,3.31
+2026-09-18,14,SJCL,SANJEN JALAVIDHYUT COMPANY LIMITED,2842,250.0,250.0,8.0,3.31
+2026-09-18,13,GLH,GreenLife Hydropower Limited,2924,273.5,273.5,9.5,3.6
+2026-09-18,12,BPCL,Butwal Power Company Limited,153,698.0,698.0,25.3,3.76
+2026-09-18,11,ALICL,Asian Life Insurance Co. Limited,385,432.9,432.9,15.9,3.81
+2026-09-18,10,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,524.0,524.0,19.4,3.84
+2026-09-18,9,KBL,Kumari Bank Limited,142,227.0,227.0,9.0,4.13
+2026-09-18,8,IHL,Ingwa Hydropower Limited,9176,338.1,338.1,13.8,4.26
+2026-09-18,7,RMF2,RBB Mutual Fund 2,9178,10.17,10.17,0.42,4.31
+2026-09-18,6,AHL,Asian Hydropower Limited,9150,395.0,395.0,16.9,4.47
+2026-09-18,5,BNT,Bottlers Nepal (Terai) Limited,213,12450.0,12450.0,600.0,5.06
+2026-09-18,4,YMHL,Yambaling Hydropower Limited,9342,589.4,589.4,34.4,6.2
+2026-09-18,3,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,320.0,320.0,26.0,8.84
+2026-09-18,2,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,1065.0,1065.0,95.1,9.81
+2026-09-18,1,SNORL,Snow Rivers Limited,9344,1057.0,1057.0,127.0,13.66
 2026-09-17,20,NMBUR93/94,NMB Energy Bond 4% - 2093/94 ,8105,934.0,934.0,26.4,2.91
 2026-09-17,19,NIBLGF,NIBL Growth Fund,9138,8.73,8.73,0.25,2.95
 2026-09-17,18,SBCF,Sunrise Bluechip Fund,2937,9.3,9.3,0.27,2.99
