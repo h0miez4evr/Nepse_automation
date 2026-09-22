@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-22,20,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,270.0,270.0,7.1,2.7
+2026-09-22,19,NLIC,Nepal Life Insurance Co. Ltd.,187,755.0,755.0,20.0,2.72
+2026-09-22,18,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,706,622.0,622.0,16.5,2.73
+2026-09-22,17,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1160.0,1160.0,31.0,2.75
+2026-09-22,16,LUK,Laxmi Unnati Kosh,2902,9.77,9.77,0.27,2.84
+2026-09-22,15,SFMF,Sunrise First Mutual Fund,2877,9.22,9.22,0.26,2.9
+2026-09-22,14,RBBD2088,7% RBBL Debenture 2088,9264,1101.0,1101.0,31.0,2.9
+2026-09-22,13,NABILD87,9% Nabil Debenture 2087,9238,1134.0,1134.0,33.0,3.0
+2026-09-22,12,NBF2,NABIL BALANCED FUND-2,2835,9.6,9.6,0.29,3.11
+2026-09-22,11,NTC,Nepal Doorsanchar Company Limited,307,920.0,920.0,28.0,3.14
+2026-09-22,10,PURE,Pure Energy Limited,9258,835.0,835.0,27.0,3.34
+2026-09-22,9,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,2774,1100.0,1100.0,39.0,3.68
+2026-09-22,8,GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,583,706.0,706.0,28.0,4.13
+2026-09-22,7,GHL,Ghalemdi Hydro Limited,2806,254.2,254.2,10.9,4.48
+2026-09-22,6,HDL,Himalayan Distillery Limited,235,1284.0,1284.0,60.0,4.9
+2026-09-22,5,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1160.0,1160.0,54.9,4.97
+2026-09-22,4,MANDU,Mandu Hydropower Limited,9212,754.0,754.0,38.8,5.43
+2026-09-22,3,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,338.0,338.0,18.0,5.63
+2026-09-22,2,FMDBL,First Micro Finance Laghubitta Bittiya Sanstha Limited,490,820.0,820.0,59.0,7.75
+2026-09-22,1,MSHL,Mid Solu Hydropower Limited,9215,606.0,606.0,79.0,14.99
 2026-09-18,20,CHCL,Chilime Hydropower Company Limited,154,369.7,369.7,10.7,2.98
 2026-09-18,19,GMLI,Guardian Micro Life Insurance Limited ,9246,1030.0,1030.0,30.0,3.0
 2026-09-18,18,LEC,Liberty Energy Company Limited,2903,259.9,259.9,7.8,3.09

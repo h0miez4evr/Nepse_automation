@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-22,20,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,270.0,270.0,2.7,7.1,1.23,1.47
+2026-09-22,19,NLIC,Nepal Life Insurance Co. Ltd.,187,755.0,755.0,2.72,20.0,1.23,1.49
+2026-09-22,18,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,706,622.0,622.0,2.73,16.5,1.23,1.5
+2026-09-22,17,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1160.0,1160.0,2.75,31.0,1.23,1.52
+2026-09-22,16,LUK,Laxmi Unnati Kosh,2902,9.77,9.77,2.84,0.27,1.23,1.61
+2026-09-22,15,SFMF,Sunrise First Mutual Fund,2877,9.22,9.22,2.9,0.26,1.23,1.67
+2026-09-22,14,RBBD2088,7% RBBL Debenture 2088,9264,1101.0,1101.0,2.9,31.0,1.23,1.67
+2026-09-22,13,NABILD87,9% Nabil Debenture 2087,9238,1134.0,1134.0,3.0,33.0,1.23,1.77
+2026-09-22,12,NBF2,NABIL BALANCED FUND-2,2835,9.6,9.6,3.11,0.29,1.23,1.88
+2026-09-22,11,NTC,Nepal Doorsanchar Company Limited,307,920.0,920.0,3.14,28.0,1.23,1.91
+2026-09-22,10,PURE,Pure Energy Limited,9258,835.0,835.0,3.34,27.0,1.23,2.11
+2026-09-22,9,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,2774,1100.0,1100.0,3.68,39.0,1.23,2.45
+2026-09-22,8,GBLBS,Grameen Bikas Laghubitta Bittiya Sanstha Ltd.,583,706.0,706.0,4.13,28.0,1.23,2.9
+2026-09-22,7,GHL,Ghalemdi Hydro Limited,2806,254.2,254.2,4.48,10.9,1.23,3.25
+2026-09-22,6,HDL,Himalayan Distillery Limited,235,1284.0,1284.0,4.9,60.0,1.23,3.67
+2026-09-22,5,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1160.0,1160.0,4.97,54.9,1.23,3.74
+2026-09-22,4,MANDU,Mandu Hydropower Limited,9212,754.0,754.0,5.43,38.8,1.23,4.2
+2026-09-22,3,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,338.0,338.0,5.63,18.0,1.23,4.4
+2026-09-22,2,FMDBL,First Micro Finance Laghubitta Bittiya Sanstha Limited,490,820.0,820.0,7.75,59.0,1.23,6.52
+2026-09-22,1,MSHL,Mid Solu Hydropower Limited,9215,606.0,606.0,14.99,79.0,1.23,13.76
 2026-09-18,20,CHCL,Chilime Hydropower Company Limited,154,369.7,369.7,2.98,10.7,1.45,1.53
 2026-09-18,19,GMLI,Guardian Micro Life Insurance Limited ,9246,1030.0,1030.0,3.0,30.0,1.45,1.55
 2026-09-18,18,LEC,Liberty Energy Company Limited,2903,259.9,259.9,3.09,7.8,1.45,1.64

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-22,20,API,Api Power Company Ltd.,697,338.9,229526
+2026-09-22,19,NIMB,Nepal Investment Mega Bank Limited,132,197.0,232106
+2026-09-22,18,GLH,GreenLife Hydropower Limited,2924,280.0,305289
+2026-09-22,17,NMBHF2,NMB Hybrid Fund L- II,9254,9.05,306820
+2026-09-22,16,NHPC,National Hydro Power Company Limited,152,274.0,317874
+2026-09-22,15,HDL,Himalayan Distillery Limited,235,1284.0,318660
+2026-09-22,14,RIDI,Ridi Power Company Limited,610,349.7,320644
+2026-09-22,13,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,533.0,323001
+2026-09-22,12,SBL,Siddhartha Bank Limited,145,458.0,333403
+2026-09-22,11,NBL,Nepal Bank Limited,517,297.0,352689
+2026-09-22,10,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,364.8,378206
+2026-09-22,9,GBIME,Global IME Bank Limited,341,247.5,455178
+2026-09-22,8,HDHPC,Himal Dolakha Hydropower Company Limited,2880,226.0,487382
+2026-09-22,7,LSL,Laxmi Sunrise Bank Limited,141,250.0,693050
+2026-09-22,6,SFEF,Sunrise Focused Equity Fund,9154,9.0,702900
+2026-09-22,5,LEC,Liberty Energy Company Limited,2903,260.0,753438
+2026-09-22,4,KBL,Kumari Bank Limited,142,228.0,797064
+2026-09-22,3,GHL,Ghalemdi Hydro Limited,2806,254.2,870653
+2026-09-22,2,HATHY,Hathway Investment Nepal Limited,9213,489.0,960079
+2026-09-22,1,HLICF,HLI Large Cap Fund,9290,8.24,3000700
 2026-09-18,20,GLH,GreenLife Hydropower Limited,2924,273.5,235225
 2026-09-18,19,NIMB,Nepal Investment Mega Bank Limited,132,195.8,251933
 2026-09-18,18,SHIVM,SHIVAM CEMENTS LTD,2809,688.0,259309
