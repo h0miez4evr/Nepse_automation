@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-23,20,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,330.0,330.0,1.2,3.9,1.66,-0.46
+2026-09-23,19,USHL,Upper Syange Hydropower Limited,9192,521.5,521.5,1.26,6.5,1.66,-0.4
+2026-09-23,18,BOKD86KA,"BOK Debenture 2086 ""KA""",9136,1120.0,1120.0,1.77,19.5,1.66,0.11
+2026-09-23,17,HLICF,HLI Large Cap Fund,9290,8.41,8.41,2.06,0.17,1.66,0.4
+2026-09-23,16,NICSF,NIC Asia Select Fund 30,4967,8.6,8.6,2.38,0.2,1.66,0.72
+2026-09-23,15,SHINED,Shine Resunga Debenture,9286,1130.0,1130.0,2.63,29.0,1.66,0.97
+2026-09-23,14,MSHL,Mid Solu Hydropower Limited,9215,622.0,622.0,2.64,16.0,1.66,0.98
+2026-09-23,13,GSY,Garima Samriddhi Yojana,9248,9.21,9.21,2.68,0.24,1.66,1.02
+2026-09-23,12,GBILD84/85,"Global IME Bank Debenture, 2084/85",9168,1158.0,1158.0,2.84,32.0,1.66,1.18
+2026-09-23,11,RSY,Reliable Samriddhi Yojana,9259,9.57,9.57,2.9,0.27,1.66,1.24
+2026-09-23,10,EBLD91,Everest Bank Limited Debenture 2091,9255,1112.0,1112.0,2.96,32.0,1.66,1.3
+2026-09-23,9,CBLD88,Civil Bank Debenture 2088,8043,1236.0,1236.0,3.0,36.0,1.66,1.34
+2026-09-23,8,BNL,Bottlers Nepal (Balaju) Limited,195,14244.7,14244.7,3.0,414.8,1.66,1.34
+2026-09-23,7,BHCL,Bikash Hydropower Company Limited,9267,559.0,559.0,3.54,19.1,1.66,1.88
+2026-09-23,6,GBIMESY2,Global IME Sammunat Yojana -2,9269,9.26,9.26,3.7,0.33,1.66,2.04
+2026-09-23,5,PBD84,10.15% Prime Debenture 2084,8116,1080.0,1080.0,3.84,39.9,1.66,2.18
+2026-09-23,4,NIFRAUR85/86,NIFRA Uraj Rinpatra7%-2085/86,9141,1050.0,1050.0,3.87,39.1,1.66,2.21
+2026-09-23,3,NIFRAGED,Nifra Green Energy Debenture 6% - 2088/89,9261,1082.0,1082.0,5.04,51.9,1.66,3.38
+2026-09-23,2,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,8065,1531.0,1531.0,5.44,79.0,1.66,3.78
+2026-09-23,1,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1341.9,1341.9,15.0,175.0,1.66,13.34
 2026-09-22,20,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,270.0,270.0,2.7,7.1,1.23,1.47
 2026-09-22,19,NLIC,Nepal Life Insurance Co. Ltd.,187,755.0,755.0,2.72,20.0,1.23,1.49
 2026-09-22,18,SWMF,Suryodaya Womi Laghubitta Bittiya Sanstha Limited,706,622.0,622.0,2.73,16.5,1.23,1.5

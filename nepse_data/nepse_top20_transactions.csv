@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-09-23,20,SAPIL,Sarvottam Paints Industries Limited,9353,1333.0,596
+2026-09-23,19,HRL,Himalayan Reinsurance Limited,9234,506.0,632
+2026-09-23,18,MEPDL,Mount Everest Power Development Limited,9352,646.2,641
+2026-09-23,17,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,534.0,651
+2026-09-23,16,LSL,Laxmi Sunrise Bank Limited,141,245.9,677
+2026-09-23,15,API,Api Power Company Ltd.,697,334.0,689
+2026-09-23,14,SADBL,Shangrila Development Bank Ltd.,472,428.0,703
+2026-09-23,13,BHCL,Bikash Hydropower Company Limited,9267,559.0,733
+2026-09-23,12,SBL,Siddhartha Bank Limited,145,457.0,754
+2026-09-23,11,RSML,Reliance Spinning Mills Limited,9306,2722.9,760
+2026-09-23,10,KBL,Kumari Bank Limited,142,225.0,819
+2026-09-23,9,LEC,Liberty Energy Company Limited,2903,254.0,854
+2026-09-23,8,GBIME,Global IME Bank Limited,341,243.0,867
+2026-09-23,7,SGHL,Sanigad Hydro Limited,9345,485.1,898
+2026-09-23,6,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,358.0,977
+2026-09-23,5,SOHL,Solu Hydropower Limited,9311,643.1,1073
+2026-09-23,4,HATHY,Hathway Investment Nepal Limited,9213,469.0,1104
+2026-09-23,3,HDL,Himalayan Distillery Limited,235,1278.3,1277
+2026-09-23,2,GHL,Ghalemdi Hydro Limited,2806,257.0,1405
+2026-09-23,1,SHIVM,SHIVAM CEMENTS LTD,2809,687.0,1429
 2026-09-22,20,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,533.0,691
 2026-09-22,19,SOPL,Sopan Pharmaceuticals Limited,9336,748.9,736
 2026-09-22,18,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,518.0,785

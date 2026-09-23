@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,turnover_npr
+2026-09-23,20,KKHC,Khanikhola Hydropower Co. Ltd.,2751,275.0,76782265.1
+2026-09-23,19,API,Api Power Company Ltd.,697,334.0,78329551.6
+2026-09-23,18,SHPC,Sanima Mai Hydropower Ltd.,591,529.9,81850447.2
+2026-09-23,17,HATHY,Hathway Investment Nepal Limited,9213,469.0,84115638.2
+2026-09-23,16,RIDI,Ridi Power Company Limited,610,344.6,87419506.9
+2026-09-23,15,CHDC,CEDB Holdings Limited,3946,2388.0,92881496.0
+2026-09-23,14,SBL,Siddhartha Bank Limited,145,457.0,98647036.7
+2026-09-23,13,NRN,NRN Infrastructure and Development Limited,2898,1416.2,115811268.4
+2026-09-23,12,KBL,Kumari Bank Limited,142,225.0,124091597.4
+2026-09-23,11,SOHL,Solu Hydropower Limited,9311,643.1,127173291.0
+2026-09-23,10,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,534.0,130958753.2
+2026-09-23,9,LEC,Liberty Energy Company Limited,2903,254.0,131701276.6
+2026-09-23,8,RADHI,Radhi Bidyut Company Ltd,2776,717.0,133356071.4
+2026-09-23,7,SADBL,Shangrila Development Bank Ltd.,472,428.0,161098938.9
+2026-09-23,6,GHL,Ghalemdi Hydro Limited,2806,257.0,171588595.9
+2026-09-23,5,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,358.0,172978748.2
+2026-09-23,4,LSL,Laxmi Sunrise Bank Limited,141,245.9,188492268.6
+2026-09-23,3,HDL,Himalayan Distillery Limited,235,1278.3,205417048.7
+2026-09-23,2,RSML,Reliance Spinning Mills Limited,9306,2722.9,212561553.5
+2026-09-23,1,SHIVM,SHIVAM CEMENTS LTD,2809,687.0,383446856.3
 2026-09-22,20,NHPC,National Hydro Power Company Limited,152,274.0,87573783.0
 2026-09-22,19,MEN,Mountain Energy Nepal Limited,2913,657.0,94781977.3
 2026-09-22,18,SAHAS,Sahas Urja Limited,8021,697.0,96739304.9
