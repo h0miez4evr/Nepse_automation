@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-24,20,NHPC,National Hydro Power Company Limited,152,265.5,205784
+2026-09-24,19,PHCL,Peoples Hydropower Company Limited,8133,319.6,216676
+2026-09-24,18,RIDI,Ridi Power Company Limited,610,343.0,218996
+2026-09-24,17,API,Api Power Company Ltd.,697,334.8,222714
+2026-09-24,16,GBIME,Global IME Bank Limited,341,243.8,223466
+2026-09-24,15,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,358.0,226896
+2026-09-24,14,HDHPC,Himal Dolakha Hydropower Company Limited,2880,220.3,239506
+2026-09-24,13,HATHY,Hathway Investment Nepal Limited,9213,452.9,264625
+2026-09-24,12,HDL,Himalayan Distillery Limited,235,1312.0,269776
+2026-09-24,11,GHL,Ghalemdi Hydro Limited,2806,253.7,289390
+2026-09-24,10,PSF,Prabhu Select Fund,4947,10.86,292062
+2026-09-24,9,NBL,Nepal Bank Limited,517,292.0,315961
+2026-09-24,8,LEC,Liberty Energy Company Limited,2903,254.8,326188
+2026-09-24,7,KBL,Kumari Bank Limited,142,226.0,369479
+2026-09-24,6,SONA,Sonapur Minerals And Oil Limited,9216,434.9,435148
+2026-09-24,5,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,533.8,464282
+2026-09-24,4,NABILP,NABIL Bank Limited Promotor Share,282,310.0,504428
+2026-09-24,3,SHIVM,SHIVAM CEMENTS LTD,2809,702.0,513243
+2026-09-24,2,LSL,Laxmi Sunrise Bank Limited,141,250.0,554274
+2026-09-24,1,HLICF,HLI Large Cap Fund,9290,8.66,3900250
 2026-09-23,20,PHCL,Peoples Hydropower Company Limited,8133,312.0,233179
 2026-09-23,19,API,Api Power Company Ltd.,697,334.0,233494
 2026-09-23,18,MNMF1,Muktinath Mutual Fund 1,9245,9.15,236252

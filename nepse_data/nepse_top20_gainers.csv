@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-24,20,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,339.0,339.0,9.0,2.73
+2026-09-24,19,AHL,Asian Hydropower Limited,9150,402.7,402.7,10.7,2.73
+2026-09-24,18,PURE,Pure Energy Limited,9258,817.0,817.0,22.0,2.77
+2026-09-24,17,BHCL,Bikash Hydropower Company Limited,9267,574.8,574.8,15.8,2.83
+2026-09-24,16,NIBD84,8.5% Nepal Investment Bank Debenture 2084,2931,1064.9,1064.9,29.9,2.89
+2026-09-24,15,HLICF,HLI Large Cap Fund,9290,8.66,8.66,0.25,2.97
+2026-09-24,14,NBLD85,Nabil Debenture 2085,8027,1071.0,1071.0,31.0,2.98
+2026-09-24,13,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1136.0,1136.0,33.0,2.99
+2026-09-24,12,NBLD87,8.5% Nepal Bank Debenture 2087,4959,1091.8,1091.8,31.8,3.0
+2026-09-24,11,MND84/85,Muktinath Debenture 2084/85,4969,1100.0,1100.0,32.0,3.0
+2026-09-24,10,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,305.0,305.0,9.0,3.04
+2026-09-24,9,PCIL,Palpa Cement Industries Limited,9330,633.0,633.0,22.0,3.6
+2026-09-24,8,SNORL,Snow Rivers Limited,9344,899.0,899.0,39.91,4.65
+2026-09-24,7,USLB,Unnati Sahakarya Laghubitta Bittiya Sanstha Limited,2774,1144.0,1144.0,51.0,4.67
+2026-09-24,6,ICFCD83,12% ICFC Finance Limited Debenture 2083,2882,967.2,967.2,46.0,4.99
+2026-09-24,5,CYCL,CYC Nepal Laghubitta Bittiya Sanstha Limited,8065,1630.0,1630.0,99.0,6.47
+2026-09-24,4,GCIL,Ghorahi Cement Industry Limited,9193,401.3,401.3,26.5,7.07
+2026-09-24,3,KSY,Kumari Sabal Yojana,9241,9.53,9.53,0.67,7.56
+2026-09-24,2,SONA,Sonapur Minerals And Oil Limited,9216,434.9,434.9,30.9,7.65
+2026-09-24,1,NLO,Nepal Lube Oil Limited,198,271.3,271.3,30.08,12.47
 2026-09-23,20,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,330.0,330.0,3.9,1.2
 2026-09-23,19,USHL,Upper Syange Hydropower Limited,9192,521.5,521.5,6.5,1.26
 2026-09-23,18,BOKD86KA,"BOK Debenture 2086 ""KA""",9136,1120.0,1120.0,19.5,1.77

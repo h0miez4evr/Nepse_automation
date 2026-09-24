@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-09-24,20,SBL,Siddhartha Bank Limited,145,456.8,519
+2026-09-24,19,RSML,Reliance Spinning Mills Limited,9306,2754.0,538
+2026-09-24,18,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,358.0,545
+2026-09-24,17,PHCL,Peoples Hydropower Company Limited,8133,319.6,550
+2026-09-24,16,LEC,Liberty Energy Company Limited,2903,254.8,566
+2026-09-24,15,GHL,Ghalemdi Hydro Limited,2806,253.7,567
+2026-09-24,14,API,Api Power Company Ltd.,697,334.8,592
+2026-09-24,13,KBL,Kumari Bank Limited,142,226.0,621
+2026-09-24,12,GBIME,Global IME Bank Limited,341,243.8,660
+2026-09-24,11,LSL,Laxmi Sunrise Bank Limited,141,250.0,673
+2026-09-24,10,SGHL,Sanigad Hydro Limited,9345,486.5,777
+2026-09-24,9,SOHL,Solu Hydropower Limited,9311,645.0,784
+2026-09-24,8,BHCL,Bikash Hydropower Company Limited,9267,574.8,823
+2026-09-24,7,GCIL,Ghorahi Cement Industry Limited,9193,401.3,974
+2026-09-24,6,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,533.8,1155
+2026-09-24,5,PCIL,Palpa Cement Industries Limited,9330,633.0,1336
+2026-09-24,4,HATHY,Hathway Investment Nepal Limited,9213,452.9,1357
+2026-09-24,3,SHIVM,SHIVAM CEMENTS LTD,2809,702.0,1641
+2026-09-24,2,HDL,Himalayan Distillery Limited,235,1312.0,1735
+2026-09-24,1,SONA,Sonapur Minerals And Oil Limited,9216,434.9,1804
 2026-09-23,20,SAPIL,Sarvottam Paints Industries Limited,9353,1333.0,596
 2026-09-23,19,HRL,Himalayan Reinsurance Limited,9234,506.0,632
 2026-09-23,18,MEPDL,Mount Everest Power Development Limited,9352,646.2,641
