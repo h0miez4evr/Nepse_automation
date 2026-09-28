@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-28,20,PCBL,Prime Commercial Bank Ltd.,357,260.0,260.0,1.17,3.0,1.11,0.06
+2026-09-28,19,ALBSL,Asha Laghubitta Bittiya Sanstha Ltd,2807,1188.5,1188.5,1.2,14.1,1.11,0.09
+2026-09-28,18,MDB,Miteri Development Bank Limited,371,566.8,566.8,1.21,6.8,1.11,0.1
+2026-09-28,17,BARUN,Barun Hydropower Co. Ltd.,686,330.0,330.0,1.23,4.0,1.11,0.12
+2026-09-28,16,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1150.0,1150.0,1.23,14.0,1.11,0.12
+2026-09-28,15,SRBLD83,10.25% Sunrise Bank Debenture 2083,2878,1038.0,1038.0,1.27,13.0,1.11,0.16
+2026-09-28,14,RSML,Reliance Spinning Mills Limited,9306,2789.0,2789.0,1.27,35.0,1.11,0.16
+2026-09-28,13,SBLD84,8.5% SBL Debenture 2084,2912,1035.0,1035.0,1.46,14.9,1.11,0.35
+2026-09-28,12,SIGS2,Siddhartha Investment Growth Scheme - 2,2859,9.6,9.6,1.48,0.14,1.11,0.37
+2026-09-28,11,RSY2,Reliable Samriddhi Yojana -2,9351,9.11,9.11,1.56,0.14,1.11,0.45
+2026-09-28,10,EBLD86,Everest Bank Limited,8044,1075.5,1075.5,1.56,16.5,1.11,0.45
+2026-09-28,9,NIBLGF,NIBL Growth Fund,9138,8.83,8.83,1.61,0.14,1.11,0.5
+2026-09-28,8,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1138.0,1138.0,1.66,18.6,1.11,0.55
+2026-09-28,7,NBF3,Nabil Balanced Fund-3,8024,9.16,9.16,1.78,0.16,1.11,0.67
+2026-09-28,6,KEF,Kumari Equity Fund,2933,9.57,9.57,2.57,0.24,1.11,1.46
+2026-09-28,5,NICBF,NIC Asia Balanced Fund,2863,9.04,9.04,2.73,0.24,1.11,1.62
+2026-09-28,4,MANDU,Mandu Hydropower Limited,9212,780.0,780.0,5.38,39.8,1.11,4.27
+2026-09-28,3,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1159.0,1159.0,8.83,94.0,1.11,7.72
+2026-09-28,2,LSD92,7% Laxmi Sunrise Debenture 2092,9355,1100.0,1100.0,10.0,100.0,1.11,8.89
+2026-09-28,1,KBLD90,10% KBL Debenture 2090,9220,1460.0,1460.0,12.17,158.4,1.11,11.06
 2026-09-24,20,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,339.0,339.0,2.73,9.0,1.29,1.44
 2026-09-24,19,AHL,Asian Hydropower Limited,9150,402.7,402.7,2.73,10.7,1.29,1.44
 2026-09-24,18,PURE,Pure Energy Limited,9258,817.0,817.0,2.77,22.0,1.29,1.48
