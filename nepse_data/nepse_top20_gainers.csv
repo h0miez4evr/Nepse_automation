@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-09-29,20,GHL,Ghalemdi Hydro Limited,2806,253.0,253.0,4.0,1.61
+2026-09-29,19,LSD92,7% Laxmi Sunrise Debenture 2092,9355,1120.1,1120.1,20.1,1.83
+2026-09-29,18,NBLD87,8.5% Nepal Bank Debenture 2087,4959,1112.4,1112.4,20.6,1.89
+2026-09-29,17,SAEF2,Sanima Equity Fund-2,9349,9.2,9.2,0.18,2.0
+2026-09-29,16,RSY,Reliable Samriddhi Yojana,9259,9.5,9.5,0.19,2.04
+2026-09-29,15,NABILD2089,7% Nabil Debenture 2089,9299,1100.0,1100.0,23.82,2.21
+2026-09-29,14,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1400.0,1400.0,31.0,2.26
+2026-09-29,13,NIBD84,8.5% Nepal Investment Bank Debenture 2084,2931,1069.0,1069.0,24.0,2.3
+2026-09-29,12,NICFC,NIC Asia Flexi CAP Fund,8073,9.15,9.15,0.23,2.58
+2026-09-29,11,GIBF1,Global IME Balanced Fund-1,8106,10.28,10.28,0.28,2.8
+2026-09-29,10,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,350.0,350.0,10.1,2.97
+2026-09-29,9,PBLD84,10% Prabhu Bank Debenture 2084 ,2904,1108.0,1108.0,32.0,2.97
+2026-09-29,8,MCHL,Menchhiyam Hydropower Limited,9175,274.0,274.0,9.0,3.4
+2026-09-29,7,HATHY,Hathway Investment Nepal Limited,9213,419.0,419.0,14.0,3.46
+2026-09-29,6,NICSF,NIC Asia Select Fund 30,4967,8.6,8.6,0.3,3.61
+2026-09-29,5,SAGF,Sanima Growth Fund,9139,9.78,9.78,0.36,3.82
+2026-09-29,4,SAPIL,Sarvottam Paints Industries Limited,9353,1290.0,1290.0,76.36,6.29
+2026-09-29,3,SBID2090,7% Nepal SBI Bank Debenture 2090,9289,1122.7,1122.7,67.7,6.42
+2026-09-29,2,SPHL,Sayapatri Hydropower Limited,8121,535.0,535.0,34.0,6.79
+2026-09-29,1,ICFCD83,12% ICFC Finance Limited Debenture 2083,2882,1056.0,1056.0,88.8,9.18
 2026-09-28,20,PCBL,Prime Commercial Bank Ltd.,357,260.0,260.0,3.0,1.17
 2026-09-28,19,ALBSL,Asha Laghubitta Bittiya Sanstha Ltd,2807,1188.5,1188.5,14.1,1.2
 2026-09-28,18,MDB,Miteri Development Bank Limited,371,566.8,566.8,6.8,1.21
