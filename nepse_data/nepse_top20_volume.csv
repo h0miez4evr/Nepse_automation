@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-09-30,20,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,342.0,124799
+2026-09-30,19,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,350.0,136582
+2026-09-30,18,GBIME,Global IME Bank Limited,341,243.5,156168
+2026-09-30,17,NBL,Nepal Bank Limited,517,294.7,157573
+2026-09-30,16,SONA,Sonapur Minerals And Oil Limited,9216,420.0,187457
+2026-09-30,15,API,Api Power Company Ltd.,697,335.0,202391
+2026-09-30,14,KBL,Kumari Bank Limited,142,223.9,204277
+2026-09-30,13,KKHC,Khanikhola Hydropower Co. Ltd.,2751,270.2,205795
+2026-09-30,12,SHIVM,SHIVAM CEMENTS LTD,2809,684.5,222436
+2026-09-30,11,HATHY,Hathway Investment Nepal Limited,9213,429.0,235078
+2026-09-30,10,HDHPC,Himal Dolakha Hydropower Company Limited,2880,218.0,240203
+2026-09-30,9,SHPC,Sanima Mai Hydropower Ltd.,591,529.6,254452
+2026-09-30,8,NIBLGF,NIBL Growth Fund,9138,8.71,272780
+2026-09-30,7,RIDI,Ridi Power Company Limited,610,339.0,289391
+2026-09-30,6,SBL,Siddhartha Bank Limited,145,455.4,325748
+2026-09-30,5,LSL,Laxmi Sunrise Bank Limited,141,253.5,463181
+2026-09-30,4,MFILPO,Manjushree Finance Ltd. Promoter Share,730,335.0,539733
+2026-09-30,3,LEC,Liberty Energy Company Limited,2903,252.8,548535
+2026-09-30,2,PHCL,Peoples Hydropower Company Limited,8133,333.8,685772
+2026-09-30,1,GHL,Ghalemdi Hydro Limited,2806,271.5,1482606
 2026-09-29,20,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,533.9,156910
 2026-09-29,19,NBL,Nepal Bank Limited,517,295.0,168055
 2026-09-29,18,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,350.7,169628

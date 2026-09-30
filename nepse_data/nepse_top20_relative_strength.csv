@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-09-30,20,CBLD88,Civil Bank Debenture 2088,8043,1232.0,1232.0,2.5,30.0,1.23,1.27
+2026-09-30,19,UNL,Unilever Nepal Limited,219,49200.0,49200.0,2.5,1200.0,1.23,1.27
+2026-09-30,18,ICFCD83,12% ICFC Finance Limited Debenture 2083,2882,1085.0,1085.0,2.75,29.0,1.23,1.52
+2026-09-30,17,SLCF,Sanima Large Cap Fund,2923,9.27,9.27,2.89,0.26,1.23,1.66
+2026-09-30,16,NABILD87,9% Nabil Debenture 2087,9238,1166.9,1166.9,2.9,32.9,1.23,1.67
+2026-09-30,15,MMF1,Mega Mutual Fund -1,8023,8.75,8.75,2.94,0.25,1.23,1.71
+2026-09-30,14,HHL,Himalayan Hydropower Limited,8076,350.0,350.0,2.94,10.0,1.23,1.71
+2026-09-30,13,NCCD86,9.5% NCC Debenture 2086,2936,1150.0,1150.0,2.95,33.0,1.23,1.72
+2026-09-30,12,SDBD87,Shangri-la Development Bank Debenture 2087,6985,1148.0,1148.0,2.96,33.0,1.23,1.73
+2026-09-30,11,NLO,Nepal Lube Oil Limited,198,279.4,279.4,2.99,8.1,1.23,1.76
+2026-09-30,10,LBLD88,8.5% Laxmi Bank Debenture 2088,5984,1133.0,1133.0,3.0,33.0,1.23,1.77
+2026-09-30,9,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,294.0,294.0,3.16,9.0,1.23,1.93
+2026-09-30,8,NICGF2,NIC ASIA Growth Fund-2,9236,8.99,8.99,3.45,0.3,1.23,2.22
+2026-09-30,7,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1140.0,1140.0,3.6,39.6,1.23,2.37
+2026-09-30,6,SBCF,Sunrise Bluechip Fund,2937,9.27,9.27,4.16,0.37,1.23,2.93
+2026-09-30,5,PHCL,Peoples Hydropower Company Limited,8133,333.8,333.8,4.28,13.7,1.23,3.05
+2026-09-30,4,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,342.0,342.0,5.26,17.1,1.23,4.03
+2026-09-30,3,GHL,Ghalemdi Hydro Limited,2806,271.5,271.5,7.31,18.5,1.23,6.08
+2026-09-30,2,SPHL,Sayapatri Hydropower Limited,8121,580.0,580.0,8.41,45.0,1.23,7.18
+2026-09-30,1,SINDU,Sindhu Bikash Bank Ltd,561,444.9,444.9,14.37,55.9,1.23,13.14
 2026-09-29,20,GHL,Ghalemdi Hydro Limited,2806,253.0,253.0,1.61,4.0,1.17,0.44
 2026-09-29,19,LSD92,7% Laxmi Sunrise Debenture 2092,9355,1120.1,1120.1,1.83,20.1,1.17,0.66
 2026-09-29,18,NBLD87,8.5% Nepal Bank Debenture 2087,4959,1112.4,1112.4,1.89,20.6,1.17,0.72
