@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-01,20,SHIVM,SHIVAM CEMENTS LTD,2809,685.0,134118
+2026-10-01,19,SOHL,Solu Hydropower Limited,9311,630.0,138798
+2026-10-01,18,ENL,Emerging Nepal Limited,8034,517.0,154870
+2026-10-01,17,BHL,Balephi Hydropower Limited,8055,214.7,156150
+2026-10-01,16,PCBL,Prime Commercial Bank Ltd.,357,261.0,156981
+2026-10-01,15,SONA,Sonapur Minerals And Oil Limited,9216,420.0,157977
+2026-10-01,14,GBIME,Global IME Bank Limited,341,243.9,160452
+2026-10-01,13,NHPC,National Hydro Power Company Limited,152,261.6,199421
+2026-10-01,12,SSHL,Shiva Shree Hydropower Ltd,2907,208.6,215602
+2026-10-01,11,HURJA,Himalaya Urja Bikas Company Limited,2824,260.0,226689
+2026-10-01,10,KBL,Kumari Bank Limited,142,225.0,231215
+2026-10-01,9,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,353.7,231649
+2026-10-01,8,LEC,Liberty Energy Company Limited,2903,252.3,374816
+2026-10-01,7,PHCL,Peoples Hydropower Company Limited,8133,340.5,430430
+2026-10-01,6,HDHPC,Himal Dolakha Hydropower Company Limited,2880,223.5,483139
+2026-10-01,5,HATHY,Hathway Investment Nepal Limited,9213,455.0,484743
+2026-10-01,4,LSL,Laxmi Sunrise Bank Limited,141,258.0,504687
+2026-10-01,3,SBL,Siddhartha Bank Limited,145,459.9,666560
+2026-10-01,2,API,Api Power Company Ltd.,697,341.0,673595
+2026-10-01,1,GHL,Ghalemdi Hydro Limited,2806,273.6,676519
 2026-09-30,20,MKJC,Mailung Khola Jal Vidhyut Company Limited,8005,342.0,124799
 2026-09-30,19,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,350.0,136582
 2026-09-30,18,GBIME,Global IME Bank Limited,341,243.5,156168

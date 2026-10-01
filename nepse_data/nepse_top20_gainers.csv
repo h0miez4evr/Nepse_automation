@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-10-01,20,HDHPC,Himal Dolakha Hydropower Company Limited,2880,223.5,223.5,5.5,2.52
+2026-10-01,19,NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,2784,683.0,683.0,16.8,2.52
+2026-10-01,18,NMLBBL,Nerude Mirmire Laghubitta Bittiya Sanstha Limited,396,507.7,507.7,12.7,2.57
+2026-10-01,17,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1277.2,1277.2,32.1,2.58
+2026-10-01,16,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1131.0,1131.0,31.0,2.82
+2026-10-01,15,SBD87,8.5% Sanima Debenture 2087,2922,1093.0,1093.0,31.0,2.92
+2026-10-01,14,CBLD88,Civil Bank Debenture 2088,8043,1268.0,1268.0,36.0,2.92
+2026-10-01,13,C30MF,Citizens Super 30 Mutual Fund,9191,9.49,9.49,0.27,2.93
+2026-10-01,12,NICD88,NIC ASIA Rinpatra 2088,7986,1117.5,1117.5,32.5,3.0
+2026-10-01,11,GBILD86/87,Global IME Bank Limited Debenture 2086/87,8004,1122.7,1122.7,32.7,3.0
+2026-10-01,10,RURU,Ru Ru Jalbidhyut Pariyojana Limited,2935,607.0,607.0,18.0,3.06
+2026-10-01,9,RBBD2088,7% RBBL Debenture 2088,9264,1103.0,1103.0,33.0,3.08
+2026-10-01,8,RLEL,Ridge Line Energy Limited,9324,740.9,740.9,23.9,3.33
+2026-10-01,7,SIPD,Shikhar power Development Limited,9329,560.3,560.3,22.3,4.14
+2026-10-01,6,DOLTI,Dolti Power Company Limited,9170,308.0,308.0,13.0,4.41
+2026-10-01,5,HATHY,Hathway Investment Nepal Limited,9213,455.0,455.0,26.0,6.06
+2026-10-01,4,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,369.0,369.0,26.0,7.58
+2026-10-01,3,ENL,Emerging Nepal Limited,8034,517.0,517.0,37.0,7.71
+2026-10-01,2,CORBL,Corporate Development Bank Limited,450,806.9,806.9,69.0,9.35
+2026-10-01,1,SINDU,Sindhu Bikash Bank Ltd,561,489.9,489.9,45.0,10.11
 2026-09-30,20,CBLD88,Civil Bank Debenture 2088,8043,1232.0,1232.0,30.0,2.5
 2026-09-30,19,UNL,Unilever Nepal Limited,219,49200.0,49200.0,1200.0,2.5
 2026-09-30,18,ICFCD83,12% ICFC Finance Limited Debenture 2083,2882,1085.0,1085.0,29.0,2.75
