@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-10-02,20,HDHPC,Himal Dolakha Hydropower Company Limited,2880,220.0,507
+2026-10-02,19,SOPL,Sopan Pharmaceuticals Limited,9336,653.6,534
+2026-10-02,18,HRL,Himalayan Reinsurance Limited,9234,499.0,536
+2026-10-02,17,SYPNL,SY Panel Nepal Limited,9303,1341.0,554
+2026-10-02,16,API,Api Power Company Ltd.,697,338.8,560
+2026-10-02,15,KAHL,Kalanga Hydro Limited,9346,458.0,568
+2026-10-02,14,SBL,Siddhartha Bank Limited,145,408.0,575
+2026-10-02,13,CORBL,Corporate Development Bank Limited,450,810.0,594
+2026-10-02,12,RSML,Reliance Spinning Mills Limited,9306,2708.0,611
+2026-10-02,11,PCIL,Palpa Cement Industries Limited,9330,620.0,612
+2026-10-02,10,LEC,Liberty Energy Company Limited,2903,245.0,651
+2026-10-02,9,SINDU,Sindhu Bikash Bank Ltd,561,448.0,664
+2026-10-02,8,KBL,Kumari Bank Limited,142,225.5,699
+2026-10-02,7,PHCL,Peoples Hydropower Company Limited,8133,332.0,725
+2026-10-02,6,HDL,Himalayan Distillery Limited,235,1293.0,735
+2026-10-02,5,GHL,Ghalemdi Hydro Limited,2806,269.0,739
+2026-10-02,4,SGHL,Sanigad Hydro Limited,9345,468.0,791
+2026-10-02,3,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,356.0,831
+2026-10-02,2,SOHL,Solu Hydropower Limited,9311,620.0,848
+2026-10-02,1,HATHY,Hathway Investment Nepal Limited,9213,440.0,1272
 2026-10-01,20,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,353.7,543
 2026-10-01,19,KAHL,Kalanga Hydro Limited,9346,467.0,570
 2026-10-01,18,LEC,Liberty Energy Company Limited,2903,252.3,587

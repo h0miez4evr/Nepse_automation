@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-02,20,SFMF,Sunrise First Mutual Fund,2877,9.25,9.25,1.54,0.14,1.18,0.36
+2026-10-02,19,SMHL,Super Madi Hydropower Limited,9146,477.7,477.7,1.55,7.3,1.18,0.37
+2026-10-02,18,KSY,Kumari Sabal Yojana,9241,9.15,9.15,1.67,0.15,1.18,0.49
+2026-10-02,17,MNMF1,Muktinath Mutual Fund 1,9245,9.1,9.1,1.68,0.15,1.18,0.5
+2026-10-02,16,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1150.0,1150.0,1.76,19.9,1.18,0.58
+2026-10-02,15,LSD92,7% Laxmi Sunrise Debenture 2092,9355,1150.0,1150.0,1.77,20.0,1.18,0.59
+2026-10-02,14,YMHL,Yambaling Hydropower Limited,9342,514.0,514.0,1.78,9.0,1.18,0.6
+2026-10-02,13,SHINED,Shine Resunga Debenture,9286,1145.0,1145.0,1.78,20.0,1.18,0.6
+2026-10-02,12,AVYAN,Aviyan Laghubitta Bittiya Sanstha Limited,8117,1059.0,1059.0,1.83,19.0,1.18,0.65
+2026-10-02,11,HLICF,HLI Large Cap Fund,9290,8.5,8.5,2.04,0.17,1.18,0.86
+2026-10-02,10,BFC,Best Finance Company Ltd.,227,460.3,460.3,2.29,10.3,1.18,1.11
+2026-10-02,9,NABILD2089,7% Nabil Debenture 2089,9299,1105.0,1105.0,2.6,28.0,1.18,1.42
+2026-10-02,8,RMF2,RBB Mutual Fund 2,9178,9.49,9.49,2.93,0.27,1.18,1.75
+2026-10-02,7,EBLD86,Everest Bank Limited,8044,1102.0,1102.0,2.99,32.0,1.18,1.81
+2026-10-02,6,NIMBD90,10% NIMB Debenture 2090,9243,1225.0,1225.0,3.81,45.0,1.18,2.63
+2026-10-02,5,NIBLGF,NIBL Growth Fund,9138,9.16,9.16,3.97,0.35,1.18,2.79
+2026-10-02,4,LUK,Laxmi Unnati Kosh,2902,9.73,9.73,4.62,0.43,1.18,3.44
+2026-10-02,3,MANDU,Mandu Hydropower Limited,9212,792.0,792.0,5.45,40.9,1.18,4.27
+2026-10-02,2,SBLD89,10.75% SBL Debenture 2089,8098,1360.0,1360.0,8.8,110.0,1.18,7.62
+2026-10-02,1,NMBD89/90,NMB Debenture 10.75%-2089/90,9180,1400.0,1400.0,14.29,175.0,1.18,13.11
 2026-10-01,20,HDHPC,Himal Dolakha Hydropower Company Limited,2880,223.5,223.5,2.52,5.5,1.15,1.37
 2026-10-01,19,NADEP,Nadep Laghubittiya bittya Sanstha Ltd.,2784,683.0,683.0,2.52,16.8,1.15,1.37
 2026-10-01,18,NMLBBL,Nerude Mirmire Laghubitta Bittiya Sanstha Limited,396,507.7,507.7,2.57,12.7,1.15,1.42
