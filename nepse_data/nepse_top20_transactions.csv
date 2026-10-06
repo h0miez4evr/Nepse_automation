@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-10-06,20,RIDI,Ridi Power Company Limited,610,337.5,421
+2026-10-06,19,API,Api Power Company Ltd.,697,335.8,424
+2026-10-06,18,HRL,Himalayan Reinsurance Limited,9234,493.4,438
+2026-10-06,17,KBL,Kumari Bank Limited,142,225.9,455
+2026-10-06,16,LSL,Laxmi Sunrise Bank Limited,141,256.6,462
+2026-10-06,15,MEPDL,Mount Everest Power Development Limited,9352,629.0,501
+2026-10-06,14,HBL,Himalayan Bank Limited,134,193.2,512
+2026-10-06,13,HDL,Himalayan Distillery Limited,235,1271.0,518
+2026-10-06,12,SOPL,Sopan Pharmaceuticals Limited,9336,640.0,535
+2026-10-06,11,SONA,Sonapur Minerals And Oil Limited,9216,419.0,580
+2026-10-06,10,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,485.0,626
+2026-10-06,9,PHCL,Peoples Hydropower Company Limited,8133,338.0,653
+2026-10-06,8,KAHL,Kalanga Hydro Limited,9346,447.0,678
+2026-10-06,7,PCIL,Palpa Cement Industries Limited,9330,615.0,750
+2026-10-06,6,HATHY,Hathway Investment Nepal Limited,9213,437.5,758
+2026-10-06,5,HDHPC,Himal Dolakha Hydropower Company Limited,2880,222.9,804
+2026-10-06,4,LEC,Liberty Energy Company Limited,2903,251.5,860
+2026-10-06,3,SGHL,Sanigad Hydro Limited,9345,456.2,1077
+2026-10-06,2,SOHL,Solu Hydropower Limited,9311,625.0,1167
+2026-10-06,1,GHL,Ghalemdi Hydro Limited,2806,278.6,1479
 2026-10-05,20,YMHL,Yambaling Hydropower Limited,9342,497.0,458
 2026-10-05,19,SONA,Sonapur Minerals And Oil Limited,9216,410.9,481
 2026-10-05,18,API,Api Power Company Ltd.,697,334.5,485

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-06,20,OHL,Oriental Hotels Limited,149,620.0,620.0,2.14,13.0,0.99,1.15
+2026-10-06,19,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1093.0,1093.0,2.15,23.0,0.99,1.16
+2026-10-06,18,GMLI,Guardian Micro Life Insurance Limited ,9246,957.0,957.0,2.35,22.0,0.99,1.36
+2026-10-06,17,PHCL,Peoples Hydropower Company Limited,8133,338.0,338.0,2.46,8.1,0.99,1.47
+2026-10-06,16,GBIMESY2,Global IME Sammunat Yojana -2,9269,9.5,9.5,2.48,0.23,0.99,1.49
+2026-10-06,15,SNORL,Snow Rivers Limited,9344,834.5,834.5,2.71,22.0,0.99,1.72
+2026-10-06,14,BGWT,Bhagawati Hydropower Development Company Limited,9214,478.0,478.0,2.73,12.7,0.99,1.74
+2026-10-06,13,BNT,Bottlers Nepal (Terai) Limited,213,11995.0,11995.0,2.78,324.3,0.99,1.79
+2026-10-06,12,LSH12,LS Horizon 12,9350,9.15,9.15,2.81,0.25,0.99,1.82
+2026-10-06,11,C30MF,Citizens Super 30 Mutual Fund,9191,9.76,9.76,2.95,0.28,0.99,1.96
+2026-10-06,10,SLCF,Sanima Large Cap Fund,2923,9.38,9.38,2.96,0.27,0.99,1.97
+2026-10-06,9,MBLEF,MBL Equity Fund,9257,9.28,9.28,3.0,0.27,0.99,2.01
+2026-10-06,8,ENL,Emerging Nepal Limited,8034,500.0,500.0,3.09,15.0,0.99,2.1
+2026-10-06,7,RMF2,RBB Mutual Fund 2,9178,9.79,9.79,3.16,0.3,0.99,2.17
+2026-10-06,6,SIKLES,Sikles Hydropower Limited,8126,579.0,579.0,3.39,19.0,0.99,2.4
+2026-10-06,5,LEC,Liberty Energy Company Limited,2903,251.5,251.5,3.5,8.5,0.99,2.51
+2026-10-06,4,BPCL,Butwal Power Company Limited,153,667.0,667.0,3.57,23.0,0.99,2.58
+2026-10-06,3,HATHY,Hathway Investment Nepal Limited,9213,437.5,437.5,3.65,15.4,0.99,2.66
+2026-10-06,2,SABBL,Salapa Bikas Bank Limited,9305,840.5,840.5,3.77,30.5,0.99,2.78
+2026-10-06,1,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,288.0,288.0,5.11,14.0,0.99,4.12
 2026-10-05,20,SBID89,9% Nepal SBI Bank Rinpatra 2089,9211,1160.1,1160.1,1.32,15.1,1.21,0.11
 2026-10-05,19,RBBD83,8.5% RBBL Debenture 2083,8003,1045.0,1045.0,1.45,14.9,1.21,0.24
 2026-10-05,18,SADBL,Shangrila Development Bank Ltd.,472,401.0,401.0,1.52,6.0,1.21,0.31
