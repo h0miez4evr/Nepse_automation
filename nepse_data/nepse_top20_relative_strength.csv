@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-07,20,GLH,GreenLife Hydropower Limited,2924,277.1,277.1,2.63,7.1,1.1,1.53
+2026-10-07,19,EBLD91,Everest Bank Limited Debenture 2091,9255,1160.0,1160.0,2.65,30.0,1.1,1.55
+2026-10-07,18,H8020,Himalayan 80-20,9221,11.4,11.4,2.7,0.3,1.1,1.6
+2026-10-07,17,MANDU,Mandu Hydropower Limited,9212,785.0,785.0,2.72,20.8,1.1,1.62
+2026-10-07,16,NSIF2,NMB Sulav Investment Fund - 2,8125,10.07,10.07,2.76,0.27,1.1,1.66
+2026-10-07,15,EBLD86,Everest Bank Limited,8044,1110.0,1110.0,2.78,30.0,1.1,1.68
+2026-10-07,14,SIGS2,Siddhartha Investment Growth Scheme - 2,2859,9.57,9.57,2.9,0.27,1.1,1.8
+2026-10-07,13,CBLD88,Civil Bank Debenture 2088,8043,1230.0,1230.0,2.93,35.0,1.1,1.83
+2026-10-07,12,PBD88,10% Prime Debenture 2088,8097,1225.0,1225.0,2.94,35.0,1.1,1.84
+2026-10-07,11,CCBD88,Century Debenture 2088,8068,1225.0,1225.0,2.94,35.0,1.1,1.84
+2026-10-07,10,NBF2,NABIL BALANCED FUND-2,2835,9.38,9.38,2.96,0.27,1.1,1.86
+2026-10-07,9,NICL,Nepal Insurance Co. Ltd.,176,448.0,448.0,2.99,13.0,1.1,1.89
+2026-10-07,8,GBBD85,"Garima Debenture, 2085",8033,1095.0,1095.0,3.29,34.9,1.1,2.19
+2026-10-07,7,RMF1,RBB Mutual Fund 1,4968,9.3,9.3,3.33,0.3,1.1,2.23
+2026-10-07,6,RBBF40,RBB Focus 40,9302,9.28,9.28,3.57,0.32,1.1,2.47
+2026-10-07,5,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,549.9,549.9,3.66,19.4,1.1,2.56
+2026-10-07,4,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1205.0,1205.0,4.78,55.0,1.1,3.68
+2026-10-07,3,IHL,Ingwa Hydropower Limited,9176,324.0,324.0,4.85,15.0,1.1,3.75
+2026-10-07,2,NICBF,NIC Asia Balanced Fund,2863,9.26,9.26,5.83,0.51,1.1,4.73
+2026-10-07,1,GHL,Ghalemdi Hydro Limited,2806,294.9,294.9,5.85,16.3,1.1,4.75
 2026-10-06,20,OHL,Oriental Hotels Limited,149,620.0,620.0,2.14,13.0,0.99,1.15
 2026-10-06,19,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1093.0,1093.0,2.15,23.0,0.99,1.16
 2026-10-06,18,GMLI,Guardian Micro Life Insurance Limited ,9246,957.0,957.0,2.35,22.0,0.99,1.36

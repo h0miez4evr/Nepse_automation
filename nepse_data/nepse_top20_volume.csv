@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-07,20,MMF1,Mega Mutual Fund -1,8023,8.33,131000
+2026-10-07,19,CFCL,Central Finance Co. Ltd.,245,574.9,131035
+2026-10-07,18,SBL,Siddhartha Bank Limited,145,398.4,133592
+2026-10-07,17,PCBL,Prime Commercial Bank Ltd.,357,260.9,134970
+2026-10-07,16,GBIME,Global IME Bank Limited,341,241.0,139736
+2026-10-07,15,NMB,NMB Bank Limited,238,255.2,142472
+2026-10-07,14,RIDI,Ridi Power Company Limited,610,336.0,146837
+2026-10-07,13,NIBLSTF,NIBL Stable Fund,9244,8.5,163920
+2026-10-07,12,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,353.0,171247
+2026-10-07,11,PRSF,Prabhu Smart Fund,9174,11.98,176900
+2026-10-07,10,NICSF,NIC Asia Select Fund 30,4967,8.4,183600
+2026-10-07,9,API,Api Power Company Ltd.,697,337.0,200188
+2026-10-07,8,HDHPC,Himal Dolakha Hydropower Company Limited,2880,223.0,221662
+2026-10-07,7,HPPL,Himalayan Power Partner Ltd.,2767,392.0,239841
+2026-10-07,6,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,549.9,257841
+2026-10-07,5,KBL,Kumari Bank Limited,142,226.1,283675
+2026-10-07,4,LSL,Laxmi Sunrise Bank Limited,141,256.0,347812
+2026-10-07,3,PHCL,Peoples Hydropower Company Limited,8133,344.0,475980
+2026-10-07,2,LEC,Liberty Energy Company Limited,2903,257.0,636471
+2026-10-07,1,GHL,Ghalemdi Hydro Limited,2806,294.9,1116146
 2026-10-06,20,HURJA,Himalaya Urja Bikas Company Limited,2824,256.0,98888
 2026-10-06,19,H8020,Himalayan 80-20,9221,11.1,98943
 2026-10-06,18,SSHL,Shiva Shree Hydropower Ltd,2907,206.5,100034
