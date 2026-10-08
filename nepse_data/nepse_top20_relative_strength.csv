@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-08,20,HDHPC,Himal Dolakha Hydropower Company Limited,2880,228.3,228.3,2.38,5.3,1.1,1.28
+2026-10-08,19,MBLD87,8.5% Machhapuchchhre Debenture 2087,7985,1105.0,1105.0,2.48,26.7,1.1,1.38
+2026-10-08,18,SPIL,Siddhartha Premier Insurance Limited,182,615.0,615.0,2.5,15.0,1.1,1.4
+2026-10-08,17,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,913.0,913.0,2.58,23.0,1.1,1.48
+2026-10-08,16,SPDL,Synergy Power Development Ltd.,2759,349.9,349.9,2.61,8.9,1.1,1.51
+2026-10-08,15,GCIL,Ghorahi Cement Industry Limited,9193,391.4,391.4,2.65,10.1,1.1,1.55
+2026-10-08,14,BHL,Balephi Hydropower Limited,8055,218.8,218.8,2.72,5.8,1.1,1.62
+2026-10-08,13,GBILD86/87,Global IME Bank Limited Debenture 2086/87,8004,1120.0,1120.0,2.75,30.0,1.1,1.65
+2026-10-08,12,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,264.1,264.1,2.76,7.1,1.1,1.66
+2026-10-08,11,SMH,Super Mai Hydropower Limited,9148,517.0,517.0,2.78,14.0,1.1,1.68
+2026-10-08,10,NICBF,NIC Asia Balanced Fund,2863,9.53,9.53,2.92,0.27,1.1,1.82
+2026-10-08,9,BNL,Bottlers Nepal (Balaju) Limited,195,14625.9,14625.9,3.0,425.9,1.1,1.9
+2026-10-08,8,SONA,Sonapur Minerals And Oil Limited,9216,430.0,430.0,3.61,15.0,1.1,2.51
+2026-10-08,7,NHPC,National Hydro Power Company Limited,152,268.0,268.0,3.92,10.1,1.1,2.82
+2026-10-08,6,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1160.0,1160.0,3.94,44.0,1.1,2.84
+2026-10-08,5,CKHL,Chirkhwa Hydropower Limited ,9232,531.0,531.0,5.15,26.0,1.1,4.05
+2026-10-08,4,MMF1,Mega Mutual Fund -1,8023,8.83,8.83,6.0,0.5,1.1,4.9
+2026-10-08,3,LVF2,Laxmi Value Fund 2,9198,9.54,9.54,6.0,0.54,1.1,4.9
+2026-10-08,2,SNORL,Snow Rivers Limited,9344,878.0,878.0,6.4,52.8,1.1,5.3
+2026-10-08,1,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,924.6,924.6,15.0,120.6,1.1,13.9
 2026-10-07,20,GLH,GreenLife Hydropower Limited,2924,277.1,277.1,2.63,7.1,1.1,1.53
 2026-10-07,19,EBLD91,Everest Bank Limited Debenture 2091,9255,1160.0,1160.0,2.65,30.0,1.1,1.55
 2026-10-07,18,H8020,Himalayan 80-20,9221,11.4,11.4,2.7,0.3,1.1,1.6

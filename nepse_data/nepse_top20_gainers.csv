@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-10-08,20,HDHPC,Himal Dolakha Hydropower Company Limited,2880,228.3,228.3,5.3,2.38
+2026-10-08,19,MBLD87,8.5% Machhapuchchhre Debenture 2087,7985,1105.0,1105.0,26.7,2.48
+2026-10-08,18,SPIL,Siddhartha Premier Insurance Limited,182,615.0,615.0,15.0,2.5
+2026-10-08,17,ILBS,Infinity Laghubitta Bittiya Sanstha Limited,2832,913.0,913.0,23.0,2.58
+2026-10-08,16,SPDL,Synergy Power Development Ltd.,2759,349.9,349.9,8.9,2.61
+2026-10-08,15,GCIL,Ghorahi Cement Industry Limited,9193,391.4,391.4,10.1,2.65
+2026-10-08,14,BHL,Balephi Hydropower Limited,8055,218.8,218.8,5.8,2.72
+2026-10-08,13,GBILD86/87,Global IME Bank Limited Debenture 2086/87,8004,1120.0,1120.0,30.0,2.75
+2026-10-08,12,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,264.1,264.1,7.1,2.76
+2026-10-08,11,SMH,Super Mai Hydropower Limited,9148,517.0,517.0,14.0,2.78
+2026-10-08,10,NICBF,NIC Asia Balanced Fund,2863,9.53,9.53,0.27,2.92
+2026-10-08,9,BNL,Bottlers Nepal (Balaju) Limited,195,14625.9,14625.9,425.9,3.0
+2026-10-08,8,SONA,Sonapur Minerals And Oil Limited,9216,430.0,430.0,15.0,3.61
+2026-10-08,7,NHPC,National Hydro Power Company Limited,152,268.0,268.0,10.1,3.92
+2026-10-08,6,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1160.0,1160.0,44.0,3.94
+2026-10-08,5,CKHL,Chirkhwa Hydropower Limited ,9232,531.0,531.0,26.0,5.15
+2026-10-08,4,MMF1,Mega Mutual Fund -1,8023,8.83,8.83,0.5,6.0
+2026-10-08,3,LVF2,Laxmi Value Fund 2,9198,9.54,9.54,0.54,6.0
+2026-10-08,2,SNORL,Snow Rivers Limited,9344,878.0,878.0,52.8,6.4
+2026-10-08,1,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,924.6,924.6,120.6,15.0
 2026-10-07,20,GLH,GreenLife Hydropower Limited,2924,277.1,277.1,7.1,2.63
 2026-10-07,19,EBLD91,Everest Bank Limited Debenture 2091,9255,1160.0,1160.0,30.0,2.65
 2026-10-07,18,H8020,Himalayan 80-20,9221,11.4,11.4,0.3,2.7

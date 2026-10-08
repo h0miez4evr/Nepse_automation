@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-10-08,20,YMHL,Yambaling Hydropower Limited,9342,479.9,442
+2026-10-08,19,HDL,Himalayan Distillery Limited,235,1274.0,463
+2026-10-08,18,SSHL,Shiva Shree Hydropower Ltd,2907,208.0,465
+2026-10-08,17,KAHL,Kalanga Hydro Limited,9346,443.5,495
+2026-10-08,16,SNORL,Snow Rivers Limited,9344,878.0,503
+2026-10-08,15,LEC,Liberty Energy Company Limited,2903,252.8,537
+2026-10-08,14,HATHY,Hathway Investment Nepal Limited,9213,423.0,543
+2026-10-08,13,SOHL,Solu Hydropower Limited,9311,614.1,593
+2026-10-08,12,KBL,Kumari Bank Limited,142,227.8,614
+2026-10-08,11,PHCL,Peoples Hydropower Company Limited,8133,337.0,696
+2026-10-08,10,GLH,GreenLife Hydropower Limited,2924,277.6,701
+2026-10-08,9,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,924.6,707
+2026-10-08,8,PCIL,Palpa Cement Industries Limited,9330,615.0,807
+2026-10-08,7,SGHL,Sanigad Hydro Limited,9345,463.9,863
+2026-10-08,6,NHPC,National Hydro Power Company Limited,152,268.0,895
+2026-10-08,5,HPPL,Himalayan Power Partner Ltd.,2767,400.0,973
+2026-10-08,4,BHL,Balephi Hydropower Limited,8055,218.8,1101
+2026-10-08,3,SONA,Sonapur Minerals And Oil Limited,9216,430.0,1181
+2026-10-08,2,GHL,Ghalemdi Hydro Limited,2806,286.0,1501
+2026-10-08,1,HDHPC,Himal Dolakha Hydropower Company Limited,2880,228.3,1675
 2026-10-07,20,LSL,Laxmi Sunrise Bank Limited,141,256.0,400
 2026-10-07,19,HDHPC,Himal Dolakha Hydropower Company Limited,2880,223.0,407
 2026-10-07,18,API,Api Power Company Ltd.,697,337.0,410
