@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-10-12,20,HDL,Himalayan Distillery Limited,235,1295.0,564
+2026-10-12,19,HRL,Himalayan Reinsurance Limited,9234,483.5,574
+2026-10-12,18,NIMB,Nepal Investment Mega Bank Limited,132,196.0,583
+2026-10-12,17,HATHY,Hathway Investment Nepal Limited,9213,414.1,592
+2026-10-12,16,SOPL,Sopan Pharmaceuticals Limited,9336,606.0,601
+2026-10-12,15,BHCL,Bikash Hydropower Company Limited,9267,524.4,630
+2026-10-12,14,KAHL,Kalanga Hydro Limited,9346,449.8,633
+2026-10-12,13,PCIL,Palpa Cement Industries Limited,9330,610.0,659
+2026-10-12,12,BHL,Balephi Hydropower Limited,8055,218.9,676
+2026-10-12,11,NBL,Nepal Bank Limited,517,300.1,738
+2026-10-12,10,PRVU,Prabhu  Bank Limited,255,189.9,746
+2026-10-12,9,GBIME,Global IME Bank Limited,341,245.4,752
+2026-10-12,8,SOHL,Solu Hydropower Limited,9311,623.0,862
+2026-10-12,7,GHL,Ghalemdi Hydro Limited,2806,291.9,894
+2026-10-12,6,SGHL,Sanigad Hydro Limited,9345,457.0,936
+2026-10-12,5,SONA,Sonapur Minerals And Oil Limited,9216,440.0,954
+2026-10-12,4,LSL,Laxmi Sunrise Bank Limited,141,267.0,1003
+2026-10-12,3,HBL,Himalayan Bank Limited,134,198.7,1087
+2026-10-12,2,SAHAS,Sahas Urja Limited,8021,688.0,1798
+2026-10-12,1,KBL,Kumari Bank Limited,142,236.2,1890
 2026-10-09,20,PRVU,Prabhu  Bank Limited,255,186.6,532
 2026-10-09,19,HRL,Himalayan Reinsurance Limited,9234,490.5,547
 2026-10-09,18,SSHL,Shiva Shree Hydropower Ltd,2907,210.0,547

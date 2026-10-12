@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-12,20,PHCL,Peoples Hydropower Company Limited,8133,332.5,155484
+2026-10-12,19,HBL,Himalayan Bank Limited,134,198.7,177769
+2026-10-12,18,NMB,NMB Bank Limited,238,260.2,182298
+2026-10-12,17,HDHPC,Himal Dolakha Hydropower Company Limited,2880,222.0,188381
+2026-10-12,16,HATHY,Hathway Investment Nepal Limited,9213,414.1,188883
+2026-10-12,15,CZBIL,Citizens Bank International Limited,348,216.0,192984
+2026-10-12,14,SONA,Sonapur Minerals And Oil Limited,9216,440.0,208770
+2026-10-12,13,API,Api Power Company Ltd.,697,336.0,217555
+2026-10-12,12,MBL,Machhapuchhre Bank Limited,140,262.5,226697
+2026-10-12,11,NIMB,Nepal Investment Mega Bank Limited,132,196.0,246913
+2026-10-12,10,BHL,Balephi Hydropower Limited,8055,218.9,256785
+2026-10-12,9,NBL,Nepal Bank Limited,517,300.1,261542
+2026-10-12,8,SAHAS,Sahas Urja Limited,8021,688.0,289924
+2026-10-12,7,LEC,Liberty Energy Company Limited,2903,245.0,309408
+2026-10-12,6,PRVU,Prabhu  Bank Limited,255,189.9,323599
+2026-10-12,5,PCBL,Prime Commercial Bank Ltd.,357,268.0,465958
+2026-10-12,4,GBIME,Global IME Bank Limited,341,245.4,487189
+2026-10-12,3,LSL,Laxmi Sunrise Bank Limited,141,267.0,580936
+2026-10-12,2,GHL,Ghalemdi Hydro Limited,2806,291.9,687730
+2026-10-12,1,KBL,Kumari Bank Limited,142,236.2,1068987
 2026-10-09,20,HATHY,Hathway Investment Nepal Limited,9213,421.0,146264
 2026-10-09,19,GBIME,Global IME Bank Limited,341,245.2,171539
 2026-10-09,18,CZBIL,Citizens Bank International Limited,348,211.9,175397
