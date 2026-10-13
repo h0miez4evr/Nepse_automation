@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-13,20,ILI,IME Life Insurance Company Limited,9184,435.0,435.0,2.26,9.6,1.21,1.05
+2026-10-13,19,NBL,Nepal Bank Limited,517,307.0,307.0,2.3,6.9,1.21,1.09
+2026-10-13,18,CLI,Citizen Life Insurance Company Limited,9209,442.0,442.0,2.31,10.0,1.21,1.1
+2026-10-13,17,RURU,Ru Ru Jalbidhyut Pariyojana Limited,2935,614.0,614.0,2.33,14.0,1.21,1.12
+2026-10-13,16,MEN,Mountain Energy Nepal Limited,2913,663.0,663.0,2.47,16.0,1.21,1.26
+2026-10-13,15,BARUN,Barun Hydropower Co. Ltd.,686,326.2,326.2,2.55,8.1,1.21,1.34
+2026-10-13,14,ICFCD89,8% ICFC Finance Limited Debenture 2089,9327,1150.0,1150.0,2.67,29.9,1.21,1.46
+2026-10-13,13,KSY,Kumari Sabal Yojana,9241,9.05,9.05,2.72,0.24,1.21,1.51
+2026-10-13,12,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1176.0,1176.0,2.98,34.0,1.21,1.77
+2026-10-13,11,HLI,Himalayan Life Insurance Limited,393,302.9,302.9,2.99,8.8,1.21,1.78
+2026-10-13,10,PMLI,Prabhu Mahalaxmi Life Insurance Limited,2915,431.0,431.0,3.04,12.7,1.21,1.83
+2026-10-13,9,MBLEF,MBL Equity Fund,9257,9.38,9.38,3.08,0.28,1.21,1.87
+2026-10-13,8,GSY,Garima Samriddhi Yojana,9248,9.3,9.3,3.1,0.28,1.21,1.89
+2026-10-13,7,GHL,Ghalemdi Hydro Limited,2806,301.0,301.0,3.12,9.1,1.21,1.91
+2026-10-13,6,BGWT,Bhagawati Hydropower Development Company Limited,9214,495.0,495.0,3.13,15.0,1.21,1.92
+2026-10-13,5,SNLI,Sun Nepal Life Insurance Company Limited,9201,416.0,416.0,3.17,12.8,1.21,1.96
+2026-10-13,4,OHL,Oriental Hotels Limited,149,636.0,636.0,3.74,22.9,1.21,2.53
+2026-10-13,3,NICGF2,NIC ASIA Growth Fund-2,9236,9.15,9.15,4.57,0.4,1.21,3.36
+2026-10-13,2,NSY,Nepal Life Samriddhi Lagani Yojana,9312,9.28,9.28,4.62,0.41,1.21,3.41
+2026-10-13,1,SMJC,Sagarmatha Jalabidhyut Company Limited,9159,443.0,443.0,12.44,49.0,1.21,11.23
 2026-10-12,20,DHPL,Dibyashwori Hydropower Ltd.,2754,270.0,270.0,1.89,5.0,1.27,0.62
 2026-10-12,19,CZBIL,Citizens Bank International Limited,348,216.0,216.0,1.93,4.1,1.27,0.66
 2026-10-12,18,KBL,Kumari Bank Limited,142,236.2,236.2,2.25,5.2,1.27,0.98
