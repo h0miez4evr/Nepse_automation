@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-10-14,20,NBF3,Nabil Balanced Fund-3,8024,9.25,9.25,0.24,2.66
+2026-10-14,19,SFEF,Sunrise Focused Equity Fund,9154,9.24,9.24,0.24,2.67
+2026-10-14,18,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,992.9,992.9,27.9,2.89
+2026-10-14,17,MMF1,Mega Mutual Fund -1,8023,8.8,8.8,0.25,2.92
+2026-10-14,16,SBL,Siddhartha Bank Limited,145,430.7,430.7,12.2,2.92
+2026-10-14,15,SFMF,Sunrise First Mutual Fund,2877,9.47,9.47,0.27,2.93
+2026-10-14,14,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,350.0,350.0,10.0,2.94
+2026-10-14,13,MFLD85,9.5% Manjushree Finance Limited Debenture 2085,2932,1112.4,1112.4,32.4,3.0
+2026-10-14,12,NICA,NIC Asia Bank Ltd.,139,327.8,327.8,9.8,3.08
+2026-10-14,11,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,459.0,459.0,14.1,3.17
+2026-10-14,10,EBLD91,Everest Bank Limited Debenture 2091,9255,1242.0,1242.0,39.0,3.24
+2026-10-14,9,IGI,IGI Prudential insurance Limited,186,394.8,394.8,13.6,3.57
+2026-10-14,8,NWCL,Nepal Warehousing Company Limited ,9233,522.5,522.5,19.4,3.86
+2026-10-14,7,GVL,Green Ventures Limited,8045,521.0,521.0,21.0,4.2
+2026-10-14,6,SBLD2091,7.25% SBL Debenture 2091,9271,1200.0,1200.0,50.0,4.35
+2026-10-14,5,NABILD2089,7% Nabil Debenture 2089,9299,1150.0,1150.0,50.0,4.55
+2026-10-14,4,NICSF,NIC Asia Select Fund 30,4967,8.55,8.55,0.4,4.91
+2026-10-14,3,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2626.8,2626.8,123.8,4.95
+2026-10-14,2,SBID2090,7% Nepal SBI Bank Debenture 2090,9289,1190.0,1190.0,90.0,8.18
+2026-10-14,1,SBLD89,10.75% SBL Debenture 2089,8098,1500.0,1500.0,175.0,13.21
 2026-10-13,20,ILI,IME Life Insurance Company Limited,9184,435.0,435.0,9.6,2.26
 2026-10-13,19,NBL,Nepal Bank Limited,517,307.0,307.0,6.9,2.3
 2026-10-13,18,CLI,Citizen Life Insurance Company Limited,9209,442.0,442.0,10.0,2.31

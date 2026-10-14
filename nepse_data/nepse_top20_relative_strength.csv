@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-14,20,NBF3,Nabil Balanced Fund-3,8024,9.25,9.25,2.66,0.24,1.28,1.38
+2026-10-14,19,SFEF,Sunrise Focused Equity Fund,9154,9.24,9.24,2.67,0.24,1.28,1.39
+2026-10-14,18,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,992.9,992.9,2.89,27.9,1.28,1.61
+2026-10-14,17,MMF1,Mega Mutual Fund -1,8023,8.8,8.8,2.92,0.25,1.28,1.64
+2026-10-14,16,SBL,Siddhartha Bank Limited,145,430.7,430.7,2.92,12.2,1.28,1.64
+2026-10-14,15,SFMF,Sunrise First Mutual Fund,2877,9.47,9.47,2.93,0.27,1.28,1.65
+2026-10-14,14,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,350.0,350.0,2.94,10.0,1.28,1.66
+2026-10-14,13,MFLD85,9.5% Manjushree Finance Limited Debenture 2085,2932,1112.4,1112.4,3.0,32.4,1.28,1.72
+2026-10-14,12,NICA,NIC Asia Bank Ltd.,139,327.8,327.8,3.08,9.8,1.28,1.8
+2026-10-14,11,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,459.0,459.0,3.17,14.1,1.28,1.89
+2026-10-14,10,EBLD91,Everest Bank Limited Debenture 2091,9255,1242.0,1242.0,3.24,39.0,1.28,1.96
+2026-10-14,9,IGI,IGI Prudential insurance Limited,186,394.8,394.8,3.57,13.6,1.28,2.29
+2026-10-14,8,NWCL,Nepal Warehousing Company Limited ,9233,522.5,522.5,3.86,19.4,1.28,2.58
+2026-10-14,7,GVL,Green Ventures Limited,8045,521.0,521.0,4.2,21.0,1.28,2.92
+2026-10-14,6,SBLD2091,7.25% SBL Debenture 2091,9271,1200.0,1200.0,4.35,50.0,1.28,3.07
+2026-10-14,5,NABILD2089,7% Nabil Debenture 2089,9299,1150.0,1150.0,4.55,50.0,1.28,3.27
+2026-10-14,4,NICSF,NIC Asia Select Fund 30,4967,8.55,8.55,4.91,0.4,1.28,3.63
+2026-10-14,3,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2626.8,2626.8,4.95,123.8,1.28,3.67
+2026-10-14,2,SBID2090,7% Nepal SBI Bank Debenture 2090,9289,1190.0,1190.0,8.18,90.0,1.28,6.9
+2026-10-14,1,SBLD89,10.75% SBL Debenture 2089,8098,1500.0,1500.0,13.21,175.0,1.28,11.93
 2026-10-13,20,ILI,IME Life Insurance Company Limited,9184,435.0,435.0,2.26,9.6,1.21,1.05
 2026-10-13,19,NBL,Nepal Bank Limited,517,307.0,307.0,2.3,6.9,1.21,1.09
 2026-10-13,18,CLI,Citizen Life Insurance Company Limited,9209,442.0,442.0,2.31,10.0,1.21,1.1
