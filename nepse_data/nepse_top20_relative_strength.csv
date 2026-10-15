@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-15,20,CBLD88,Civil Bank Debenture 2088,8043,1290.0,1290.0,2.79,35.0,1.19,1.6
+2026-10-15,19,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,915.0,915.0,2.8,24.9,1.19,1.61
+2026-10-15,18,SFEF,Sunrise Focused Equity Fund,9154,9.5,9.5,2.81,0.26,1.19,1.62
+2026-10-15,17,BGWT,Bhagawati Hydropower Development Company Limited,9214,499.0,499.0,2.87,13.9,1.19,1.68
+2026-10-15,16,VLBS,Vijaya laghubitta Bittiya Sanstha Ltd.,687,608.0,608.0,2.88,17.0,1.19,1.69
+2026-10-15,15,SIGS2,Siddhartha Investment Growth Scheme - 2,2859,9.58,9.58,2.9,0.27,1.19,1.71
+2026-10-15,14,NICAD85/86,10% NIC Asia Debenture 2085/86,2825,1141.0,1141.0,2.98,33.0,1.19,1.79
+2026-10-15,13,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1262.0,1262.0,2.98,36.5,1.19,1.79
+2026-10-15,12,SKHEL,Suryakunda Hydro Electric Limited,9325,742.6,742.6,3.0,21.6,1.19,1.81
+2026-10-15,11,SAND2085,10% Sanima Bank Limited Debenture,2828,1130.0,1130.0,3.2,35.0,1.19,2.01
+2026-10-15,10,GBIMESY2,Global IME Sammunat Yojana -2,9269,9.31,9.31,3.33,0.3,1.19,2.14
+2026-10-15,9,GHL,Ghalemdi Hydro Limited,2806,304.0,304.0,3.4,10.0,1.19,2.21
+2026-10-15,8,GVL,Green Ventures Limited,8045,539.0,539.0,3.45,18.0,1.19,2.26
+2026-10-15,7,BHDC,Bindhyabasini Hydropower Development Company Limited,8075,436.6,436.6,3.58,15.1,1.19,2.39
+2026-10-15,6,RIDI,Ridi Power Company Limited,610,342.9,342.9,3.75,12.4,1.19,2.56
+2026-10-15,5,MFIL,Manjushree Finance Ltd.,516,800.0,800.0,4.44,34.0,1.19,3.25
+2026-10-15,4,CCBD88,Century Debenture 2088,8068,1284.9,1284.9,4.46,54.9,1.19,3.27
+2026-10-15,3,LUK,Laxmi Unnati Kosh,2902,9.88,9.88,6.24,0.58,1.19,5.05
+2026-10-15,2,HEI,Himalayan Everest Insurance Limited,179,462.0,462.0,6.35,27.6,1.19,5.16
+2026-10-15,1,BENH,Beni Hydropower Project Limited,9356,313.9,313.9,14.98,40.9,1.19,13.79
 2026-10-14,20,NBF3,Nabil Balanced Fund-3,8024,9.25,9.25,2.66,0.24,1.28,1.38
 2026-10-14,19,SFEF,Sunrise Focused Equity Fund,9154,9.24,9.24,2.67,0.24,1.28,1.39
 2026-10-14,18,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,992.9,992.9,2.89,27.9,1.28,1.61
