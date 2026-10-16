@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-10-16,20,MHL,Mandakini Hydropower Limited,8102,464.0,464.0,13.4,2.97
+2026-10-16,19,NBLD87,8.5% Nepal Bank Debenture 2087,4959,1142.0,1142.0,32.9,2.97
+2026-10-16,18,SBCF,Sunrise Bluechip Fund,2937,9.27,9.27,0.27,3.0
+2026-10-16,17,NCCD86,9.5% NCC Debenture 2086,2936,1163.9,1163.9,33.9,3.0
+2026-10-16,16,SMH,Super Mai Hydropower Limited,9148,549.2,549.2,16.2,3.04
+2026-10-16,15,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,574.9,574.9,17.9,3.21
+2026-10-16,14,SMATA,Samata Gharelu Laghubitta Bittiya Sanstha Limited,2761,692.0,692.0,22.0,3.28
+2026-10-16,13,NIMB,Nepal Investment Mega Bank Limited,132,206.2,206.2,6.7,3.36
+2026-10-16,12,GSY,Garima Samriddhi Yojana,9248,9.45,9.45,0.31,3.39
+2026-10-16,11,MANDU,Mandu Hydropower Limited,9212,787.0,787.0,26.6,3.5
+2026-10-16,10,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,304.0,304.0,10.5,3.58
+2026-10-16,9,BGWT,Bhagawati Hydropower Development Company Limited,9214,519.0,519.0,20.0,4.01
+2026-10-16,8,MKHL,Mai Khola Hydropower Limited,9167,514.4,514.4,20.4,4.13
+2026-10-16,7,AHL,Asian Hydropower Limited,9150,377.9,377.9,15.7,4.33
+2026-10-16,6,NIMBD90,10% NIMB Debenture 2090,9243,1300.0,1300.0,60.0,4.84
+2026-10-16,5,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1385.0,1385.0,75.0,5.73
+2026-10-16,4,ECL,Everest Colour Limited,9347,1280.0,1280.0,89.0,7.47
+2026-10-16,3,SPL,Shuvam Power Limited,9147,620.0,620.0,49.0,8.58
+2026-10-16,2,BENH,Beni Hydropower Project Limited,9356,353.0,353.0,39.1,12.46
+2026-10-16,1,CKHL,Chirkhwa Hydropower Limited ,9232,581.0,581.0,75.0,14.82
 2026-10-15,20,CBLD88,Civil Bank Debenture 2088,8043,1290.0,1290.0,35.0,2.79
 2026-10-15,19,KBSH,Kutheli Bukhari Small Hydropower Limited,9196,915.0,915.0,24.9,2.8
 2026-10-15,18,SFEF,Sunrise Focused Equity Fund,9154,9.5,9.5,0.26,2.81

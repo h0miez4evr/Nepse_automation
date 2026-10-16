@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-16,20,SBI,Nepal SBI Bank Limited,135,432.5,193029
+2026-10-16,19,NMB,NMB Bank Limited,238,272.3,201893
+2026-10-16,18,LSL,Laxmi Sunrise Bank Limited,141,272.2,219567
+2026-10-16,17,PRVU,Prabhu  Bank Limited,255,192.8,222438
+2026-10-16,16,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,574.9,222722
+2026-10-16,15,CZBIL,Citizens Bank International Limited,348,221.0,225362
+2026-10-16,14,GBIME,Global IME Bank Limited,341,254.0,231098
+2026-10-16,13,ADBL,Agricultural Development Bank Limited,397,339.3,232077
+2026-10-16,12,MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,8031,324.0,237218
+2026-10-16,11,NBL,Nepal Bank Limited,517,304.1,239145
+2026-10-16,10,MBL,Machhapuchhre Bank Limited,140,273.0,285378
+2026-10-16,9,LEC,Liberty Energy Company Limited,2903,239.0,315433
+2026-10-16,8,GVL,Green Ventures Limited,8045,548.3,321603
+2026-10-16,7,RIDI,Ridi Power Company Limited,610,344.9,326538
+2026-10-16,6,PHCL,Peoples Hydropower Company Limited,8133,346.5,332025
+2026-10-16,5,API,Api Power Company Ltd.,697,345.0,443463
+2026-10-16,4,BHL,Balephi Hydropower Limited,8055,225.7,517973
+2026-10-16,3,GHL,Ghalemdi Hydro Limited,2806,310.9,666863
+2026-10-16,2,KBL,Kumari Bank Limited,142,238.4,727272
+2026-10-16,1,NIMB,Nepal Investment Mega Bank Limited,132,206.2,894286
 2026-10-15,20,ADBL,Agricultural Development Bank Limited,397,333.8,198769
 2026-10-15,19,GVL,Green Ventures Limited,8045,539.0,217506
 2026-10-15,18,PCBLP,Prime Commercial Bank Promoter Share,544,110.0,238699
