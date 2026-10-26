@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-10-26,20,NIBLSTF,NIBL Stable Fund,9244,8.73,8.73,0.22,2.59
+2026-10-26,19,PCIL,Palpa Cement Industries Limited,9330,614.5,614.5,15.9,2.66
+2026-10-26,18,BHCL,Bikash Hydropower Company Limited,9267,539.5,539.5,14.5,2.76
+2026-10-26,17,CIZBD90,10% Citizens Bank Debenture 2090,9231,1265.0,1265.0,35.0,2.85
+2026-10-26,16,SPDL,Synergy Power Development Ltd.,2759,361.5,361.5,10.2,2.9
+2026-10-26,15,NIMBD90,10% NIMB Debenture 2090,9243,1338.0,1338.0,38.0,2.92
+2026-10-26,14,C30MF,Citizens Super 30 Mutual Fund,9191,9.5,9.5,0.27,2.93
+2026-10-26,13,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,422.8,422.8,12.3,3.0
+2026-10-26,12,ICFCD83,12% ICFC Finance Limited Debenture 2083,2882,1086.6,1086.6,31.6,3.0
+2026-10-26,11,MBLEF,MBL Equity Fund,9257,9.5,9.5,0.29,3.15
+2026-10-26,10,RMF2,RBB Mutual Fund 2,9178,9.57,9.57,0.32,3.46
+2026-10-26,9,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,324.9,324.9,11.4,3.64
+2026-10-26,8,SFMF,Sunrise First Mutual Fund,2877,9.75,9.75,0.35,3.72
+2026-10-26,7,SGHL,Sanigad Hydro Limited,9345,474.5,474.5,17.3,3.78
+2026-10-26,6,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,597.0,597.0,22.1,3.84
+2026-10-26,5,GCIL,Ghorahi Cement Industry Limited,9193,397.0,397.0,17.0,4.47
+2026-10-26,4,SMJC,Sagarmatha Jalabidhyut Company Limited,9159,443.9,443.9,20.0,4.72
+2026-10-26,3,SONA,Sonapur Minerals And Oil Limited,9216,456.0,456.0,22.0,5.07
+2026-10-26,2,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,364.0,364.0,20.0,5.81
+2026-10-26,1,BENH,Beni Hydropower Project Limited,9356,405.9,405.9,52.9,14.99
 2026-10-16,20,MHL,Mandakini Hydropower Limited,8102,464.0,464.0,13.4,2.97
 2026-10-16,19,NBLD87,8.5% Nepal Bank Debenture 2087,4959,1142.0,1142.0,32.9,2.97
 2026-10-16,18,SBCF,Sunrise Bluechip Fund,2937,9.27,9.27,0.27,3.0

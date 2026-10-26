@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-26,20,CZBIL,Citizens Bank International Limited,348,218.8,139631
+2026-10-26,19,PCBL,Prime Commercial Bank Ltd.,357,273.0,157311
+2026-10-26,18,NIMBPO,Nepal Investment Mega Bank Ltd. Promoter Share,469,153.2,168605
+2026-10-26,17,NMB,NMB Bank Limited,238,272.0,181427
+2026-10-26,16,BHL,Balephi Hydropower Limited,8055,224.6,184803
+2026-10-26,15,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,597.0,188036
+2026-10-26,14,MBJC,Madhya Bhotekoshi Jalavidyut Company Limited,8031,330.0,190097
+2026-10-26,13,LEC,Liberty Energy Company Limited,2903,240.0,203158
+2026-10-26,12,LSL,Laxmi Sunrise Bank Limited,141,271.7,209169
+2026-10-26,11,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,344.6,210649
+2026-10-26,10,SONA,Sonapur Minerals And Oil Limited,9216,456.0,242528
+2026-10-26,9,MEN,Mountain Energy Nepal Limited,2913,675.5,265782
+2026-10-26,8,MBL,Machhapuchhre Bank Limited,140,275.0,285220
+2026-10-26,7,GVL,Green Ventures Limited,8045,560.9,285667
+2026-10-26,6,SHIVM,SHIVAM CEMENTS LTD,2809,696.4,295909
+2026-10-26,5,SANIMA,Sanima Bank Limited,171,395.0,313242
+2026-10-26,4,NIMB,Nepal Investment Mega Bank Limited,132,206.9,361695
+2026-10-26,3,API,Api Power Company Ltd.,697,347.0,373198
+2026-10-26,2,KBL,Kumari Bank Limited,142,237.0,422486
+2026-10-26,1,GHL,Ghalemdi Hydro Limited,2806,315.9,751534
 2026-10-16,20,SBI,Nepal SBI Bank Limited,135,432.5,193029
 2026-10-16,19,NMB,NMB Bank Limited,238,272.3,201893
 2026-10-16,18,LSL,Laxmi Sunrise Bank Limited,141,272.2,219567
