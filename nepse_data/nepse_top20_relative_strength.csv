@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-27,20,PPL,People's Power Limited,8122,327.8,327.8,3.11,9.9,1.63,1.48
+2026-10-27,19,KPCL,Kalika power Company Ltd,2787,478.9,478.9,3.23,15.0,1.63,1.6
+2026-10-27,18,GVL,Green Ventures Limited,8045,579.9,579.9,3.39,19.0,1.63,1.76
+2026-10-27,17,NICSF,NIC Asia Select Fund 30,4967,8.78,8.78,3.42,0.29,1.63,1.79
+2026-10-27,16,PMHPL,Panchakanya Mai Hydropower Ltd,2786,308.9,308.9,3.66,10.9,1.63,2.03
+2026-10-27,15,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,439.0,439.0,3.83,16.2,1.63,2.2
+2026-10-27,14,GLBSL,Gurans Laghubitta Bittiya Sanstha Limited,2826,1477.0,1477.0,3.85,54.8,1.63,2.22
+2026-10-27,13,RFPL,River Falls Power Limited,8066,351.0,351.0,3.88,13.1,1.63,2.25
+2026-10-27,12,BHL,Balephi Hydropower Limited,8055,233.5,233.5,3.96,8.9,1.63,2.33
+2026-10-27,11,MHNL,Mountain Hydro Nepal Limited,2811,268.9,268.9,4.02,10.4,1.63,2.39
+2026-10-27,10,HURJA,Himalaya Urja Bikas Company Limited,2824,270.5,270.5,4.08,10.6,1.63,2.45
+2026-10-27,9,SOHL,Solu Hydropower Limited,9311,643.0,643.0,4.55,28.0,1.63,2.92
+2026-10-27,8,RHGCL,Rapti Hydro And General Construction Limited,8108,266.9,266.9,4.58,11.7,1.63,2.95
+2026-10-27,7,SIPD,Shikhar power Development Limited,9329,514.8,514.8,4.63,22.8,1.63,3.0
+2026-10-27,6,PHCL,Peoples Hydropower Company Limited,8133,365.0,365.0,4.89,17.0,1.63,3.26
+2026-10-27,5,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1302.0,1302.0,5.68,70.0,1.63,4.05
+2026-10-27,4,SMHL,Super Madi Hydropower Limited,9146,520.0,520.0,5.95,29.2,1.63,4.32
+2026-10-27,3,DORDI,Dordi Khola Jal Bidyut Company Limited,8070,283.1,283.1,6.79,18.0,1.63,5.16
+2026-10-27,2,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,408.0,408.0,12.09,44.0,1.63,10.46
+2026-10-27,1,BENH,Beni Hydropower Project Limited,9356,466.7,466.7,14.98,60.8,1.63,13.35
 2026-10-26,20,NIBLSTF,NIBL Stable Fund,9244,8.73,8.73,2.59,0.22,1.39,1.2
 2026-10-26,19,PCIL,Palpa Cement Industries Limited,9330,614.5,614.5,2.66,15.9,1.39,1.27
 2026-10-26,18,BHCL,Bikash Hydropower Company Limited,9267,539.5,539.5,2.76,14.5,1.39,1.37
