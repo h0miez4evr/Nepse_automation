@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-28,20,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,593.0,223955
+2026-10-28,19,SSHL,Shiva Shree Hydropower Ltd,2907,213.2,243579
+2026-10-28,18,NMB,NMB Bank Limited,238,274.0,247707
+2026-10-28,17,GLH,GreenLife Hydropower Limited,2924,279.0,286760
+2026-10-28,16,SOHL,Solu Hydropower Limited,9311,649.0,290075
+2026-10-28,15,GVL,Green Ventures Limited,8045,578.1,293583
+2026-10-28,14,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,346.0,298252
+2026-10-28,13,MBL,Machhapuchhre Bank Limited,140,277.0,312119
+2026-10-28,12,HURJA,Himalaya Urja Bikas Company Limited,2824,273.9,329377
+2026-10-28,11,BPCL,Butwal Power Company Limited,153,718.9,376848
+2026-10-28,10,LSL,Laxmi Sunrise Bank Limited,141,273.0,380709
+2026-10-28,9,SANIMA,Sanima Bank Limited,171,409.4,402810
+2026-10-28,8,HDHPC,Himal Dolakha Hydropower Company Limited,2880,225.4,414929
+2026-10-28,7,NIMB,Nepal Investment Mega Bank Limited,132,207.4,419083
+2026-10-28,6,PHCL,Peoples Hydropower Company Limited,8133,368.0,445545
+2026-10-28,5,BHL,Balephi Hydropower Limited,8055,237.9,529293
+2026-10-28,4,KBL,Kumari Bank Limited,142,240.0,544618
+2026-10-28,3,API,Api Power Company Ltd.,697,349.8,550398
+2026-10-28,2,GHL,Ghalemdi Hydro Limited,2806,326.0,858708
+2026-10-28,1,LEC,Liberty Energy Company Limited,2903,250.0,1302870
 2026-10-27,20,SANIMA,Sanima Bank Limited,171,393.0,193138
 2026-10-27,19,NMB,NMB Bank Limited,238,271.9,203070
 2026-10-27,18,LSL,Laxmi Sunrise Bank Limited,141,269.0,206671
