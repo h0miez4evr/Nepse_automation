@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-10-29,20,NMB,NMB Bank Limited,238,282.8,282.8,8.8,3.21
+2026-10-29,19,BGWT,Bhagawati Hydropower Development Company Limited,9214,530.0,530.0,16.5,3.21
+2026-10-29,18,LVF2,Laxmi Value Fund 2,9198,9.4,9.4,0.3,3.3
+2026-10-29,17,SEF2,Siddhartha Equity Fund 2,9348,9.69,9.69,0.32,3.42
+2026-10-29,16,CZBIL,Citizens Bank International Limited,348,225.5,225.5,7.5,3.44
+2026-10-29,15,MSHL,Mid Solu Hydropower Limited,9215,550.0,550.0,18.4,3.46
+2026-10-29,14,NRM,Nepal Republic Media Limited,9183,296.0,296.0,10.0,3.5
+2026-10-29,13,SHL,Soaltee Hotel Limited,147,538.7,538.7,18.9,3.64
+2026-10-29,12,GMFIL,Guheshowori Merchant Bank & Finance Co. Ltd.,263,434.0,434.0,15.9,3.8
+2026-10-29,11,LBBL,Lumbini Bikas Bank Ltd.,358,514.0,514.0,19.0,3.84
+2026-10-29,10,RURU,Ru Ru Jalbidhyut Pariyojana Limited,2935,640.0,640.0,23.9,3.88
+2026-10-29,9,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,319.9,319.9,13.0,4.24
+2026-10-29,8,SBL,Siddhartha Bank Limited,145,454.8,454.8,18.8,4.31
+2026-10-29,7,YMHL,Yambaling Hydropower Limited,9342,474.0,474.0,20.0,4.41
+2026-10-29,6,KHPL,Kalinchock Hydropower Limited,9334,663.0,663.0,28.0,4.41
+2026-10-29,5,NICA,NIC Asia Bank Ltd.,139,335.0,335.0,15.0,4.69
+2026-10-29,4,NFS,Nepal Finance Ltd.,194,500.0,500.0,26.0,5.49
+2026-10-29,3,NRIC,Nepal Reinsurance Company Limited,2881,834.3,834.3,44.3,5.61
+2026-10-29,2,SOPL,Sopan Pharmaceuticals Limited,9336,673.0,673.0,54.0,8.72
+2026-10-29,1,BENH,Beni Hydropower Project Limited,9356,617.2,617.2,80.5,15.0
 2026-10-28,20,BFC,Best Finance Company Ltd.,227,459.0,459.0,17.4,3.94
 2026-10-28,19,KAHL,Kalanga Hydro Limited,9346,435.2,435.2,16.8,4.02
 2026-10-28,18,DLBS,Dhaulagiri Laghubitta Bittiya Sanstha Limited,8123,1105.0,1105.0,42.7,4.02
