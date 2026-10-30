@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-10-30,20,SMH,Super Mai Hydropower Limited,9148,567.9,567.9,2.36,13.1,1.27,1.09
+2026-10-30,19,PSF,Prabhu Select Fund,4947,11.49,11.49,2.41,0.27,1.27,1.14
+2026-10-30,18,SLCF,Sanima Large Cap Fund,2923,9.68,9.68,2.43,0.23,1.27,1.16
+2026-10-30,17,RFPL,River Falls Power Limited,8066,374.0,374.0,2.52,9.2,1.27,1.25
+2026-10-30,16,NWCL,Nepal Warehousing Company Limited ,9233,537.0,537.0,2.52,13.2,1.27,1.25
+2026-10-30,15,NIBLGF,NIBL Growth Fund,9138,9.29,9.29,2.54,0.23,1.27,1.27
+2026-10-30,14,PCIL,Palpa Cement Industries Limited,9330,638.2,638.2,2.6,16.2,1.27,1.33
+2026-10-30,13,NSY,Nepal Life Samriddhi Lagani Yojana,9312,9.38,9.38,2.96,0.27,1.27,1.69
+2026-10-30,12,HEI,Himalayan Everest Insurance Limited,179,448.9,448.9,2.96,12.9,1.27,1.69
+2026-10-30,11,HRL,Himalayan Reinsurance Limited,9234,493.9,493.9,3.15,15.1,1.27,1.88
+2026-10-30,10,CFCL,Central Finance Co. Ltd.,245,605.9,605.9,3.54,20.7,1.27,2.27
+2026-10-30,9,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,292.0,292.0,3.55,10.0,1.27,2.28
+2026-10-30,8,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,173.0,173.0,3.59,6.0,1.27,2.32
+2026-10-30,7,MERO,Mero Microfinance Bittiya Sanstha Ltd.,1741,625.0,625.0,3.73,22.5,1.27,2.46
+2026-10-30,6,SFMF,Sunrise First Mutual Fund,2877,9.9,9.9,3.99,0.38,1.27,2.72
+2026-10-30,5,SAPDBL,Saptakoshi Development Bank Ltd,2860,585.0,585.0,5.44,30.2,1.27,4.17
+2026-10-30,4,GRDBL,Green Development Bank Ltd.,2744,947.0,947.0,6.64,59.0,1.27,5.37
+2026-10-30,3,LBBL,Lumbini Bikas Bank Ltd.,358,550.0,550.0,7.0,36.0,1.27,5.73
+2026-10-30,2,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1500.0,1500.0,12.11,162.0,1.27,10.84
+2026-10-30,1,BENH,Beni Hydropower Project Limited,9356,709.7,709.7,14.99,92.5,1.27,13.72
 2026-10-29,20,NMB,NMB Bank Limited,238,282.8,282.8,3.21,8.8,1.57,1.64
 2026-10-29,19,BGWT,Bhagawati Hydropower Development Company Limited,9214,530.0,530.0,3.21,16.5,1.57,1.64
 2026-10-29,18,LVF2,Laxmi Value Fund 2,9198,9.4,9.4,3.3,0.3,1.57,1.73

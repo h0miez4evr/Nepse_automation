@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-10-30,20,NICA,NIC Asia Bank Ltd.,139,331.0,308851
+2026-10-30,19,RIDI,Ridi Power Company Limited,610,341.8,339266
+2026-10-30,18,SONA,Sonapur Minerals And Oil Limited,9216,476.0,343651
+2026-10-30,17,NBL,Nepal Bank Limited,517,310.5,355633
+2026-10-30,16,NIBLGF,NIBL Growth Fund,9138,9.29,355717
+2026-10-30,15,ADBL,Agricultural Development Bank Limited,397,347.0,366409
+2026-10-30,14,LEC,Liberty Energy Company Limited,2903,240.0,406223
+2026-10-30,13,PHCL,Peoples Hydropower Company Limited,8133,364.0,420545
+2026-10-30,12,SHIVM,SHIVAM CEMENTS LTD,2809,705.0,428521
+2026-10-30,11,GVL,Green Ventures Limited,8045,582.2,443527
+2026-10-30,10,RHPL,RASUWAGADHI HYDROPOWER COMPANY LIMITED,2841,173.0,456633
+2026-10-30,9,NIMB,Nepal Investment Mega Bank Limited,132,211.5,462379
+2026-10-30,8,LSL,Laxmi Sunrise Bank Limited,141,281.0,477481
+2026-10-30,7,BHL,Balephi Hydropower Limited,8055,227.7,488222
+2026-10-30,6,MBL,Machhapuchhre Bank Limited,140,280.2,511046
+2026-10-30,5,CZBIL,Citizens Bank International Limited,348,229.0,552612
+2026-10-30,4,KBL,Kumari Bank Limited,142,239.0,598563
+2026-10-30,3,LBBL,Lumbini Bikas Bank Ltd.,358,550.0,712051
+2026-10-30,2,GBIME,Global IME Bank Limited,341,264.9,714114
+2026-10-30,1,GHL,Ghalemdi Hydro Limited,2806,332.3,835840
 2026-10-29,20,ADBL,Agricultural Development Bank Limited,397,348.9,344229
 2026-10-29,19,PCBL,Prime Commercial Bank Ltd.,357,281.5,349535
 2026-10-29,18,PRVU,Prabhu  Bank Limited,255,197.0,364407
