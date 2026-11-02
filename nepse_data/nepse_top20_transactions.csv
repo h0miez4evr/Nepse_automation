@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-11-02,20,BPCL,Butwal Power Company Limited,153,730.0,675
+2026-11-02,19,PRVU,Prabhu  Bank Limited,255,189.0,754
+2026-11-02,18,PCIL,Palpa Cement Industries Limited,9330,626.0,769
+2026-11-02,17,GVL,Green Ventures Limited,8045,570.0,773
+2026-11-02,16,SAHAS,Sahas Urja Limited,8021,728.0,782
+2026-11-02,15,HBL,Himalayan Bank Limited,134,203.0,811
+2026-11-02,14,LEC,Liberty Energy Company Limited,2903,236.0,823
+2026-11-02,13,SGHL,Sanigad Hydro Limited,9345,462.8,863
+2026-11-02,12,BHL,Balephi Hydropower Limited,8055,227.9,871
+2026-11-02,11,LBBL,Lumbini Bikas Bank Ltd.,358,541.0,901
+2026-11-02,10,API,Api Power Company Ltd.,697,338.3,944
+2026-11-02,9,PHCL,Peoples Hydropower Company Limited,8133,356.5,976
+2026-11-02,8,NIMB,Nepal Investment Mega Bank Limited,132,210.9,1021
+2026-11-02,7,KBL,Kumari Bank Limited,142,232.2,1042
+2026-11-02,6,NICA,NIC Asia Bank Ltd.,139,341.0,1238
+2026-11-02,5,SOHL,Solu Hydropower Limited,9311,648.0,1297
+2026-11-02,4,GHL,Ghalemdi Hydro Limited,2806,335.0,1478
+2026-11-02,3,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,460.0,1519
+2026-11-02,2,GBIME,Global IME Bank Limited,341,267.1,1553
+2026-11-02,1,BENH,Beni Hydropower Project Limited,9356,806.1,9411
 2026-10-30,20,CZBIL,Citizens Bank International Limited,348,229.0,747
 2026-10-30,19,API,Api Power Company Ltd.,697,344.4,782
 2026-10-30,18,PRVU,Prabhu  Bank Limited,255,194.3,796

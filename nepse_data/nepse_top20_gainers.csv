@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-02,20,SHL,Soaltee Hotel Limited,147,544.7,544.7,5.2,0.96
+2026-11-02,19,SINDU,Sindhu Bikash Bank Ltd,561,416.0,416.0,4.0,0.97
+2026-11-02,18,GIBF1,Global IME Balanced Fund-1,8106,10.3,10.3,0.1,0.98
+2026-11-02,17,SEF2,Siddhartha Equity Fund 2,9348,9.6,9.6,0.1,1.05
+2026-11-02,16,HLICF,HLI Large Cap Fund,9290,8.5,8.5,0.09,1.07
+2026-11-02,15,NBF3,Nabil Balanced Fund-3,8024,9.35,9.35,0.1,1.08
+2026-11-02,14,RMF1,RBB Mutual Fund 1,4968,9.3,9.3,0.1,1.09
+2026-11-02,13,SAHAS,Sahas Urja Limited,8021,728.0,728.0,9.0,1.25
+2026-11-02,12,PBD93,"6.25% Prime Bank Debenture, 2093",9354,1130.0,1130.0,14.0,1.25
+2026-11-02,11,GBILD84/85,"Global IME Bank Debenture, 2084/85",9168,1120.0,1120.0,14.0,1.27
+2026-11-02,10,MCHL,Menchhiyam Hydropower Limited,9175,259.9,259.9,3.9,1.52
+2026-11-02,9,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,325.0,325.0,5.0,1.56
+2026-11-02,8,GBBD85,"Garima Debenture, 2085",8033,1092.0,1092.0,16.8,1.56
+2026-11-02,7,RSY,Reliable Samriddhi Yojana,9259,9.69,9.69,0.17,1.79
+2026-11-02,6,UNL,Unilever Nepal Limited,219,49150.0,49150.0,1149.0,2.39
+2026-11-02,5,BPCL,Butwal Power Company Limited,153,730.0,730.0,17.7,2.48
+2026-11-02,4,NICA,NIC Asia Bank Ltd.,139,341.0,341.0,10.0,3.02
+2026-11-02,3,MHL,Mandakini Hydropower Limited,8102,495.7,495.7,25.7,5.47
+2026-11-02,2,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,460.0,460.0,37.1,8.77
+2026-11-02,1,BENH,Beni Hydropower Project Limited,9356,806.1,806.1,96.4,13.58
 2026-10-30,20,SMH,Super Mai Hydropower Limited,9148,567.9,567.9,13.1,2.36
 2026-10-30,19,PSF,Prabhu Select Fund,4947,11.49,11.49,0.27,2.41
 2026-10-30,18,SLCF,Sanima Large Cap Fund,2923,9.68,9.68,0.23,2.43
