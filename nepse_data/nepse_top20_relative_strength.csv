@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-11-03,20,TPC,Terhathum Power Company Limited,8022,388.5,388.5,2.24,8.5,1.03,1.21
+2026-11-03,19,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,394.0,394.0,2.34,9.0,1.03,1.31
+2026-11-03,18,KBL,Kumari Bank Limited,142,237.7,237.7,2.37,5.5,1.03,1.34
+2026-11-03,17,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,610.0,610.0,2.52,15.0,1.03,1.49
+2026-11-03,16,KAHL,Kalanga Hydro Limited,9346,435.0,435.0,2.59,11.0,1.03,1.56
+2026-11-03,15,BHL,Balephi Hydropower Limited,8055,233.9,233.9,2.63,6.0,1.03,1.6
+2026-11-03,14,MERO,Mero Microfinance Bittiya Sanstha Ltd.,1741,625.0,625.0,2.63,16.0,1.03,1.6
+2026-11-03,13,MANDU,Mandu Hydropower Limited,9212,840.0,840.0,2.69,22.0,1.03,1.66
+2026-11-03,12,SAGF,Sanima Growth Fund,9139,9.5,9.5,2.7,0.25,1.03,1.67
+2026-11-03,11,CSY,Citizens Santulit Yojana,9304,9.05,9.05,2.84,0.25,1.03,1.81
+2026-11-03,10,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1277.0,1277.0,2.98,37.0,1.03,1.95
+2026-11-03,9,NIBLGF,NIBL Growth Fund,9138,9.27,9.27,3.0,0.27,1.03,1.97
+2026-11-03,8,EBLD85,10.50% Everest Bank Limited Debenture 2085,8119,1141.3,1141.3,3.0,33.2,1.03,1.97
+2026-11-03,7,SGHL,Sanigad Hydro Limited,9345,477.0,477.0,3.07,14.2,1.03,2.04
+2026-11-03,6,LVF2,Laxmi Value Fund 2,9198,9.4,9.4,3.18,0.29,1.03,2.15
+2026-11-03,5,NICA,NIC Asia Bank Ltd.,139,352.0,352.0,3.23,11.0,1.03,2.2
+2026-11-03,4,TVCL,Trishuli Jal Vidhyut Company Limited ,9218,299.9,299.9,3.77,10.9,1.03,2.74
+2026-11-03,3,PSF,Prabhu Select Fund,4947,11.56,11.56,4.14,0.46,1.03,3.11
+2026-11-03,2,RFPL,River Falls Power Limited,8066,383.0,383.0,5.8,21.0,1.03,4.77
+2026-11-03,1,SIPD,Shikhar power Development Limited,9329,535.0,535.0,5.94,30.0,1.03,4.91
 2026-11-02,20,SHL,Soaltee Hotel Limited,147,544.7,544.7,0.96,5.2,1.46,-0.5
 2026-11-02,19,SINDU,Sindhu Bikash Bank Ltd,561,416.0,416.0,0.97,4.0,1.46,-0.49
 2026-11-02,18,GIBF1,Global IME Balanced Fund-1,8106,10.3,10.3,0.98,0.1,1.46,-0.48

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-11-03,20,PCBL,Prime Commercial Bank Ltd.,357,277.0,587
+2026-11-03,19,PCIL,Palpa Cement Industries Limited,9330,622.6,588
+2026-11-03,18,KAHL,Kalanga Hydro Limited,9346,435.0,592
+2026-11-03,17,SHL,Soaltee Hotel Limited,147,555.2,623
+2026-11-03,16,SMHL,Super Madi Hydropower Limited,9146,501.0,625
+2026-11-03,15,HBL,Himalayan Bank Limited,134,204.0,626
+2026-11-03,14,LSL,Laxmi Sunrise Bank Limited,141,276.9,648
+2026-11-03,13,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,610.0,655
+2026-11-03,12,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,453.0,673
+2026-11-03,11,NIMB,Nepal Investment Mega Bank Limited,132,213.0,676
+2026-11-03,10,GHL,Ghalemdi Hydro Limited,2806,333.3,693
+2026-11-03,9,BPCL,Butwal Power Company Limited,153,736.0,808
+2026-11-03,8,RFPL,River Falls Power Limited,8066,383.0,881
+2026-11-03,7,SOHL,Solu Hydropower Limited,9311,643.0,935
+2026-11-03,6,NICA,NIC Asia Bank Ltd.,139,352.0,987
+2026-11-03,5,BHL,Balephi Hydropower Limited,8055,233.9,1043
+2026-11-03,4,KBL,Kumari Bank Limited,142,237.7,1134
+2026-11-03,3,GBIME,Global IME Bank Limited,341,272.0,1251
+2026-11-03,2,SGHL,Sanigad Hydro Limited,9345,477.0,1272
+2026-11-03,1,BENH,Beni Hydropower Project Limited,9356,765.5,6080
 2026-11-02,20,BPCL,Butwal Power Company Limited,153,730.0,675
 2026-11-02,19,PRVU,Prabhu  Bank Limited,255,189.0,754
 2026-11-02,18,PCIL,Palpa Cement Industries Limited,9330,626.0,769

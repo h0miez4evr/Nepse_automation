@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-11-03,20,PHCL,Peoples Hydropower Company Limited,8133,360.9,201121
+2026-11-03,19,GVL,Green Ventures Limited,8045,571.1,205007
+2026-11-03,18,LEC,Liberty Energy Company Limited,2903,234.6,208813
+2026-11-03,17,CZBIL,Citizens Bank International Limited,348,224.0,222706
+2026-11-03,16,SANIMA,Sanima Bank Limited,171,408.0,223646
+2026-11-03,15,BPCL,Butwal Power Company Limited,153,736.0,263152
+2026-11-03,14,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,610.0,266124
+2026-11-03,13,PRVU,Prabhu  Bank Limited,255,190.0,301553
+2026-11-03,12,SHL,Soaltee Hotel Limited,147,555.2,301699
+2026-11-03,11,RFPL,River Falls Power Limited,8066,383.0,303968
+2026-11-03,10,NIMB,Nepal Investment Mega Bank Limited,132,213.0,335585
+2026-11-03,9,PRSF,Prabhu Smart Fund,9174,12.59,347000
+2026-11-03,8,NICA,NIC Asia Bank Ltd.,139,352.0,392052
+2026-11-03,7,GHL,Ghalemdi Hydro Limited,2806,333.3,426518
+2026-11-03,6,PCBL,Prime Commercial Bank Ltd.,357,277.0,438316
+2026-11-03,5,BHL,Balephi Hydropower Limited,8055,233.9,453436
+2026-11-03,4,LSL,Laxmi Sunrise Bank Limited,141,276.9,543836
+2026-11-03,3,PSF,Prabhu Select Fund,4947,11.56,578854
+2026-11-03,2,KBL,Kumari Bank Limited,142,237.7,814457
+2026-11-03,1,GBIME,Global IME Bank Limited,341,272.0,858587
 2026-11-02,20,JBBL,Jyoti Bikas Bank Limited,418,361.4,294984
 2026-11-02,19,PRVU,Prabhu  Bank Limited,255,189.0,305259
 2026-11-02,18,NMB,NMB Bank Limited,238,278.7,311036

@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,turnover_npr
+2026-11-03,20,LBBL,Lumbini Bikas Bank Ltd.,358,539.0,71759128.2
+2026-11-03,19,PHCL,Peoples Hydropower Company Limited,8133,360.9,71857447.2
+2026-11-03,18,MERO,Mero Microfinance Bittiya Sanstha Ltd.,1741,625.0,73879727.9
+2026-11-03,17,SOHL,Solu Hydropower Limited,9311,643.0,80807995.2
+2026-11-03,16,HDL,Himalayan Distillery Limited,235,1310.0,81733854.0
+2026-11-03,15,SANIMA,Sanima Bank Limited,171,408.0,90384557.2
+2026-11-03,14,BHL,Balephi Hydropower Limited,8055,233.9,105102200.3
+2026-11-03,13,SHIVM,SHIVAM CEMENTS LTD,2809,691.0,111389917.2
+2026-11-03,12,RFPL,River Falls Power Limited,8066,383.0,114487681.9
+2026-11-03,11,GVL,Green Ventures Limited,8045,571.1,117381368.8
+2026-11-03,10,PCBL,Prime Commercial Bank Ltd.,357,277.0,118505024.2
+2026-11-03,9,RSML,Reliance Spinning Mills Limited,9306,2648.0,132438732.7
+2026-11-03,8,NICA,NIC Asia Bank Ltd.,139,352.0,135309377.1
+2026-11-03,7,GHL,Ghalemdi Hydro Limited,2806,333.3,143075235.8
+2026-11-03,6,LSL,Laxmi Sunrise Bank Limited,141,276.9,148180170.4
+2026-11-03,5,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,610.0,159870980.4
+2026-11-03,4,SHL,Soaltee Hotel Limited,147,555.2,167411571.0
+2026-11-03,3,KBL,Kumari Bank Limited,142,237.7,191530739.2
+2026-11-03,2,BPCL,Butwal Power Company Limited,153,736.0,194467926.3
+2026-11-03,1,GBIME,Global IME Bank Limited,341,272.0,231452319.6
 2026-11-02,20,TAMOR,Sanima Middle Tamor Hydropower Limited,9156,595.0,107028693.2
 2026-11-02,19,JBBL,Jyoti Bikas Bank Limited,418,361.4,107056787.9
 2026-11-02,18,API,Api Power Company Ltd.,697,338.3,110174156.9
