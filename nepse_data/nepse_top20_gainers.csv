@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-04,20,SBCF,Sunrise Bluechip Fund,2937,9.22,9.22,0.15,1.65
+2026-11-04,19,NMBHF2,NMB Hybrid Fund L- II,9254,9.24,9.24,0.15,1.65
+2026-11-04,18,SGIC,Sanima GIC Insurance Limited,2908,389.0,389.0,7.1,1.86
+2026-11-04,17,IHL,Ingwa Hydropower Limited,9176,318.0,318.0,6.0,1.92
+2026-11-04,16,NIBD84,8.5% Nepal Investment Bank Debenture 2084,2931,1065.0,1065.0,25.0,2.4
+2026-11-04,15,BENH,Beni Hydropower Project Limited,9356,784.0,784.0,18.5,2.42
+2026-11-04,14,NCCD86,9.5% NCC Debenture 2086,2936,1160.0,1160.0,28.0,2.47
+2026-11-04,13,MND84/85,Muktinath Debenture 2084/85,4969,1099.9,1099.9,30.9,2.89
+2026-11-04,12,SBID89,9% Nepal SBI Bank Rinpatra 2089,9211,1188.0,1188.0,34.0,2.95
+2026-11-04,11,NMBUR93/94,NMB Energy Bond 4% - 2093/94 ,8105,939.3,939.3,27.3,2.99
+2026-11-04,10,NICD88,NIC ASIA Rinpatra 2088,7986,1124.7,1124.7,32.7,2.99
+2026-11-04,9,NIFRAGED,Nifra Green Energy Debenture 6% - 2088/89,9261,1072.3,1072.3,31.2,3.0
+2026-11-04,8,MKHC,Maya Khola Hydropower Company Limited,9149,264.0,264.0,8.0,3.13
+2026-11-04,7,MHL,Mandakini Hydropower Limited,8102,514.8,514.8,21.8,4.42
+2026-11-04,6,RBBD2088,7% RBBL Debenture 2088,9264,1097.0,1097.0,48.3,4.61
+2026-11-04,5,NRM,Nepal Republic Media Limited,9183,306.5,306.5,14.5,4.97
+2026-11-04,4,GCIL,Ghorahi Cement Industry Limited,9193,420.0,420.0,20.0,5.0
+2026-11-04,3,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,333.0,333.0,26.5,8.65
+2026-11-04,2,HRL,Himalayan Reinsurance Limited,9234,534.0,534.0,55.0,11.48
+2026-11-04,1,NRIC,Nepal Reinsurance Company Limited,2881,921.7,921.7,120.2,15.0
 2026-11-03,20,TPC,Terhathum Power Company Limited,8022,388.5,388.5,8.5,2.24
 2026-11-03,19,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,394.0,394.0,9.0,2.34
 2026-11-03,18,KBL,Kumari Bank Limited,142,237.7,237.7,5.5,2.37
