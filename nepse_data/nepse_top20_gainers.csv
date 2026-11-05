@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-05,20,DHPL,Dibyashwori Hydropower Ltd.,2754,273.0,273.0,3.0,1.11
+2026-11-05,19,VLUCL,Vision Lumbini Urja Company Limited ,9225,376.0,376.0,4.8,1.29
+2026-11-05,18,BENH,Beni Hydropower Project Limited,9356,794.1,794.1,10.1,1.29
+2026-11-05,17,SPHL,Sayapatri Hydropower Limited,8121,499.0,499.0,6.5,1.32
+2026-11-05,16,SPIL,Siddhartha Premier Insurance Limited,182,603.9,603.9,7.9,1.33
+2026-11-05,15,CFCL,Central Finance Co. Ltd.,245,605.0,605.0,8.0,1.34
+2026-11-05,14,NIBSF2,NIBL Samriddhi Fund -2,4949,8.95,8.95,0.12,1.36
+2026-11-05,13,SEF2,Siddhartha Equity Fund 2,9348,9.87,9.87,0.15,1.54
+2026-11-05,12,GBILD84/85,"Global IME Bank Debenture, 2084/85",9168,1115.0,1115.0,20.0,1.83
+2026-11-05,11,KDBY,Kumari Dhanabriddhi Yojana,8074,10.49,10.49,0.19,1.84
+2026-11-05,10,SIGS3,Siddhartha Investment Growth Scheme 3,9182,10.68,10.68,0.21,2.01
+2026-11-05,9,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,164,989.8,989.8,19.8,2.04
+2026-11-05,8,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,346.0,346.0,8.0,2.37
+2026-11-05,7,BGWT,Bhagawati Hydropower Development Company Limited,9214,507.0,507.0,11.8,2.38
+2026-11-05,6,MERO,Mero Microfinance Bittiya Sanstha Ltd.,1741,629.9,629.9,14.9,2.42
+2026-11-05,5,KEF,Kumari Equity Fund,2933,9.8,9.8,0.25,2.62
+2026-11-05,4,CBLD88,Civil Bank Debenture 2088,8043,1260.0,1260.0,33.0,2.69
+2026-11-05,3,AHL,Asian Hydropower Limited,9150,376.0,376.0,9.9,2.7
+2026-11-05,2,SNORL,Snow Rivers Limited,9344,804.9,804.9,22.4,2.86
+2026-11-05,1,KSY,Kumari Sabal Yojana,9241,9.38,9.38,0.27,2.96
 2026-11-04,20,SBCF,Sunrise Bluechip Fund,2937,9.22,9.22,0.15,1.65
 2026-11-04,19,NMBHF2,NMB Hybrid Fund L- II,9254,9.24,9.24,0.15,1.65
 2026-11-04,18,SGIC,Sanima GIC Insurance Limited,2908,389.0,389.0,7.1,1.86

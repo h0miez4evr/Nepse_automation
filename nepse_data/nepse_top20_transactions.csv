@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-11-05,20,LEC,Liberty Energy Company Limited,2903,231.3,440
+2026-11-05,19,HBL,Himalayan Bank Limited,134,201.8,447
+2026-11-05,18,HDHPC,Himal Dolakha Hydropower Company Limited,2880,214.8,449
+2026-11-05,17,CFCL,Central Finance Co. Ltd.,245,605.0,453
+2026-11-05,16,BHL,Balephi Hydropower Limited,8055,225.5,493
+2026-11-05,15,PHCL,Peoples Hydropower Company Limited,8133,353.0,511
+2026-11-05,14,SOHL,Solu Hydropower Limited,9311,627.7,521
+2026-11-05,13,SHIVM,SHIVAM CEMENTS LTD,2809,683.8,523
+2026-11-05,12,KBL,Kumari Bank Limited,142,231.0,537
+2026-11-05,11,MAKAR,Makar Jitumaya Suri Hydropower Limited,9166,445.0,565
+2026-11-05,10,GBIME,Global IME Bank Limited,341,265.2,682
+2026-11-05,9,GHL,Ghalemdi Hydro Limited,2806,324.0,701
+2026-11-05,8,CBBL,Chhimek Laghubitta Bittiya Sanstha Limited,164,989.8,805
+2026-11-05,7,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,330.0,897
+2026-11-05,6,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,346.0,902
+2026-11-05,5,NICA,NIC Asia Bank Ltd.,139,350.1,1021
+2026-11-05,4,HRL,Himalayan Reinsurance Limited,9234,514.0,1188
+2026-11-05,3,API,Api Power Company Ltd.,697,333.0,1224
+2026-11-05,2,NRIC,Nepal Reinsurance Company Limited,2881,919.0,1269
+2026-11-05,1,BENH,Beni Hydropower Project Limited,9356,794.1,2691
 2026-11-04,20,SHIVM,SHIVAM CEMENTS LTD,2809,685.0,545
 2026-11-04,19,HPPL,Himalayan Power Partner Ltd.,2767,422.4,567
 2026-11-04,18,KAHL,Kalanga Hydro Limited,9346,433.0,572
