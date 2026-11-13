@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-11-13,20,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1320.0,1320.0,2.09,27.0,1.06,1.03
+2026-11-13,19,NIBLSTF,NIBL Stable Fund,9244,8.83,8.83,2.32,0.2,1.06,1.26
+2026-11-13,18,NRM,Nepal Republic Media Limited,9183,307.0,307.0,2.33,7.0,1.06,1.27
+2026-11-13,17,MEPDL,Mount Everest Power Development Limited,9352,582.0,582.0,2.46,14.0,1.06,1.4
+2026-11-13,16,SABBL,Salapa Bikas Bank Limited,9305,814.9,814.9,2.5,19.9,1.06,1.44
+2026-11-13,15,BFC,Best Finance Company Ltd.,227,466.6,466.6,2.55,11.6,1.06,1.49
+2026-11-13,14,NLG,NLG Insurance Company Ltd.,559,508.0,508.0,2.63,13.0,1.06,1.57
+2026-11-13,13,SMH,Super Mai Hydropower Limited,9148,580.0,580.0,2.65,15.0,1.06,1.59
+2026-11-13,12,SIGS2,Siddhartha Investment Growth Scheme - 2,2859,9.96,9.96,2.68,0.26,1.06,1.62
+2026-11-13,11,SPHL,Sayapatri Hydropower Limited,8121,525.0,525.0,2.86,14.6,1.06,1.8
+2026-11-13,10,SHPC,Sanima Mai Hydropower Ltd.,591,575.0,575.0,2.99,16.7,1.06,1.93
+2026-11-13,9,BPCL,Butwal Power Company Limited,153,715.0,715.0,3.03,21.0,1.06,1.97
+2026-11-13,8,NMBHF2,NMB Hybrid Fund L- II,9254,9.5,9.5,3.26,0.3,1.06,2.2
+2026-11-13,7,PPCL,Panchthar Power Compant Limited,2813,355.0,355.0,3.35,11.5,1.06,2.29
+2026-11-13,6,CSY,Citizens Santulit Yojana,9304,9.16,9.16,3.39,0.3,1.06,2.33
+2026-11-13,5,SOPL,Sopan Pharmaceuticals Limited,9336,629.0,629.0,3.45,21.0,1.06,2.39
+2026-11-13,4,BENH,Beni Hydropower Project Limited,9356,873.0,873.0,3.93,33.0,1.06,2.87
+2026-11-13,3,AHL,Asian Hydropower Limited,9150,400.0,400.0,5.26,20.0,1.06,4.2
+2026-11-13,2,SPC,Samling Power Company Limited,8025,421.9,421.9,5.87,23.4,1.06,4.81
+2026-11-13,1,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,357.1,357.1,7.56,25.1,1.06,6.5
 2026-11-06,20,SPHL,Sayapatri Hydropower Limited,8121,510.4,510.4,2.28,11.4,1.01,1.27
 2026-11-06,19,MMF1,Mega Mutual Fund -1,8023,8.99,8.99,2.39,0.21,1.01,1.38
 2026-11-06,18,GRDBL,Green Development Bank Ltd.,2744,932.0,932.0,2.42,22.0,1.01,1.41
