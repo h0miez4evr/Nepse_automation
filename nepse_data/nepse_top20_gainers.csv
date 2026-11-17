@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-17,20,SBCF,Sunrise Bluechip Fund,2937,9.11,9.11,0.23,2.59
+2026-11-17,19,KHPL,Kalinchock Hydropower Limited,9334,636.0,636.0,17.1,2.76
+2026-11-17,18,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1418.8,1418.8,38.8,2.81
+2026-11-17,17,KAHL,Kalanga Hydro Limited,9346,437.0,437.0,12.0,2.82
+2026-11-17,16,SBID83,10.25% Nepal SBI Bank Debenture 2083,8110,1058.0,1058.0,30.0,2.92
+2026-11-17,15,ICFCD88,9% ICFC Finance Limited Debenture 2088,9249,1170.0,1170.0,33.7,2.97
+2026-11-17,14,LUK,Laxmi Unnati Kosh,2902,9.68,9.68,0.28,2.98
+2026-11-17,13,BOKD86,8.5% BOK Debenture 2086,4961,1129.9,1129.9,32.9,3.0
+2026-11-17,12,SPHL,Sayapatri Hydropower Limited,8121,541.0,541.0,16.0,3.05
+2026-11-17,11,PPCL,Panchthar Power Compant Limited,2813,366.0,366.0,11.0,3.1
+2026-11-17,10,MHCL,Molung Hydropower Company Limited,9158,294.1,294.1,9.0,3.16
+2026-11-17,9,C30MF,Citizens Super 30 Mutual Fund,9191,9.44,9.44,0.34,3.74
+2026-11-17,8,TPKHL,Taksar Pikhuwa Khola Hydropower Limited,9343,438.0,438.0,16.0,3.79
+2026-11-17,7,SGHL,Sanigad Hydro Limited,9345,492.0,492.0,18.0,3.8
+2026-11-17,6,MBLEF,MBL Equity Fund,9257,9.65,9.65,0.45,4.89
+2026-11-17,5,CFCL,Central Finance Co. Ltd.,245,630.0,630.0,30.0,5.0
+2026-11-17,4,MEPDL,Mount Everest Power Development Limited,9352,614.0,614.0,32.0,5.5
+2026-11-17,3,KEF,Kumari Equity Fund,2933,9.93,9.93,0.53,5.64
+2026-11-17,2,APHL,Appolo Hydropower Limited,9337,598.0,598.0,32.0,5.65
+2026-11-17,1,ULHC,Upper Lohore Khola Hydropower Company Limited,9208,359.0,359.0,38.0,11.84
 2026-11-13,20,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1320.0,1320.0,27.0,2.09
 2026-11-13,19,NIBLSTF,NIBL Stable Fund,9244,8.83,8.83,0.2,2.32
 2026-11-13,18,NRM,Nepal Republic Media Limited,9183,307.0,307.0,7.0,2.33
