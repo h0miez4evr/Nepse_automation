@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-11-18,20,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,353.0,353.0,1.41,4.9,0.9,0.51
+2026-11-18,19,NIMB,Nepal Investment Mega Bank Limited,132,206.0,206.0,1.48,3.0,0.9,0.58
+2026-11-18,18,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,2815,1009.9,1009.9,1.5,14.9,0.9,0.6
+2026-11-18,17,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,916.7,916.7,1.62,14.6,0.9,0.72
+2026-11-18,16,RBBF40,RBB Focus 40,9302,9.35,9.35,1.63,0.15,0.9,0.73
+2026-11-18,15,PSF,Prabhu Select Fund,4947,11.8,11.8,1.81,0.21,0.9,0.91
+2026-11-18,14,SKHEL,Suryakunda Hydro Electric Limited,9325,745.0,745.0,1.92,14.0,0.9,1.02
+2026-11-18,13,PRIN,Prabhu Insurance Ltd.,184,600.2,600.2,1.94,11.4,0.9,1.04
+2026-11-18,12,SMHL,Super Madi Hydropower Limited,9146,493.0,493.0,2.07,10.0,0.9,1.17
+2026-11-18,11,RSML,Reliance Spinning Mills Limited,9306,2730.0,2730.0,2.08,55.5,0.9,1.18
+2026-11-18,10,RBBD2088,7% RBBL Debenture 2088,9264,1115.0,1115.0,2.29,25.0,0.9,1.39
+2026-11-18,9,BENH,Beni Hydropower Project Limited,9356,856.4,856.4,2.32,19.4,0.9,1.42
+2026-11-18,8,SFMF,Sunrise First Mutual Fund,2877,10.15,10.15,2.53,0.25,0.9,1.63
+2026-11-18,7,SAIL,Shreenagar Agritech Industries Limited,9301,898.0,898.0,2.75,24.0,0.9,1.85
+2026-11-18,6,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2539.0,2539.0,2.92,72.0,0.9,2.02
+2026-11-18,5,GSY,Garima Samriddhi Yojana,9248,9.45,9.45,2.94,0.27,0.9,2.04
+2026-11-18,4,NMBD87/88,NMB Debenture 8.50% - 2087/88,4963,1107.0,1107.0,2.97,31.9,0.9,2.07
+2026-11-18,3,LEC,Liberty Energy Company Limited,2903,235.0,235.0,3.07,7.0,0.9,2.17
+2026-11-18,2,KSY,Kumari Sabal Yojana,9241,9.44,9.44,3.17,0.29,0.9,2.27
+2026-11-18,1,SLCF,Sanima Large Cap Fund,2923,9.51,9.51,3.26,0.3,0.9,2.36
 2026-11-17,20,SBCF,Sunrise Bluechip Fund,2937,9.11,9.11,2.59,0.23,1.31,1.28
 2026-11-17,19,KHPL,Kalinchock Hydropower Limited,9334,636.0,636.0,2.76,17.1,1.31,1.45
 2026-11-17,18,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1418.8,1418.8,2.81,38.8,1.31,1.5

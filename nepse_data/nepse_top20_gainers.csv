@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-18,20,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,353.0,353.0,4.9,1.41
+2026-11-18,19,NIMB,Nepal Investment Mega Bank Limited,132,206.0,206.0,3.0,1.48
+2026-11-18,18,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,2815,1009.9,1009.9,14.9,1.5
+2026-11-18,17,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,916.7,916.7,14.6,1.62
+2026-11-18,16,RBBF40,RBB Focus 40,9302,9.35,9.35,0.15,1.63
+2026-11-18,15,PSF,Prabhu Select Fund,4947,11.8,11.8,0.21,1.81
+2026-11-18,14,SKHEL,Suryakunda Hydro Electric Limited,9325,745.0,745.0,14.0,1.92
+2026-11-18,13,PRIN,Prabhu Insurance Ltd.,184,600.2,600.2,11.4,1.94
+2026-11-18,12,SMHL,Super Madi Hydropower Limited,9146,493.0,493.0,10.0,2.07
+2026-11-18,11,RSML,Reliance Spinning Mills Limited,9306,2730.0,2730.0,55.5,2.08
+2026-11-18,10,RBBD2088,7% RBBL Debenture 2088,9264,1115.0,1115.0,25.0,2.29
+2026-11-18,9,BENH,Beni Hydropower Project Limited,9356,856.4,856.4,19.4,2.32
+2026-11-18,8,SFMF,Sunrise First Mutual Fund,2877,10.15,10.15,0.25,2.53
+2026-11-18,7,SAIL,Shreenagar Agritech Industries Limited,9301,898.0,898.0,24.0,2.75
+2026-11-18,6,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2539.0,2539.0,72.0,2.92
+2026-11-18,5,GSY,Garima Samriddhi Yojana,9248,9.45,9.45,0.27,2.94
+2026-11-18,4,NMBD87/88,NMB Debenture 8.50% - 2087/88,4963,1107.0,1107.0,31.9,2.97
+2026-11-18,3,LEC,Liberty Energy Company Limited,2903,235.0,235.0,7.0,3.07
+2026-11-18,2,KSY,Kumari Sabal Yojana,9241,9.44,9.44,0.29,3.17
+2026-11-18,1,SLCF,Sanima Large Cap Fund,2923,9.51,9.51,0.3,3.26
 2026-11-17,20,SBCF,Sunrise Bluechip Fund,2937,9.11,9.11,0.23,2.59
 2026-11-17,19,KHPL,Kalinchock Hydropower Limited,9334,636.0,636.0,17.1,2.76
 2026-11-17,18,SMFBS,Swabhimaan Laghubitta Bittiya Sanstha Limited,2829,1418.8,1418.8,38.8,2.81
