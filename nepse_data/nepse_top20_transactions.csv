@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-11-19,20,HBL,Himalayan Bank Limited,134,198.8,415
+2026-11-19,19,RSML,Reliance Spinning Mills Limited,9306,2735.0,419
+2026-11-19,18,HRL,Himalayan Reinsurance Limited,9234,483.9,420
+2026-11-19,17,SHPC,Sanima Mai Hydropower Ltd.,591,556.0,421
+2026-11-19,16,HDHPC,Himal Dolakha Hydropower Company Limited,2880,210.0,429
+2026-11-19,15,SHIVM,SHIVAM CEMENTS LTD,2809,671.0,439
+2026-11-19,14,API,Api Power Company Ltd.,697,331.8,442
+2026-11-19,13,SHL,Soaltee Hotel Limited,147,564.8,494
+2026-11-19,12,SAHAS,Sahas Urja Limited,8021,724.0,498
+2026-11-19,11,SOHL,Solu Hydropower Limited,9311,617.1,555
+2026-11-19,10,GCIL,Ghorahi Cement Industry Limited,9193,343.4,569
+2026-11-19,9,PCIL,Palpa Cement Industries Limited,9330,580.0,648
+2026-11-19,8,CFCL,Central Finance Co. Ltd.,245,594.5,652
+2026-11-19,7,GBIME,Global IME Bank Limited,341,268.5,671
+2026-11-19,6,SGHL,Sanigad Hydro Limited,9345,487.9,708
+2026-11-19,5,PMLI,Prabhu Mahalaxmi Life Insurance Limited,2915,388.7,748
+2026-11-19,4,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,365.0,762
+2026-11-19,3,PHCL,Peoples Hydropower Company Limited,8133,369.0,898
+2026-11-19,2,BENH,Beni Hydropower Project Limited,9356,826.0,1143
+2026-11-19,1,NICA,NIC Asia Bank Ltd.,139,340.1,1386
 2026-11-18,20,BHL,Balephi Hydropower Limited,8055,223.6,407
 2026-11-18,19,API,Api Power Company Ltd.,697,331.2,408
 2026-11-18,18,SHPC,Sanima Mai Hydropower Ltd.,591,562.0,411

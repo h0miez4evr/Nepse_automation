@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,shares_traded
+2026-11-19,20,PCBL,Prime Commercial Bank Ltd.,357,270.9,122075
+2026-11-19,19,NHPC,National Hydro Power Company Limited,152,251.0,122715
+2026-11-19,18,BHL,Balephi Hydropower Limited,8055,220.4,129896
+2026-11-19,17,SHIVM,SHIVAM CEMENTS LTD,2809,671.0,134545
+2026-11-19,16,AKJCL,Ankhu Khola Jalvidhyut Company Ltd,2788,336.0,138564
+2026-11-19,15,SAHAS,Sahas Urja Limited,8021,724.0,153278
+2026-11-19,14,PMLI,Prabhu Mahalaxmi Life Insurance Limited,2915,388.7,153300
+2026-11-19,13,PRSF,Prabhu Smart Fund,9174,12.78,162656
+2026-11-19,12,KBL,Kumari Bank Limited,142,229.9,165835
+2026-11-19,11,GHL,Ghalemdi Hydro Limited,2806,323.9,167427
+2026-11-19,10,SHPC,Sanima Mai Hydropower Ltd.,591,556.0,170226
+2026-11-19,9,LSL,Laxmi Sunrise Bank Limited,141,272.9,183956
+2026-11-19,8,SANIMA,Sanima Bank Limited,171,402.7,195587
+2026-11-19,7,SHL,Soaltee Hotel Limited,147,564.8,205799
+2026-11-19,6,CFCL,Central Finance Co. Ltd.,245,594.5,210334
+2026-11-19,5,HDHPC,Himal Dolakha Hydropower Company Limited,2880,210.0,219444
+2026-11-19,4,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,365.0,227264
+2026-11-19,3,GBIME,Global IME Bank Limited,341,268.5,346179
+2026-11-19,2,PHCL,Peoples Hydropower Company Limited,8133,369.0,410654
+2026-11-19,1,NICA,NIC Asia Bank Ltd.,139,340.1,487633
 2026-11-18,20,BHL,Balephi Hydropower Limited,8055,223.6,130822
 2026-11-18,19,SHIVM,SHIVAM CEMENTS LTD,2809,663.5,132150
 2026-11-18,18,LSL,Laxmi Sunrise Bank Limited,141,270.0,133819

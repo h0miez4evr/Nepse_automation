@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-19,20,UNLB,Unique Nepal Laghubitta Bittiya Sanstha Limited,9140,1198.9,1198.9,22.9,1.95
+2026-11-19,19,SPDL,Synergy Power Development Ltd.,2759,351.0,351.0,7.0,2.03
+2026-11-19,18,PRIN,Prabhu Insurance Ltd.,184,613.0,613.0,12.8,2.13
+2026-11-19,17,PBLD87,8.5% Prabhu Bank Debenture 2087,4962,1111.0,1111.0,23.6,2.17
+2026-11-19,16,LVF2,Laxmi Value Fund 2,9198,9.3,9.3,0.2,2.2
+2026-11-19,15,PURE,Pure Energy Limited,9258,749.8,749.8,17.8,2.43
+2026-11-19,14,SANVI,Sanvi Energy Limited,9263,503.0,503.0,13.0,2.65
+2026-11-19,13,SHLB,Shrijanshil Laghubitta Bittiya Sanstha Limited,8132,1270.0,1270.0,33.4,2.7
+2026-11-19,12,C30MF,Citizens Super 30 Mutual Fund,9191,9.7,9.7,0.26,2.75
+2026-11-19,11,NBF3,Nabil Balanced Fund-3,8024,9.32,9.32,0.27,2.98
+2026-11-19,10,RMF2,RBB Mutual Fund 2,9178,9.66,9.66,0.28,2.99
+2026-11-19,9,SBID2090,7% Nepal SBI Bank Debenture 2090,9289,1122.7,1122.7,32.7,3.0
+2026-11-19,8,SHL,Soaltee Hotel Limited,147,564.8,564.8,17.8,3.25
+2026-11-19,7,MCHL,Menchhiyam Hydropower Limited,9175,261.0,261.0,8.4,3.33
+2026-11-19,6,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,365.0,365.0,12.0,3.4
+2026-11-19,5,BFC,Best Finance Company Ltd.,227,477.9,477.9,15.9,3.44
+2026-11-19,4,MHL,Mandakini Hydropower Limited,8102,521.9,521.9,22.3,4.46
+2026-11-19,3,GMLI,Guardian Micro Life Insurance Limited ,9246,891.9,891.9,40.9,4.81
+2026-11-19,2,BNT,Bottlers Nepal (Terai) Limited,213,12750.0,12750.0,679.6,5.63
+2026-11-19,1,BNL,Bottlers Nepal (Balaju) Limited,195,14840.0,14840.0,840.0,6.0
 2026-11-18,20,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,353.0,353.0,4.9,1.41
 2026-11-18,19,NIMB,Nepal Investment Mega Bank Limited,132,206.0,206.0,3.0,1.48
 2026-11-18,18,GMFBS,Ganapati Laghubitta Bittiya Sanstha Limited,2815,1009.9,1009.9,14.9,1.5
