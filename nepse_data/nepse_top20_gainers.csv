@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-20,20,PSF,Prabhu Select Fund,4947,11.98,11.98,0.21,1.78
+2026-11-20,19,NBF2,NABIL BALANCED FUND-2,2835,9.3,9.3,0.18,1.97
+2026-11-20,18,BHDC,Bindhyabasini Hydropower Development Company Limited,8075,439.0,439.0,9.0,2.09
+2026-11-20,17,BNHC,Buddha Bhumi Nepal Hydropower Company Limited,8032,264.9,264.9,5.6,2.16
+2026-11-20,16,SHEL,Singati Hydro Energy Limited,2934,314.7,314.7,6.7,2.18
+2026-11-20,15,SIGS2,Siddhartha Investment Growth Scheme - 2,2859,9.9,9.9,0.22,2.27
+2026-11-20,14,RSY,Reliable Samriddhi Yojana,9259,9.83,9.83,0.22,2.29
+2026-11-20,13,LSL,Laxmi Sunrise Bank Limited,141,279.5,279.5,6.6,2.42
+2026-11-20,12,NABILD2089,7% Nabil Debenture 2089,9299,1150.0,1150.0,27.5,2.45
+2026-11-20,11,NABILD87,9% Nabil Debenture 2087,9238,1160.0,1160.0,30.0,2.65
+2026-11-20,10,ECL,Everest Colour Limited,9347,1050.0,1050.0,28.9,2.83
+2026-11-20,9,NICSF,NIC Asia Select Fund 30,4967,9.05,9.05,0.25,2.84
+2026-11-20,8,HLICF,HLI Large Cap Fund,9290,8.54,8.54,0.24,2.89
+2026-11-20,7,GBIMESY2,Global IME Sammunat Yojana -2,9269,9.52,9.52,0.27,2.92
+2026-11-20,6,KBLD86,10.25% KBL Debenture 2086,2885,1156.7,1156.7,33.5,2.98
+2026-11-20,5,NMBD87/88,NMB Debenture 8.50% - 2087/88,4963,1140.2,1140.2,33.2,3.0
+2026-11-20,4,CIZBD90,10% Citizens Bank Debenture 2090,9231,1266.9,1266.9,36.9,3.0
+2026-11-20,3,MEHL,Manakamana Engineering Hydropower Limited,9203,253.4,253.4,8.4,3.43
+2026-11-20,2,BEDC,Bhugol Energy Development Company Limited,9171,306.0,306.0,12.5,4.26
+2026-11-20,1,DOLTI,Dolti Power Company Limited,9170,327.0,327.0,16.0,5.14
 2026-11-19,20,UNLB,Unique Nepal Laghubitta Bittiya Sanstha Limited,9140,1198.9,1198.9,22.9,1.95
 2026-11-19,19,SPDL,Synergy Power Development Ltd.,2759,351.0,351.0,7.0,2.03
 2026-11-19,18,PRIN,Prabhu Insurance Ltd.,184,613.0,613.0,12.8,2.13
