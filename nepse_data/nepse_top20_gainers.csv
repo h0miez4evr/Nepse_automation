@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-23,20,SBCF,Sunrise Bluechip Fund,2937,9.1,9.1,0.17,1.9
+2026-11-23,19,RFPL,River Falls Power Limited,8066,384.0,384.0,7.2,1.91
+2026-11-23,18,LLBS,Laxmi Laghubitta Bittiya Sanstha Ltd.,618,800.0,800.0,15.0,1.91
+2026-11-23,17,LBBL,Lumbini Bikas Bank Ltd.,358,530.0,530.0,10.0,1.92
+2026-11-23,16,MABEL,Mabilung Energy Limited,9287,507.9,507.9,9.9,1.99
+2026-11-23,15,GBIME,Global IME Bank Limited,341,276.0,276.0,5.6,2.07
+2026-11-23,14,KSBBL,Kamana Sewa Bikas Bank Limited,459,479.0,479.0,9.8,2.09
+2026-11-23,13,NMBD2085,10 % NMB DEBENTURE 2085,2850,1115.0,1115.0,23.0,2.11
+2026-11-23,12,MANDU,Mandu Hydropower Limited,9212,838.5,838.5,17.5,2.13
+2026-11-23,11,HIMSTAR,Him Star Urja Company Limited,9270,623.7,623.7,13.7,2.25
+2026-11-23,10,SAIL,Shreenagar Agritech Industries Limited,9301,890.0,890.0,20.0,2.3
+2026-11-23,9,NMB,NMB Bank Limited,238,284.0,284.0,6.8,2.45
+2026-11-23,8,NMBUR93/94,NMB Energy Bond 4% - 2093/94 ,8105,950.0,950.0,27.0,2.93
+2026-11-23,7,MBLD87,8.5% Machhapuchchhre Debenture 2087,7985,1114.4,1114.4,32.4,2.99
+2026-11-23,6,CCBD88,Century Debenture 2088,8068,1287.5,1287.5,37.5,3.0
+2026-11-23,5,SPDL,Synergy Power Development Ltd.,2759,359.9,359.9,10.9,3.12
+2026-11-23,4,RAWA,Rawa Energy Development Limited,9181,428.8,428.8,15.8,3.83
+2026-11-23,3,BUNGAL,Bungal Hydro Limited,9296,480.0,480.0,25.0,5.49
+2026-11-23,2,MHNL,Mountain Hydro Nepal Limited,2811,284.0,284.0,15.1,5.62
+2026-11-23,1,MCHL,Menchhiyam Hydropower Limited,9175,283.2,283.2,27.1,10.58
 2026-11-20,20,PSF,Prabhu Select Fund,4947,11.98,11.98,0.21,1.78
 2026-11-20,19,NBF2,NABIL BALANCED FUND-2,2835,9.3,9.3,0.18,1.97
 2026-11-20,18,BHDC,Bindhyabasini Hydropower Development Company Limited,8075,439.0,439.0,9.0,2.09

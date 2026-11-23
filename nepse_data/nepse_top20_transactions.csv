@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-11-23,20,KAHL,Kalanga Hydro Limited,9346,429.0,406
+2026-11-23,19,NBL,Nepal Bank Limited,517,312.0,407
+2026-11-23,18,BUNGAL,Bungal Hydro Limited,9296,480.0,436
+2026-11-23,17,MHNL,Mountain Hydro Nepal Limited,2811,284.0,452
+2026-11-23,16,PHCL,Peoples Hydropower Company Limited,8133,368.0,457
+2026-11-23,15,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,366.5,508
+2026-11-23,14,NIMB,Nepal Investment Mega Bank Limited,132,209.0,508
+2026-11-23,13,NMB,NMB Bank Limited,238,284.0,537
+2026-11-23,12,SOHL,Solu Hydropower Limited,9311,616.0,557
+2026-11-23,11,RFPL,River Falls Power Limited,8066,384.0,578
+2026-11-23,10,KBL,Kumari Bank Limited,142,235.3,595
+2026-11-23,9,LSL,Laxmi Sunrise Bank Limited,141,282.0,606
+2026-11-23,8,SGHL,Sanigad Hydro Limited,9345,478.2,619
+2026-11-23,7,API,Api Power Company Ltd.,697,332.0,710
+2026-11-23,6,PCIL,Palpa Cement Industries Limited,9330,529.0,716
+2026-11-23,5,HBL,Himalayan Bank Limited,134,203.0,729
+2026-11-23,4,GBIME,Global IME Bank Limited,341,276.0,1019
+2026-11-23,3,BENH,Beni Hydropower Project Limited,9356,785.0,1027
+2026-11-23,2,VLUCL,Vision Lumbini Urja Company Limited ,9225,319.0,1080
+2026-11-23,1,NICA,NIC Asia Bank Ltd.,139,330.0,1141
 2026-11-20,20,GHL,Ghalemdi Hydro Limited,2806,323.0,401
 2026-11-20,19,SAHAS,Sahas Urja Limited,8021,724.5,401
 2026-11-20,18,BHL,Balephi Hydropower Limited,8055,219.9,410

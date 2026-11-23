@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,closing_price,turnover_npr
+2026-11-23,20,SBL,Siddhartha Bank Limited,145,432.0,50002662.3
+2026-11-23,19,SMHL,Super Madi Hydropower Limited,9146,497.9,50376928.3
+2026-11-23,18,HPPL,Himalayan Power Partner Ltd.,2767,420.0,51464012.6
+2026-11-23,17,SANIMA,Sanima Bank Limited,171,406.9,52243488.9
+2026-11-23,16,NIMB,Nepal Investment Mega Bank Limited,132,209.0,54043354.2
+2026-11-23,15,SAHAS,Sahas Urja Limited,8021,726.0,60343410.3
+2026-11-23,14,GHL,Ghalemdi Hydro Limited,2806,323.7,60895657.9
+2026-11-23,13,RFPL,River Falls Power Limited,8066,384.0,62219518.9
+2026-11-23,12,NMB,NMB Bank Limited,238,284.0,67754732.5
+2026-11-23,11,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,366.5,74324602.7
+2026-11-23,10,API,Api Power Company Ltd.,697,332.0,75572602.1
+2026-11-23,9,CFCL,Central Finance Co. Ltd.,245,570.0,76303747.1
+2026-11-23,8,NRN,NRN Infrastructure and Development Limited,2898,1404.0,76702812.4
+2026-11-23,7,PHCL,Peoples Hydropower Company Limited,8133,368.0,77806924.0
+2026-11-23,6,RSML,Reliance Spinning Mills Limited,9306,2724.0,81652381.2
+2026-11-23,5,VLUCL,Vision Lumbini Urja Company Limited ,9225,319.0,123005946.2
+2026-11-23,4,KBL,Kumari Bank Limited,142,235.3,123346626.4
+2026-11-23,3,NICA,NIC Asia Bank Ltd.,139,330.0,125941742.5
+2026-11-23,2,LSL,Laxmi Sunrise Bank Limited,141,282.0,127622191.8
+2026-11-23,1,GBIME,Global IME Bank Limited,341,276.0,159352518.2
 2026-11-20,20,NIMB,Nepal Investment Mega Bank Limited,132,206.8,43527991.9
 2026-11-20,19,SANIMA,Sanima Bank Limited,171,406.5,44107196.9
 2026-11-20,18,PCBL,Prime Commercial Bank Ltd.,357,271.8,44637535.0
