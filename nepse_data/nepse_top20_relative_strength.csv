@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-11-24,20,HLICF,HLI Large Cap Fund,9290,8.49,8.49,2.29,0.19,1.04,1.25
+2026-11-24,19,LSL,Laxmi Sunrise Bank Limited,141,288.5,288.5,2.3,6.5,1.04,1.26
+2026-11-24,18,NMB,NMB Bank Limited,238,290.8,290.8,2.39,6.8,1.04,1.35
+2026-11-24,17,MLBL,Mahalaxmi Bikas Bank Ltd.,401,372.7,372.7,2.39,8.7,1.04,1.35
+2026-11-24,16,SMH,Super Mai Hydropower Limited,9148,587.9,587.9,2.42,13.9,1.04,1.38
+2026-11-24,15,KBLD86,10.25% KBL Debenture 2086,2885,1185.0,1185.0,2.45,28.3,1.04,1.41
+2026-11-24,14,HBL,Himalayan Bank Limited,134,208.0,208.0,2.46,5.0,1.04,1.42
+2026-11-24,13,GBIME,Global IME Bank Limited,341,282.8,282.8,2.46,6.8,1.04,1.42
+2026-11-24,12,SWASTIK,Swastik Laghubitta Bittiya Sanstha Limited,9295,1439.0,1439.0,2.63,36.9,1.04,1.59
+2026-11-24,11,NSY,Nepal Life Samriddhi Lagani Yojana,9312,9.3,9.3,2.65,0.24,1.04,1.61
+2026-11-24,10,KEF,Kumari Equity Fund,2933,9.99,9.99,2.67,0.26,1.04,1.63
+2026-11-24,9,RBBF40,RBB Focus 40,9302,9.45,9.45,2.72,0.25,1.04,1.68
+2026-11-24,8,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,376.7,376.7,2.78,10.2,1.04,1.74
+2026-11-24,7,HDL,Himalayan Distillery Limited,235,1362.0,1362.0,2.79,37.0,1.04,1.75
+2026-11-24,6,LVF2,Laxmi Value Fund 2,9198,9.39,9.39,2.96,0.27,1.04,1.92
+2026-11-24,5,CIZBD90,10% Citizens Bank Debenture 2090,9231,1272.0,1272.0,3.0,37.0,1.04,1.96
+2026-11-24,4,JSLBB,Janautthan Samudayic Laghubitta Bittya Sanstha Limited,695,896.2,896.2,3.01,26.2,1.04,1.97
+2026-11-24,3,CITY,City Hotel Limited,9173,310.3,310.3,3.09,9.3,1.04,2.05
+2026-11-24,2,MHNL,Mountain Hydro Nepal Limited,2811,293.7,293.7,3.42,9.7,1.04,2.38
+2026-11-24,1,ECL,Everest Colour Limited,9347,1076.9,1076.9,5.05,51.8,1.04,4.01
 2026-11-23,20,SBCF,Sunrise Bluechip Fund,2937,9.1,9.1,1.9,0.17,1.02,0.88
 2026-11-23,19,RFPL,River Falls Power Limited,8066,384.0,384.0,1.91,7.2,1.02,0.89
 2026-11-23,18,LLBS,Laxmi Laghubitta Bittiya Sanstha Ltd.,618,800.0,800.0,1.91,15.0,1.02,0.89

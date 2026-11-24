@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,total_trades
+2026-11-24,20,CITY,City Hotel Limited,9173,310.3,517
+2026-11-24,19,RFPL,River Falls Power Limited,8066,392.0,525
+2026-11-24,18,NBL,Nepal Bank Limited,517,317.9,582
+2026-11-24,17,CHL,Chhyangdi Hydropower Ltd.,2766,248.0,624
+2026-11-24,16,SGHC,Swet-Ganga Hydropower & Construction Limited ,8100,376.7,625
+2026-11-24,15,SOHL,Solu Hydropower Limited,9311,622.9,645
+2026-11-24,14,RSML,Reliance Spinning Mills Limited,9306,2743.8,659
+2026-11-24,13,SGHL,Sanigad Hydro Limited,9345,482.0,661
+2026-11-24,12,NIMB,Nepal Investment Mega Bank Limited,132,212.4,736
+2026-11-24,11,PHCL,Peoples Hydropower Company Limited,8133,376.0,782
+2026-11-24,10,KBL,Kumari Bank Limited,142,237.3,796
+2026-11-24,9,LSL,Laxmi Sunrise Bank Limited,141,288.5,852
+2026-11-24,8,HBL,Himalayan Bank Limited,134,208.0,946
+2026-11-24,7,API,Api Power Company Ltd.,697,323.0,1019
+2026-11-24,6,NMB,NMB Bank Limited,238,290.8,1041
+2026-11-24,5,HDL,Himalayan Distillery Limited,235,1362.0,1152
+2026-11-24,4,BENH,Beni Hydropower Project Limited,9356,798.0,1176
+2026-11-24,3,NICA,NIC Asia Bank Ltd.,139,324.9,1268
+2026-11-24,2,SHL,Soaltee Hotel Limited,147,561.6,1585
+2026-11-24,1,GBIME,Global IME Bank Limited,341,282.8,1930
 2026-11-23,20,KAHL,Kalanga Hydro Limited,9346,429.0,406
 2026-11-23,19,NBL,Nepal Bank Limited,517,312.0,407
 2026-11-23,18,BUNGAL,Bungal Hydro Limited,9296,480.0,436
