@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-25,20,NICAD2091,7% NIC ASIA Debenture 2091,9266,1124.7,1124.7,32.7,2.99
+2026-11-25,19,NHPC,National Hydro Power Company Limited,152,257.5,257.5,7.5,3.0
+2026-11-25,18,NWCL,Nepal Warehousing Company Limited ,9233,444.0,444.0,13.0,3.02
+2026-11-25,17,SPC,Samling Power Company Limited,8025,430.0,430.0,13.0,3.12
+2026-11-25,16,SHEL,Singati Hydro Energy Limited,2934,323.1,323.1,10.3,3.29
+2026-11-25,15,KKHC,Khanikhola Hydropower Co. Ltd.,2751,265.0,265.0,8.9,3.48
+2026-11-25,14,GLH,GreenLife Hydropower Limited,2924,267.6,267.6,9.6,3.72
+2026-11-25,13,SMJC,Sagarmatha Jalabidhyut Company Limited,9159,440.0,440.0,16.2,3.82
+2026-11-25,12,BENH,Beni Hydropower Project Limited,9356,828.8,828.8,30.8,3.86
+2026-11-25,11,UNHPL,Union Hydropower Limited,2831,370.0,370.0,15.1,4.25
+2026-11-25,10,SAPDBL,Saptakoshi Development Bank Ltd,2860,555.0,555.0,23.0,4.32
+2026-11-25,9,PMLI,Prabhu Mahalaxmi Life Insurance Limited,2915,373.0,373.0,16.0,4.48
+2026-11-25,8,CHL,Chhyangdi Hydropower Ltd.,2766,259.9,259.9,11.9,4.8
+2026-11-25,7,LSH12,LS Horizon 12,9350,9.66,9.66,0.45,4.89
+2026-11-25,6,SINDU,Sindhu Bikash Bank Ltd,561,392.0,392.0,19.0,5.09
+2026-11-25,5,SBCF,Sunrise Bluechip Fund,2937,9.51,9.51,0.48,5.32
+2026-11-25,4,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,913.0,913.0,48.2,5.57
+2026-11-25,3,KMCDB,Kalika Laghubitta Bittiya Sanstha Ltd,593,800.0,800.0,45.0,5.96
+2026-11-25,2,HURJA,Himalaya Urja Bikas Company Limited,2824,291.1,291.1,23.1,8.62
+2026-11-25,1,MKCL,Muktinath Krishi Company Limited,9230,677.0,677.0,67.0,10.98
 2026-11-24,20,HLICF,HLI Large Cap Fund,9290,8.49,8.49,0.19,2.29
 2026-11-24,19,LSL,Laxmi Sunrise Bank Limited,141,288.5,288.5,6.5,2.3
 2026-11-24,18,NMB,NMB Bank Limited,238,290.8,290.8,6.8,2.39
