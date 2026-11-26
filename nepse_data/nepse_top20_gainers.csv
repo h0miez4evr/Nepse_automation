@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,point_change,percentage_change
+2026-11-26,20,TPC,Terhathum Power Company Limited,8022,389.7,389.7,6.7,1.75
+2026-11-26,19,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,929.0,929.0,16.0,1.75
+2026-11-26,18,HLICF,HLI Large Cap Fund,9290,8.52,8.52,0.16,1.91
+2026-11-26,17,UPCL,UNIVERSAL POWER COMPANY LTD,2810,346.0,346.0,6.5,1.91
+2026-11-26,16,RHGCL,Rapti Hydro And General Construction Limited,8108,265.0,265.0,5.0,1.92
+2026-11-26,15,NIBD84,8.5% Nepal Investment Bank Debenture 2084,2931,1055.0,1055.0,19.9,1.92
+2026-11-26,14,NIFRAGED,Nifra Green Energy Debenture 6% - 2088/89,9261,1073.0,1073.0,21.9,2.08
+2026-11-26,13,GBILD84/85,"Global IME Bank Debenture, 2084/85",9168,1115.0,1115.0,24.0,2.2
+2026-11-26,12,BHCL,Bikash Hydropower Company Limited,9267,556.0,556.0,12.0,2.21
+2026-11-26,11,PPL,People's Power Limited,8122,324.8,324.8,8.8,2.78
+2026-11-26,10,MPFL,Multipurpose Finance Company  Limited,471,568.0,568.0,15.6,2.82
+2026-11-26,9,SAHAS,Sahas Urja Limited,8021,757.0,757.0,22.0,2.99
+2026-11-26,8,ENL,Emerging Nepal Limited,8034,477.0,477.0,14.0,3.02
+2026-11-26,7,APHL,Appolo Hydropower Limited,9337,579.0,579.0,17.0,3.02
+2026-11-26,6,ICFCD89,8% ICFC Finance Limited Debenture 2089,9327,1165.0,1165.0,38.9,3.45
+2026-11-26,5,NICSF,NIC Asia Select Fund 30,4967,9.23,9.23,0.34,3.82
+2026-11-26,4,HATHY,Hathway Investment Nepal Limited,9213,418.0,418.0,16.0,3.98
+2026-11-26,3,GMLI,Guardian Micro Life Insurance Limited ,9246,854.9,854.9,32.9,4.0
+2026-11-26,2,LUK,Laxmi Unnati Kosh,2902,9.73,9.73,0.4,4.29
+2026-11-26,1,UNLB,Unique Nepal Laghubitta Bittiya Sanstha Limited,9140,1246.9,1246.9,58.0,4.88
 2026-11-25,20,NICAD2091,7% NIC ASIA Debenture 2091,9266,1124.7,1124.7,32.7,2.99
 2026-11-25,19,NHPC,National Hydro Power Company Limited,152,257.5,257.5,7.5,3.0
 2026-11-25,18,NWCL,Nepal Warehousing Company Limited ,9233,444.0,444.0,13.0,3.02
