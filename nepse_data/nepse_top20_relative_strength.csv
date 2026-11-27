@@ -1,4 +1,24 @@
 trading_day,rank,symbol,security_name,security_id,last_traded_price,closing_price,percentage_change,point_change,market_avg_pct_change,relative_strength
+2026-11-27,20,PRIN,Prabhu Insurance Ltd.,184,599.0,599.0,1.84,10.8,1.16,0.68
+2026-11-27,19,NWCL,Nepal Warehousing Company Limited ,9233,443.5,443.5,1.95,8.5,1.16,0.79
+2026-11-27,18,GWFD83,12 % Goodwill Finance Limited Debenture 2083,2883,1070.0,1070.0,2.0,21.0,1.16,0.84
+2026-11-27,17,SAEF2,Sanima Equity Fund-2,9349,9.39,9.39,2.07,0.19,1.16,0.91
+2026-11-27,16,SBD87,8.5% Sanima Debenture 2087,2922,1130.0,1130.0,2.26,25.0,1.16,1.1
+2026-11-27,15,SLCF,Sanima Large Cap Fund,2923,9.5,9.5,2.37,0.22,1.16,1.21
+2026-11-27,14,MNMF2,Muktinath Mutual Fund 2,9358,9.2,9.2,2.45,0.22,1.16,1.29
+2026-11-27,13,SEF2,Siddhartha Equity Fund 2,9348,9.9,9.9,2.59,0.25,1.16,1.43
+2026-11-27,12,MLBBL,Mithila LaghuBitta Bittiya Sanstha Limited,601,917.9,917.9,2.66,23.8,1.16,1.5
+2026-11-27,11,NICBF,NIC Asia Balanced Fund,2863,9.5,9.5,2.7,0.25,1.16,1.54
+2026-11-27,10,C30MF,Citizens Super 30 Mutual Fund,9191,9.19,9.19,2.91,0.26,1.16,1.75
+2026-11-27,9,SCBD,10.30% Standard Chartered Bank Limited Debenture,9177,1115.0,1115.0,2.95,32.0,1.16,1.79
+2026-11-27,8,KSBBLD87,9% Kamana Sewa Bikas Bank Limited Debenture 2087,4948,1135.0,1135.0,2.99,32.9,1.16,1.83
+2026-11-27,7,NICD88,NIC ASIA Rinpatra 2088,7986,1134.0,1134.0,3.0,33.0,1.16,1.84
+2026-11-27,6,GBILD86/87,Global IME Bank Limited Debenture 2086/87,8004,1134.0,1134.0,3.0,33.0,1.16,1.84
+2026-11-27,5,MMKJL,Mathillo Mailun Khola Jalvidhyut Limited,9217,393.7,393.7,3.06,11.7,1.16,1.9
+2026-11-27,4,ULBSL,Upakar Laghubitta Bittiya Sanstha Limited,8063,2521.0,2521.0,3.13,76.5,1.16,1.97
+2026-11-27,3,BFC,Best Finance Company Ltd.,227,482.9,482.9,4.3,19.9,1.16,3.14
+2026-11-27,2,MANDU,Mandu Hydropower Limited,9212,880.0,880.0,4.76,40.0,1.16,3.6
+2026-11-27,1,NICA,NIC Asia Bank Ltd.,139,265.2,265.2,6.08,15.2,1.16,4.92
 2026-11-26,20,TPC,Terhathum Power Company Limited,8022,389.7,389.7,1.75,6.7,0.97,0.78
 2026-11-26,19,MLBS,Manushi Laghubitta Bittiya Sanstha Limited,8018,929.0,929.0,1.75,16.0,0.97,0.78
 2026-11-26,18,HLICF,HLI Large Cap Fund,9290,8.52,8.52,1.91,0.16,0.97,0.94
